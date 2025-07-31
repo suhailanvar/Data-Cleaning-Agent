@@ -44,13 +44,11 @@ venv.bak/
 # pyenv
 .python-version
 
-# Streamlit (allow config, exclude secrets)
-# .streamlit/  # Commented out to allow .streamlit directory
-.streamlit/secrets.toml  # Exclude actual secrets file
+# Streamlit
+.streamlit/
 
 # Log files
 *.log
-advanced_data_cleaner.log
 
 # Data files (comment out if you want to include sample data)
 # *.csv
@@ -77,4 +75,20 @@ Thumbs.db
 *.key
 secrets.json
 config.ini
+test_ui_logic.py
+test_extraction.py
+advanced_data_cleaner.log
+misc/cleaned_data.csv
+misc/compare_data.py
+misc/csv_cleaner_app_with_code_exec.py
+misc/ideal_clean_data.csv
+misc/show_examples.py
+misc/test_combined_approach.py
+misc/test_extraction.py
+misc/test_streamlit_ui.py
+.gitignore
+misc/test_ui_logic.py
+others/test1.py
+others/test2_ollama.py
+others/test2_openrouter.py
 others/unified_data_cleaner.py
