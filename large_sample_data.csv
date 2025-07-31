@@ -1,0 +1,51 @@
+CustomerID,FirstName,LastName,Email,Phone,Age,Gender,City,State,Country,ZipCode,Salary,Department,JoinDate,Status,LastLogin,ProjectsCompleted,Rating
+C001,John,Doe,john.doe@email.com,555-1234,25,Male,New York,NY,USA,10001,50000,Engineering,2022-01-15,Active,2024-07-20,5,4.2
+C002,Jane,Smith,jane.smith@gmail.com,555-5678,30,Female,Los Angeles,CA,USA,90210,65000,Marketing,2021-05-20,Active,2024-07-19,8,4.7
+C003,Bob,Johnson,,555-9012,UNKNOWN,Male,Chicago,IL,USA,60601,45000,Engineering,2023-03-10,Active,2024-07-18,3,3.8
+C004,Alice,Brown,alice.brown@email.com,,28,Female,Boston,MA,USA,02101,,Marketing,2022-08-05,Active,2024-07-17,12,4.9
+C005,Mike,Davis,mike.davis@gmail.com,555-7890,35,Male,Seattle,WA,USA,98101,75000,Sales,2020-12-01,Inactive,2024-06-15,15,4.3
+C006,Sarah,Wilson,sarah@email.com,555-2468,27,Female,Miami,FL,USA,33101,55000,Engineering,invalid_date,Active,2024-07-16,7,4.1
+C007,Tom,Anderson,tom.anderson@company.com,,32,Male,Denver,CO,USA,80201,60000,HR,2021-11-30,Active,2024-07-15,9,4.4
+C008,Lisa,Garcia,lisa.garcia@gmail.com,555-1357,29,Female,Austin,TX,USA,78701,58000,Marketing,2022-07-12,Active,2024-07-14,6,4.0
+C009,David,Miller,DAVID.MILLER@EMAIL.COM,555-8024,31,MALE,Portland,OR,USA,97201,70000,Sales,2020-09-15,Active,2024-07-13,11,4.6
+C010,Emma,Thompson,emma.thompson@gmail.com,555-9753,26,Female,Nashville,TN,USA,37201,52000,engineering,2023-01-08,Active,2024-07-12,4,3.9
+C011,Chris,Lee,chris.lee@company.com,555-4680,33,Male,Phoenix,AZ,USA,85001,68000,HR,2021-02-28,Active,2024-07-11,10,4.5
+C012,Amy,Johnson,amy@email.com,555-1590,24,Female,Orlando,FL,USA,32801,48000,Marketing,2023-05-17,Active,2024-07-10,2,3.7
+C013,Kevin,Brown,kevin.brown@gmail.com,555-7531,36,Male,San Diego,CA,USA,92101,80000,SALES,2019-10-22,Active,2024-07-09,18,4.8
+C014,Rachel,Davis,rachel.davis@email.com,555-3579,28,Female,Las Vegas,NV,USA,89101,56000,Engineering,2022-04-14,Active,2024-07-08,8,4.2
+C015,Mark,Wilson,mark.wilson@company.com,555-9513,30,Male,Atlanta,GA,USA,30301,62000,HR,2021-08-09,Inactive,2024-05-20,13,4.4
+C016,Jennifer,Taylor,jennifer.taylor@email.com,555-2580,27,Female,Salt Lake City,UT,USA,84101,54000,Engineering,2022-11-03,Active,2024-07-07,5,4.0
+C017,Robert,White,robert.white@gmail.com,,35,Male,Kansas City,MO,USA,64101,72000,Sales,2020-06-18,Active,2024-07-06,16,4.7
+C018,Michelle,Clark,michelle.clark@company.com,555-1472,29,Female,Pittsburgh,PA,USA,15201,59000,Marketing,2022-02-25,Active,2024-07-05,7,4.1
+C019,Steven,Lewis,steven.lewis@email.com,555-9630,33,Male,Richmond,VA,USA,23218,67000,Engineering,2021-09-12,Active,2024-07-04,9,4.3
+C020,Laura,Walker,laura.walker@gmail.com,555-8520,25,Female,Columbus,OH,USA,43215,51000,HR,2023-04-07,Active,2024-07-03,3,3.8
+C021,Anthony,Hall,anthony.hall@company.com,555-7410,32,,Milwaukee,WI,USA,53201,65000,Sales,2020-11-14,Active,2024-07-02,14,4.5
+C022,Jessica,Allen,jessica.allen@email.com,555-6300,28,Female,Memphis,TN,USA,38101,57000,Marketing,2022-06-30,Active,2024-07-01,6,4.0
+C023,Daniel,Young,daniel.young@gmail.com,555-5190,,Male,Louisville,KY,USA,40201,63000,Engineering,2021-12-05,Inactive,2024-06-01,12,4.6
+C024,Ashley,King,ashley.king@company.com,555-4080,26,Female,Buffalo,NY,USA,14201,53000,HR,2023-02-18,Active,2024-06-30,4,3.9
+C025,Matthew,Wright,matthew.wright@email.com,555-2970,34,Male,New Orleans,LA,USA,70112,71000,Sales,2020-08-03,Active,2024-06-29,17,4.8
+C026,Stephanie,Lopez,stephanie.lopez@gmail.com,,30,Female,Oklahoma City,OK,USA,73101,60000,Marketing,2022-01-27,Active,2024-06-28,8,4.2
+C027,Joshua,Hill,joshua.hill@company.com,555-0750,31,Male,Raleigh,NC,USA,27601,66000,Engineering,2021-07-11,Active,2024-06-27,10,4.4
+C028,Amanda,Scott,amanda.scott@email.com,555-9640,27,Female,Omaha,NE,USA,68101,55000,HR,2022-10-16,Active,2024-06-26,5,4.0
+C029,Andrew,Green,andrew.green@gmail.com,555-8530,29,Male,Tucson,AZ,USA,85701,61000,Sales,2021-03-22,Active,2024-06-25,11,4.3
+C030,Nicole,Adams,nicole.adams@company.com,555-7420,25,Female,Fresno,CA,USA,93701,49000,Marketing,2023-06-09,Active,2024-06-24,2,3.7
+C031,Ryan,Baker,ryan.baker@email.com,555-6310,33,Male,Long Beach,CA,USA,90801,69000,Engineering,2020-04-26,Active,2024-06-23,15,4.7
+C032,Heather,Gonzalez,heather.gonzalez@gmail.com,,28,Female,Mesa,AZ,USA,85201,58000,HR,2022-09-13,Active,2024-06-22,7,4.1
+C033,Jason,Nelson,jason.nelson@company.com,555-4090,32,Male,Virginia Beach,VA,USA,23451,64000,Sales,2021-01-08,Inactive,2024-04-15,13,4.5
+C034,Melissa,Carter,melissa.carter@email.com,555-2980,26,Female,Colorado Springs,CO,USA,80901,52000,Marketing,2023-03-24,Active,2024-06-21,3,3.8
+C035,Brandon,Mitchell,brandon.mitchell@gmail.com,555-1870,30,Male,Jacksonville,FL,USA,32099,62000,Engineering,2021-11-19,Active,2024-06-20,9,4.2
+C036,Kimberly,Perez,kimberly.perez@company.com,555-0760,29,Female,Detroit,MI,USA,48201,59000,HR,2022-05-06,Active,2024-06-19,6,4.0
+C037,Gary,Roberts,gary.roberts@email.com,,35,Male,El Paso,TX,USA,79901,73000,Sales,2020-02-12,Active,2024-06-18,16,4.6
+C038,Rebecca,Turner,rebecca.turner@gmail.com,555-8430,27,Female,Washington,DC,USA,20001,56000,Marketing,2022-12-01,Active,2024-06-17,4,3.9
+C039,Jonathan,Phillips,jonathan.phillips@company.com,555-7320,31,Male,Boston,MA,USA,02101,67000,Engineering,2021-08-14,Active,2024-06-16,10,4.4
+C040,Sara,Campbell,sara.campbell@email.com,555-6210,28,Female,Seattle,WA,USA,98101,58000,HR,2022-03-29,Active,2024-06-15,7,4.1
+C041,Eric,Parker,eric.parker@gmail.com,555-5100,32,Male,Denver,CO,USA,80201,65000,Sales,2020-12-07,Active,2024-06-14,14,4.5
+C042,Angela,Evans,angela.evans@company.com,,26,Female,Portland,OR,USA,97201,54000,Marketing,2023-01-21,Active,2024-06-13,3,3.8
+C043,Brian,Edwards,brian.edwards@email.com,555-2880,34,Male,Minneapolis,MN,USA,55401,70000,Engineering,2020-07-04,Active,2024-06-12,15,4.7
+C044,Samantha,Collins,samantha.collins@gmail.com,555-1770,25,Female,San Antonio,TX,USA,78201,50000,HR,2023-04-18,Active,2024-06-11,2,3.6
+C045,Gregory,Stewart,gregory.stewart@company.com,555-0660,33,Male,Phoenix,AZ,USA,85001,68000,Sales,2021-06-23,Active,2024-06-10,11,4.3
+C046,Janet,Sanchez,janet.sanchez@email.com,555-9550,29,Female,San Diego,CA,USA,92101,61000,Marketing,2022-01-15,Active,2024-06-09,8,4.2
+C047,Kenneth,Morris,kenneth.morris@gmail.com,,30,Male,Dallas,TX,USA,75201,63000,Engineering,2021-10-28,Inactive,2024-03-20,12,4.4
+C048,Deborah,Rogers,deborah.rogers@company.com,555-7330,27,Female,Austin,TX,USA,78701,55000,HR,2022-07-02,Active,2024-06-08,5,4.0
+C049,Paul,Reed,paul.reed@email.com,555-6220,31,Male,Fort Worth,TX,USA,76101,66000,Sales,2020-09-10,Active,2024-06-07,13,4.6
+C050,Sharon,Cook,sharon.cook@gmail.com,555-5110,28,Female,Charlotte,NC,USA,28201,57000,Marketing,2022-11-25,Active,2024-06-06,6,4.1

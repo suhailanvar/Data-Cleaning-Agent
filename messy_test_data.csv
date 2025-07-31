@@ -1,0 +1,1001 @@
+customer_id,name,email,phone,age,salary,department,hire_date,performance_score,address,city,state,zip_code,employee_status,last_review_date
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,tom LOPEZ,,,-38,,,,,,,,,,
+,robert GARCIA,,,-15,,,,,,,,,,
+,linda JOHNSON,,,-49,,,,,,,,,,
+,sarah WILLIAMS,,,-41,,,,,,,,,,
+,jennifer MARTINEZ,,,-5,,,,,,,,,,
+,michael RODRIGUEZ,,,-17,,,,,,,,,,
+,john HERNANDEZ,,,-47,,,,,,,,,,
+,elizabeth GONZALEZ,,,-18,,,,,,,,,,
+,emma MILLER,,,-11,,,,,,,,,,
+,tom RODRIGUEZ,,,-49,,,,,,,,,,
+,sarah WILSON,sarah.wilson,,-41,-69117,,08/01/2023,10,,chicago,Pennsylvania,,inactive,
+,elizabeth GONZALEZ,elizabeth.gonzalez,,-34,-30074,,05/11/2023,8,,los angeles,Pennsylvania,,terminated,
+,anna SMITH,anna.smith,,-16,-40322,,06/24/2020,9,,chicago,Illinois,,on leave,
+,elizabeth WILLIAMS,elizabeth.williams,,-17,-99163,,05/27/2023,9,,houston,Arizona,,on leave,
+,mary DAVIS,mary.davis,,-34,-89177,,09/04/2020,7,,philadelphia,New York,,inactive,
+,anna SMITH,anna.smith,,-5,-37716,,04/13/2021,6,,philadelphia,California,,inactive,
+,tom HERNANDEZ,tom.hernandez,,-32,-58080,,01/09/2023,7,,san diego,Texas,,on leave,
+,jennifer BROWN,jennifer.brown,,-7,-42704,,09/11/2023,9,,san antonio,California,,active,
+,sarah SMITH,sarah.smith,,-26,-74473,,08/11/2020,7,,san diego,Illinois,,on leave,
+,lisa JONES,lisa.jones,,-30,-62742,,06/03/2020,9,,new york,New York,,active,
+CUST_0049,anna WILLIAMS,anna.williams,(516) 597-8886,-14,-82565,sales,12/03/2020,9,36 First Street,phoenix,California,5673,on leave,
+CUST_0045,elizabeth HERNANDEZ,elizabeth.hernandez,(835) 598-3536,-13,-68890,hr,04/29/2020,10,8884 Main Street,philadelphia,New York,1821,on leave,
+CUST_0033,william WILLIAMS,william.williams,(158) 620-2312,-12,-38981,marketing,10/14/2023,7,6616 Main Street,houston,New York,2343,on leave,
+CUST_0043,william GARCIA,william.garcia,(367) 309-6147,-16,-64814,it,09/25/2020,8,7492 Park Road,los angeles,New York,8508,active,
+CUST_0005,elizabeth BROWN,elizabeth.brown,(618) 371-3170,-23,-39016,hr,01/26/2022,8,2585 First Street,phoenix,New York,5905,active,
+CUST_0009,tom JOHNSON,tom.johnson,(209) 860-3546,-18,-66930,hr,12/03/2021,7,4326 Second Avenue,san diego,Arizona,1832,active,
+CUST_0041,jennifer WILSON,jennifer.wilson,(383) 145-1058,-22,-47146,finance,11/26/2020,9,9039 Elm Street,san antonio,New York,2832,active,
+CUST_0045,david RODRIGUEZ,david.rodriguez,(136) 954-7049,-38,-49410,it,09/18/2020,6,5051 Park Road,new york,Pennsylvania,4441,inactive,
+CUST_0043,sarah GARCIA,sarah.garcia,(898) 673-7658,-40,-50257,hr,11/28/2020,7,6756 Main Street,chicago,Pennsylvania,7745,inactive,
+CUST_0018,lisa GONZALEZ,lisa.gonzalez,(818) 210-7267,-3,-91694,hr,02/12/2021,9,5729 Park Road,houston,Texas,1387,inactive,
+CUST_0026,  James   Jones  ,james.jones,(985) 171-5573,172,-96768,it,10/23/2023,10,5426 Main Street,los angeles,Arizona,3925,terminated,01/20/2023
+CUST_0007,  Jennifer   Garcia  ,jennifer.garcia,(846) 905-6139,177,-97033,marketing,02/27/2022,10,3115 Park Road,new york,Texas,1027,inactive,07/06/2023
+CUST_0028,  Mike   Hernandez  ,mike.hernandez,(438) 738-6143,192,-46334,finance,11/04/2022,8,6692 Park Road,san antonio,Arizona,3085,inactive,08/04/2023
+CUST_0043,  Robert   Hernandez  ,robert.hernandez,(866) 278-5930,175,-30053,finance,08/10/2021,7,7044 Maple Avenue,philadelphia,California,8238,on leave,12/12/2023
+CUST_0014,  William   Davis  ,william.davis,(912) 915-3780,192,-41114,finance,11/21/2022,10,5492 Main Street,houston,Arizona,4680,inactive,03/17/2023
+CUST_0002,  Jane   Brown  ,jane.brown,(586) 725-2193,179,-84321,hr,11/27/2023,9,8100 First Street,houston,Illinois,1090,active,08/06/2023
+CUST_0015,  Lisa   Gonzalez  ,lisa.gonzalez,(812) 630-8611,153,-62662,marketing,07/23/2022,7,7613 Elm Street,philadelphia,California,9270,on leave,10/08/2023
+CUST_0029,  Lisa   Lopez  ,lisa.lopez,(982) 586-8373,166,-62406,finance,12/03/2022,9,3920 Park Road,san diego,California,5681,inactive,05/20/2023
+CUST_0022,  James   Anderson  ,james.anderson,(653) 182-3267,159,-60311,it,11/22/2023,7,3506 Main Street,san antonio,Texas,6421,on leave,08/01/2023
+CUST_0004,  Chris   Wilson  ,chris.wilson,(530) 498-1320,198,-79857,legal,01/13/2020,8,4893 Maple Avenue,san antonio,Texas,9818,inactive,09/07/2023
+CUST_0015,  Tom   Miller  ,tom.miller,(597) 129-7371,171,-82994,engineering,08/15/2022,7,8752 Main Street,san antonio,New York,2375,on leave,03/11/2023
+CUST_0030,  Lisa   Smith  ,lisa.smith,(366) 488-6363,163,-89598,operations,11/22/2021,9,4559 Maple Avenue,san antonio,Arizona,2341,on leave,01/10/2023
+CUST_0048,  Elizabeth   Smith  ,elizabeth.smith,(458) 329-2124,199,-35276,sales,05/21/2021,7,334 Second Avenue,chicago,Texas,3068,on leave,12/09/2023
+CUST_0008,  Chris   Davis  ,chris.davis,(816) 362-7043,160,-45012,engineering,09/29/2021,6,9482 Main Street,phoenix,Texas,7498,inactive,02/08/2023
+CUST_0038,  Anna   Johnson  ,anna.johnson,(813) 891-5941,193,-45866,sales,12/12/2021,10,7019 Elm Street,philadelphia,California,9289,terminated,01/07/2023
+CUST_0027,  Linda   Johnson  ,linda.johnson,(543) 470-8532,195,-50052,it,12/26/2020,10,4426 Second Avenue,san diego,California,8136,terminated,06/15/2023
+CUST_0016,  Mike   Jones  ,mike.jones,(561) 349-8613,186,-79674,operations,02/28/2020,9,5326 Oak Avenue,san diego,Texas,6813,terminated,06/24/2023
+CUST_0018,  Tom   Rodriguez  ,tom.rodriguez,(110) 629-4130,155,-61635,it,09/27/2022,10,3938 Elm Street,san diego,California,8342,active,02/17/2023
+CUST_0019,  Anna   Miller  ,anna.miller,(808) 349-6016,192,-78368,legal,02/07/2023,10,5633 First Street,philadelphia,Pennsylvania,8434,terminated,06/06/2023
+CUST_0017,  Anna   Johnson  ,anna.johnson,(838) 297-6169,157,-54267,hr,03/19/2021,9,4531 Elm Street,phoenix,California,4180,terminated,04/27/2023
+CUST_0024,  Lisa   Jones  ,LISA.jones@COMPANY.COM,(114) 825-9751,158,"$65,954",sales,21-04-2020,-5,4787 Elm Street,  Chicago  ,ca,2680,  Active  ,10/21/2023
+CUST_0019,  Linda   Davis  ,LINDA.davis@COMPANY.COM,(551) 448-4020,153,"$63,092",legal,21-08-2020,-1,6566 First Street,  Los Angeles  ,ny,3485,  Inactive  ,10/16/2023
+CUST_0020,  Mike   Brown  ,MIKE.brown@COMPANY.COM,(221) 671-7818,188,"$108,135",hr,06-12-2022,-4,7382 First Street,  Phoenix  ,tx,6003,  Active  ,11/09/2023
+CUST_0048,  Sarah   Gonzalez  ,SARAH.gonzalez@COMPANY.COM,(312) 740-4457,166,"$116,563",marketing,17-11-2020,-2,2848 Second Avenue,  Los Angeles  ,il,1043,  On Leave  ,08/19/2023
+CUST_0045,  Linda   Jones  ,LINDA.jones@COMPANY.COM,(133) 337-5720,195,"$67,056",legal,25-05-2020,-2,4335 Maple Avenue,  Houston  ,tx,2880,  Inactive  ,11/28/2023
+CUST_0010,  Tom   Wilson  ,TOM.wilson@COMPANY.COM,(245) 173-1977,160,"$70,319",finance,18-06-2022,-1,7680 Elm Street,  Phoenix  ,tx,5460,  On Leave  ,08/13/2023
+CUST_0006,  Jane   Anderson  ,JANE.anderson@COMPANY.COM,(542) 852-6280,188,"$62,816",sales,06-07-2020,-2,9425 Second Avenue,  New York  ,az,1659,  Inactive  ,08/29/2023
+CUST_0034,  Michael   Anderson  ,MICHAEL.anderson@COMPANY.COM,(384) 285-8141,190,"$94,451",marketing,20-08-2022,-3,6691 Park Road,  Philadelphia  ,ca,3634,  Terminated  ,07/30/2023
+CUST_0045,  Linda   Jones  ,LINDA.jones@COMPANY.COM,(778) 510-1601,179,"$41,542",operations,31-05-2021,-3,1900 Maple Avenue,  San Antonio  ,ny,9889,  On Leave  ,07/31/2023
+CUST_0004,  Chris   Rodriguez  ,CHRIS.rodriguez@COMPANY.COM,(470) 737-9167,190,"$87,939",sales,20-02-2021,-3,8999 Oak Avenue,  Phoenix  ,ca,8941,  Active  ,01/15/2023
+CUST_0041,Anna2 Lopez,ANNA.lopez@COMPANY.COM,(262) 418-1224,0,"$102,384",it,09-07-2020,-2,1859 First Street,  Los Angeles  ,il,9165,  Terminated  ,09/18/2023
+CUST_0046,Tom2 Miller,TOM.miller@COMPANY.COM,(954) 594-8736,0,"$61,946",legal,02-02-2023,-2,6285 Oak Avenue,  Chicago  ,ca,5526,  On Leave  ,06/24/2023
+CUST_0033,Tom2 Wilson,TOM.wilson@COMPANY.COM,(102) 389-5891,0,"$106,931",legal,31-10-2020,-4,8825 First Street,  Philadelphia  ,pa,9903,  On Leave  ,08/22/2023
+CUST_0021,Chris2 Lopez,CHRIS.lopez@COMPANY.COM,(344) 685-7274,0,"$60,613",it,30-03-2020,-3,7750 Elm Street,  San Antonio  ,tx,3492,  On Leave  ,01/19/2023
+CUST_0009,William2 Martinez,WILLIAM.martinez@COMPANY.COM,(439) 990-2644,0,"$87,711",marketing,13-12-2022,-4,252 Elm Street,  Chicago  ,tx,3529,  Active  ,08/29/2023
+CUST_0017,James2 Martinez,JAMES.martinez@COMPANY.COM,(809) 507-2315,0,"$73,065",it,10-10-2021,-4,8865 Main Street,  Los Angeles  ,tx,5708,  Inactive  ,02/16/2023
+CUST_0028,Sarah2 Gonzalez,SARAH.gonzalez@COMPANY.COM,(748) 820-2646,0,"$88,153",engineering,22-11-2023,-3,475 Main Street,  Philadelphia  ,ny,5806,  Terminated  ,07/11/2023
+CUST_0028,David2 Brown,DAVID.brown@COMPANY.COM,(643) 521-3950,0,"$52,280",engineering,10-06-2020,-5,6268 Second Avenue,  Houston  ,ca,3344,  Inactive  ,08/25/2023
+CUST_0041,Tom2 Davis,TOM.davis@COMPANY.COM,(361) 782-1153,0,"$90,981",finance,19-10-2023,-5,2589 Main Street,  San Diego  ,pa,5901,  On Leave  ,12/20/2023
+CUST_0017,Michael2 Wilson,MICHAEL.wilson@COMPANY.COM,(409) 303-7302,0,"$93,335",marketing,30-04-2021,-4,9371 Park Road,  Phoenix  ,az,1359,  On Leave  ,05/21/2023
+cust-100,John2 Martinez,JOHN.martinez@COMPANY.COM,985.802.1803,0,"$109,482",  Legal  ,09-08-2021,-2,"  9947,  Maple Ave.  ",  Philadelphia  ,tx,93442-4115,  Terminated  ,12/14/2023
+cust-101,David2 Hernandez,DAVID.hernandez@COMPANY.COM,199.742.1645,0,"$70,492",  Legal  ,09-03-2020,-5,"  5978,  Elm St.  ",  Chicago  ,ca,48680-6352,  On Leave  ,03/31/2023
+cust-102,Chris2 Williams,CHRIS.williams@COMPANY.COM,905.652.6994,0,"$99,579",  Finance  ,02-12-2020,-3,"  7895,  Maple Ave.  ",  Phoenix  ,pa,25095-8673,  Active  ,03/14/2023
+cust-103,Anna2 Wilson,ANNA.wilson@COMPANY.COM,792.841.7511,0,"$103,048",  Operations  ,03-07-2020,-4,"  229,  Park Rd.  ",  Los Angeles  ,ca,58311-5295,  On Leave  ,11/23/2023
+cust-104,Mary2 Johnson,MARY.johnson@COMPANY.COM,791.339.8724,0,"$33,280",  Operations  ,03-06-2023,-2,"  1036,  Elm St.  ",  San Diego  ,az,95097-7689,  Active  ,03/13/2023
+cust-105,Jane2 Smith,JANE.smith@COMPANY.COM,411.604.2902,0,"$42,739",  HR  ,05-01-2023,-2,"  6368,  First St.  ",  Philadelphia  ,tx,86983-3531,  On Leave  ,12/02/2023
+cust-106,Sarah2 Wilson,SARAH.wilson@COMPANY.COM,601.730.7686,0,"$66,666",  Sales  ,14-11-2023,-3,"  3560,  First St.  ",  San Diego  ,tx,57537-2627,  Terminated  ,10/06/2023
+cust-107,Mary2 Smith,MARY.smith@COMPANY.COM,507.382.4109,0,"$46,011",  Legal  ,06-07-2020,-2,"  9784,  Main St.  ",  New York  ,pa,41925-3063,  Inactive  ,02/05/2023
+cust-108,Elizabeth2 Brown,ELIZABETH.brown@COMPANY.COM,700.321.4817,0,"$73,064",  Engineering  ,05-05-2023,-1,"  4543,  Maple Ave.  ",  Chicago  ,il,80807-5106,  Inactive  ,02/26/2023
+cust-109,John2 Williams,JOHN.williams@COMPANY.COM,115.466.4898,0,"$107,182",  Operations  ,02-02-2020,-2,"  4348,  Main St.  ",  Chicago  ,tx,78955-2862,  Active  ,09/01/2023
+cust-110,Michael2 Gonzalez,MICHAEL.gonzalez@COMPANY.COM,470.625.2786,0,"$89,245",  HR  ,13-06-2023,-1,"  8544,  Park Rd.  ",  San Diego  ,ny,17972-8847,  On Leave  ,08/07/2023
+cust-111,Sarah2 Davis,SARAH.davis@COMPANY.COM,829.554.2204,0,"$40,589",  Operations  ,30-05-2023,-2,"  1077,  Oak Ave.  ",  Phoenix  ,pa,59925-9692,  Terminated  ,08/21/2023
+cust-112,William2 Martinez,WILLIAM.martinez@COMPANY.COM,540.201.2874,0,"$115,814",  HR  ,30-05-2022,-4,"  3744,  First St.  ",  Philadelphia  ,ca,62262-7815,  Active  ,06/10/2023
+cust-113,Jennifer2 Garcia,JENNIFER.garcia@COMPANY.COM,781.361.7132,0,"$50,006",  Legal  ,17-05-2020,-1,"  1399,  Main St.  ",  San Antonio  ,ca,58843-3131,  Active  ,10/28/2023
+cust-114,Elizabeth2 Rodriguez,ELIZABETH.rodriguez@COMPANY.COM,437.786.3002,0,"$83,845",  Operations  ,24-09-2023,-4,"  843,  Park Rd.  ",  Phoenix  ,pa,23579-9313,  Inactive  ,03/21/2023
+cust-115,Linda2 Brown,LINDA.brown@COMPANY.COM,967.210.6736,0,"$102,910",  Operations  ,23-08-2020,-3,"  9407,  Oak Ave.  ",  San Antonio  ,ny,89822-5381,  Active  ,04/03/2023
+cust-116,Tom2 Lopez,TOM.lopez@COMPANY.COM,880.416.6567,0,"$76,009",  Sales  ,06-01-2021,-2,"  9279,  Elm St.  ",  San Antonio  ,ca,28595-1502,  Active  ,09/29/2023
+cust-117,Chris2 Miller,CHRIS.miller@COMPANY.COM,529.564.6585,0,"$50,631",  Operations  ,30-09-2021,-3,"  9300,  Second Ave.  ",  Los Angeles  ,ny,30392-3579,  Active  ,12/12/2023
+cust-118,Mike2 Jones,MIKE.jones@COMPANY.COM,553.777.7947,0,"$93,656",  Legal  ,28-04-2022,-3,"  3532,  Maple Ave.  ",  Los Angeles  ,pa,66349-2816,  Terminated  ,12/14/2023
+cust-119,Linda2 Rodriguez,LINDA.rodriguez@COMPANY.COM,783.415.1744,0,"$58,903",  IT  ,12-05-2023,-1,"  126,  Oak Ave.  ",  Phoenix  ,tx,27987-5186,  Terminated  ,06/17/2023
+cust-120,Sarah@ Smith#,  sarah.smith@company.com  ,609.864.8055,31 years,3167376,  IT  ,2022-12-26,3.8,"  8197,  Second Ave.  ",Philadelphia,CA,62044-1693,On Leave,2026-02-09
+cust-121,James@ Martinez#,  james.martinez@company.com  ,539.687.7626,65 years,8007741,  Finance  ,2020-08-23,2.6,"  5322,  Oak Ave.  ",San Diego,PA,21551-8155,Current,2026-05-05
+cust-122,Jennifer@ Martinez#,  jennifer.martinez@company.com  ,510.636.2288,45 years,6205543,  Operations  ,2021-03-29,2.3,"  2755,  Main St.  ",Los Angeles,TX,55793-6752,Active,2026-03-16
+cust-123,Tom@ Brown#,  tom.brown@company.com  ,277.716.3504,61 years,2264218,  Engineering  ,2023-07-10,3.0,"  9237,  Maple Ave.  ",San Diego,PA,92210-6179,Active,2026-08-29
+cust-124,Michael@ Hernandez#,  michael.hernandez@company.com  ,410.915.5500,57 years,1942411,  Operations  ,2022-11-05,1.3,"  7566,  First St.  ",New York,NY,58331-5703,Current,2026-11-27
+cust-125,Mike@ Martinez#,  mike.martinez@company.com  ,708.619.7299,49 years,1688246,  Legal  ,2023-03-16,3.6,"  5268,  Second Ave.  ",San Diego,IL,18109-8381,Current,2026-06-25
+cust-126,Mike@ Rodriguez#,  mike.rodriguez@company.com  ,761.276.1641,35 years,8344365,  Legal  ,2022-12-09,3.1,"  2601,  Park Rd.  ",Philadelphia,AZ,60779-7697,Terminated,2026-02-03
+cust-127,James@ Johnson#,  james.johnson@company.com  ,671.794.7333,38 years,5227787,  Engineering  ,2021-11-13,1.3,"  2318,  Park Rd.  ",Phoenix,TX,26901-2388,Terminated,2026-03-07
+cust-128,William@ Johnson#,  william.johnson@company.com  ,761.786.7937,52 years,7070468,  Sales  ,2022-01-12,2.2,"  3510,  Park Rd.  ",San Diego,TX,39693-3253,Terminated,2026-02-21
+cust-129,William@ Gonzalez#,  william.gonzalez@company.com  ,652.955.9626,22 years,6649968,  Engineering  ,2023-05-08,2.5,"  2659,  Oak Ave.  ",Chicago,CA,15726-7731,On Leave,2026-11-09
+cust-130,Emma@ Gonzalez#,  emma.gonzalez@company.com  ,866.902.8355,34 years,9959220,  HR  ,2021-09-25,4.9,"  7685,  Maple Ave.  ",Houston,PA,98907-8218,Fired,2026-07-15
+cust-131,William@ Rodriguez#,  william.rodriguez@company.com  ,528.265.4271,58 years,3321942,  Finance  ,2020-04-16,3.6,"  6082,  Second Ave.  ",Los Angeles,CA,47363-2374,Fired,2026-08-19
+cust-132,William@ Williams#,  william.williams@company.com  ,950.547.2502,34 years,8568671,  Operations  ,2020-02-24,2.7,"  6496,  Second Ave.  ",Philadelphia,TX,60615-2337,Active,2026-06-13
+cust-133,Sarah@ Wilson#,  sarah.wilson@company.com  ,831.765.6493,29 years,3308538,  Sales  ,2021-08-10,4.7,"  7741,  Elm St.  ",Chicago,CA,68799-1086,Current,2026-01-10
+cust-134,Tom@ Brown#,  tom.brown@company.com  ,955.253.9991,58 years,9854536,  IT  ,2020-08-15,4.1,"  3894,  Park Rd.  ",Los Angeles,NY,41252-7878,Active,2026-09-13
+cust-135,Elizabeth@ Smith#,  elizabeth.smith@company.com  ,747.627.4963,65 years,3408819,  Finance  ,2022-05-29,1.0,"  5781,  Oak Ave.  ",San Antonio,IL,97080-2402,Active,2026-07-19
+cust-136,Linda@ Smith#,  linda.smith@company.com  ,750.496.7116,36 years,1272499,  Operations  ,2020-05-18,2.4,"  1699,  Maple Ave.  ",Philadelphia,IL,15811-6772,On Leave,2026-12-23
+cust-137,Linda@ Hernandez#,  linda.hernandez@company.com  ,286.930.3209,24 years,8678589,  Sales  ,2021-08-23,1.8,"  3269,  Main St.  ",Philadelphia,AZ,77552-7524,Fired,2026-01-19
+cust-138,Chris@ Jones#,  chris.jones@company.com  ,465.982.1783,61 years,6568772,  Finance  ,2020-09-11,4.2,"  7160,  First St.  ",San Diego,TX,54438-4060,Terminated,2026-09-23
+cust-139,Tom@ Gonzalez#,  tom.gonzalez@company.com  ,184.844.7955,25 years,8224389,  Engineering  ,2023-01-22,2.2,"  1681,  Main St.  ",Philadelphia,AZ,50173-8305,On Leave,2026-06-29
+cust-140,Michael@ Smith#,  michael.smith@company.com  ,844.990.6776,59 years,8297090,  Finance  ,2023-08-02,4.9,"  940,  Main St.  ",San Antonio,PA,77251-3621,Current,2026-03-15
+cust-141,Michael@ Smith#,  michael.smith@company.com  ,229.168.4866,61 years,7145971,  Operations  ,2022-02-23,4.8,"  531,  Second Ave.  ",Chicago,CA,58623-7095,Inactive,2026-09-29
+cust-142,Mary@ Miller#,  mary.miller@company.com  ,421.765.5566,35 years,2903351,  Sales  ,2021-01-16,3.0,"  6341,  Second Ave.  ",Los Angeles,AZ,44116-8311,Fired,2026-12-22
+cust-143,Linda@ Brown#,  linda.brown@company.com  ,225.238.2213,48 years,3896693,  Legal  ,2020-06-28,4.2,"  5237,  Elm St.  ",Philadelphia,CA,82089-9882,Fired,2026-03-22
+cust-144,Lisa@ Gonzalez#,  lisa.gonzalez@company.com  ,470.620.4673,27 years,4371891,  Engineering  ,2021-04-29,4.2,"  431,  Park Rd.  ",Philadelphia,CA,82305-3126,Current,2026-02-03
+cust-145,Emma@ Miller#,  emma.miller@company.com  ,834.836.8842,53 years,7891998,  IT  ,2023-03-23,1.3,"  5195,  Elm St.  ",Los Angeles,CA,71057-9476,Inactive,2026-03-08
+cust-146,Jennifer@ Rodriguez#,  jennifer.rodriguez@company.com  ,989.156.3034,53 years,3567173,  Finance  ,2020-12-03,1.6,"  3695,  Park Rd.  ",Phoenix,CA,42847-4216,Terminated,2026-11-11
+cust-147,Elizabeth@ Johnson#,  elizabeth.johnson@company.com  ,614.756.3762,57 years,3586950,  Engineering  ,2023-09-11,3.5,"  9915,  Park Rd.  ",New York,NY,20646-1744,On Leave,2026-11-13
+cust-148,John@ Davis#,  john.davis@company.com  ,742.658.5745,61 years,6068298,  Legal  ,2021-05-16,4.2,"  6654,  Park Rd.  ",San Diego,CA,17852-3589,On Leave,2026-08-26
+cust-149,Chris@ Garcia#,  chris.garcia@company.com  ,721.247.6121,65 years,6357240,  Operations  ,2022-03-27,1.5,"  6071,  Second Ave.  ",Los Angeles,PA,41685-8642,Current,2026-05-17
+  CUST_0150  ,Michael Brown,  michael.brown@company.com  ,1605064858,21,5868949,IT,2023-06-14,2.7,2617 Maple Ave,Philadelphia,PA,04110,On Leave,2026-09-13
+  CUST_0151  ,Emma Davis,  emma.davis@company.com  ,1099541460,43,9479950,Legal,2021-05-08,1.9,5782 Main St,New York,AZ,09108,Fired,2026-10-02
+  CUST_0152  ,John Wilson,  john.wilson@company.com  ,5756663747,26,5437118,Operations,2022-04-05,2.5,6564 Main St,Houston,PA,05728,Current,2026-07-17
+  CUST_0153  ,William Davis,  william.davis@company.com  ,1510289448,24,7608607,Operations,2021-11-25,3.2,5991 Maple Ave,Chicago,TX,09341,Active,2026-01-20
+  CUST_0154  ,David Lopez,  david.lopez@company.com  ,2962750929,56,9648751,Enginering,2021-11-02,4.7,5219 Oak Ave,San Antonio,AZ,06511,Fired,2026-09-01
+  CUST_0155  ,John Garcia,  john.garcia@company.com  ,3702653209,56,8962302,Finance,2023-09-04,4.1,9478 Second Ave,Houston,NY,08871,Inactive,2026-12-15
+  CUST_0156  ,Anna Smith,  anna.smith@company.com  ,4008714405,30,1317716,Legal,2021-10-04,2.7,6766 Elm St,Houston,TX,09221,Inactive,2026-09-23
+  CUST_0157  ,Chris Rodriguez,  chris.rodriguez@company.com  ,8139209752,51,7322070,Operations,2020-12-20,2.8,8735 Park Rd,Philadelphia,AZ,08932,Terminated,2026-10-13
+  CUST_0158  ,Emma Brown,  emma.brown@company.com  ,9513743139,67,5848684,HR,2023-11-14,3.8,5195 First St,Philadelphia,AZ,05715,Current,2026-10-21
+  CUST_0159  ,Elizabeth Miller,  elizabeth.miller@company.com  ,5924077461,20,5825636,Markting,2021-12-10,4.7,4202 Elm St,San Diego,TX,04310,Fired,2026-03-12
+  CUST_0160  ,Sarah Martinez,sarah.martinez@invalid,2027708670,21,686,HR,2024-13-45,2,861 Main St,San Antonio,PA,08739,Active,2026-12-15
+  CUST_0161  ,David Smith,david.smith@invalid,5973319056,59,958,Legal,2024-13-45,4,3268 Maple Ave,Phoenix,PA,05676,Active,2026-02-15
+  CUST_0162  ,Anna Rodriguez,anna.rodriguez@invalid,4957687327,44,904,Enginering,2024-13-45,1,6505 Maple Ave,San Diego,IL,05742,Active,2026-01-05
+  CUST_0163  ,Emma Martinez,emma.martinez@invalid,3588933132,39,292,Legal,2024-13-45,5,8591 First St,Chicago,CA,05470,Inactive,2026-02-27
+  CUST_0164  ,James Williams,james.williams@invalid,8435100486,59,264,Enginering,2024-13-45,1,5524 Maple Ave,Phoenix,TX,03875,On Leave,2026-08-07
+  CUST_0165  ,William Garcia,william.garcia@invalid,5667503195,60,98,Enginering,2024-13-45,2,7823 Park Rd,Houston,NY,05272,On Leave,2026-05-01
+  CUST_0166  ,Michael Gonzalez,michael.gonzalez@invalid,6710697191,55,741,Sales,2024-13-45,3,5891 Elm St,Houston,NY,02936,On Leave,2026-06-07
+  CUST_0167  ,Lisa Miller,lisa.miller@invalid,8601409432,62,121,Finance,2024-13-45,3,3619 Oak Ave,Chicago,CA,03509,On Leave,2026-11-07
+  CUST_0168  ,Mary Miller,mary.miller@invalid,9215400091,66,551,HR,2024-13-45,2,9762 Maple Ave,Los Angeles,CA,09653,Terminated,2026-02-09
+  CUST_0169  ,Sarah Smith,sarah.smith@invalid,3304937838,28,336,Legal,2024-13-45,1,3366 Elm St,San Diego,CA,09361,On Leave,2026-01-29
+  CUST_0170  ,Michael Williams,michael.williams@invalid,7499349987,47,578,Sales,2024-13-45,5,7576 Elm St,Phoenix,NY,07487,Terminated,2026-01-02
+  CUST_0171  ,Chris Martinez,chris.martinez@invalid,1313659437,45,353,Markting,2024-13-45,5,988 Main St,San Diego,NY,05703,On Leave,2026-04-03
+  CUST_0172  ,David Gonzalez,david.gonzalez@invalid,9434381915,41,913,IT,2024-13-45,4,6185 First St,Los Angeles,IL,06697,Active,2026-04-02
+  CUST_0173  ,Elizabeth Miller,elizabeth.miller@invalid,3271361431,64,229,Sales,2024-13-45,1,4889 First St,San Antonio,TX,04762,Inactive,2026-08-24
+  CUST_0174  ,Mary Williams,mary.williams@invalid,2183906581,64,784,Markting,2024-13-45,1,6869 Second Ave,New York,TX,04376,Active,2026-02-21
+  CUST_0175  ,Jane Davis,jane.davis@invalid,1209063208,65,46,IT,2024-13-45,4,3840 Second Ave,Houston,NY,03295,Terminated,2026-04-30
+  CUST_0176  ,James Martinez,james.martinez@invalid,2377246195,37,898,Enginering,2024-13-45,5,3622 First St,Phoenix,AZ,01998,Inactive,2026-11-17
+  CUST_0177  ,Jennifer Rodriguez,jennifer.rodriguez@invalid,3128675098,40,965,IT,2024-13-45,5,5223 Elm St,San Antonio,TX,03444,Terminated,2026-07-12
+  CUST_0178  ,Lisa Gonzalez,lisa.gonzalez@invalid,7605351600,33,870,HR,2024-13-45,3,2366 Maple Ave,San Diego,NY,07761,On Leave,2026-10-13
+  CUST_0179  ,William Williams,william.williams@invalid,2668247132,34,209,Operations,2024-13-45,1,7370 Maple Ave,Philadelphia,CA,09775,Inactive,2026-01-27
+  CUST_0180  ,Tom Miller,tom.miller@invalid,3589530484,22,193,HR,2024-13-45,4,3423 Maple Ave,Philadelphia,AZ,01251,Inactive,2023-04-08
+  CUST_0181  ,Sarah Lopez,sarah.lopez@invalid,6173344564,33,566,Operations,2024-13-45,3,6237 First St,Philadelphia,AZ,05285,Terminated,2023-09-20
+  CUST_0182  ,Linda Davis,linda.davis@invalid,8901585274,31,380,Operations,2024-13-45,4,750 Second Ave,Houston,IL,01265,Terminated,2023-10-11
+  CUST_0183  ,Jennifer Jones,jennifer.jones@invalid,1654602021,39,236,IT,2024-13-45,5,4027 First St,Philadelphia,AZ,09005,On Leave,2023-08-24
+  CUST_0184  ,Lisa Lopez,lisa.lopez@invalid,8709361138,28,144,Legal,2024-13-45,2,8883 Elm St,New York,NY,02217,Active,2023-01-04
+  CUST_0185  ,Jennifer Williams,jennifer.williams@invalid,1993998848,63,155,Sales,2024-13-45,2,8286 First St,Philadelphia,NY,08916,On Leave,2023-01-09
+  CUST_0186  ,John Rodriguez,john.rodriguez@invalid,7664258343,18,18,Finance,2024-13-45,5,4698 Main St,San Antonio,IL,02753,Active,2023-09-26
+  CUST_0187  ,David Brown,david.brown@invalid,7556078550,70,363,Finance,2024-13-45,4,1295 Park Rd,San Antonio,CA,04984,Inactive,2023-06-03
+  CUST_0188  ,Mike Hernandez,mike.hernandez@invalid,1136083924,43,389,IT,2024-13-45,5,7799 Main St,New York,IL,02354,On Leave,2023-08-11
+  CUST_0189  ,James Martinez,james.martinez@invalid,5182609867,51,942,Sales,2024-13-45,2,3464 Maple Ave,San Diego,AZ,01762,Active,2023-12-17
+  CUST_0190  ,Tom Anderson,tom.anderson@invalid,3826557688,29,952,Operations,2024-13-45,1,3395 Second Ave,Chicago,TX,02260,Terminated,2023-03-25
+  CUST_0191  ,Anna Martinez,anna.martinez@invalid,6719736115,66,758,Enginering,2024-13-45,1,8205 Elm St,Philadelphia,NY,02600,On Leave,2023-04-29
+  CUST_0192  ,Mike Garcia,mike.garcia@invalid,7853087029,67,335,Sales,2024-13-45,3,7382 First St,Houston,PA,07150,On Leave,2023-04-06
+  CUST_0193  ,Robert Johnson,robert.johnson@invalid,1315708805,35,158,IT,2024-13-45,2,6384 Park Rd,Philadelphia,CA,02499,Active,2023-06-07
+  CUST_0194  ,Michael Garcia,michael.garcia@invalid,8564925592,24,136,Markting,2024-13-45,2,7062 First St,San Antonio,CA,01430,Active,2023-07-01
+  CUST_0195  ,Elizabeth Johnson,elizabeth.johnson@invalid,8664105957,42,13,Finance,2024-13-45,4,6354 Maple Ave,Los Angeles,TX,09537,Inactive,2023-12-17
+  CUST_0196  ,Robert Williams,robert.williams@invalid,5891280823,37,275,Legal,2024-13-45,2,1037 Oak Ave,San Antonio,AZ,07899,Terminated,2023-09-05
+  CUST_0197  ,Mike Garcia,mike.garcia@invalid,7979466538,56,632,HR,2024-13-45,4,1753 Oak Ave,Phoenix,NY,07483,Terminated,2023-11-14
+  CUST_0198  ,Robert Gonzalez,robert.gonzalez@invalid,8998080862,46,343,IT,2024-13-45,5,2231 Park Rd,Philadelphia,TX,08848,Terminated,2023-04-01
+  CUST_0199  ,Robert Garcia,robert.garcia@invalid,6336171726,42,288,IT,2024-13-45,3,1866 Second Ave,Houston,IL,01440,On Leave,2023-12-29
+CUST_0200,Chris Davis,chris.davis@company.com,+1-916-398-2133,70,83627,Legal,2026-03-13,3,3966 Park Rd,Chicago,TX,59412,Active,2023-08-18
+CUST_0201,Linda Martinez,linda.martinez@company.com,+1-510-647-9300,62,84827,Sales,2026-07-04,5,9730 Elm St,Los Angeles,CA,42536,Terminated,2023-03-27
+CUST_0202,Jane Martinez,jane.martinez@company.com,+1-760-793-7547,66,73463,IT,2026-02-24,1,1616 Park Rd,Houston,TX,68429,Terminated,2023-07-20
+CUST_0203,Michael Gonzalez,michael.gonzalez@company.com,+1-795-702-9199,27,75215,Sales,2026-09-05,1,4841 First St,Los Angeles,CA,28569,Terminated,2023-06-09
+CUST_0204,James Davis,james.davis@company.com,+1-903-311-9537,48,75652,Legal,2026-02-19,4,7413 Park Rd,Los Angeles,AZ,15856,Active,2023-01-12
+CUST_0205,James Hernandez,james.hernandez@company.com,+1-211-793-3692,65,61970,Engineering,2026-10-10,2,5423 Second Ave,San Antonio,CA,40389,On Leave,2023-11-19
+CUST_0206,Lisa Williams,lisa.williams@company.com,+1-755-773-8080,43,33826,HR,2026-08-19,5,7038 First St,New York,TX,36972,Terminated,2023-12-27
+CUST_0207,Mike Martinez,mike.martinez@company.com,+1-204-918-9796,29,77945,Operations,2026-04-11,4,1868 Park Rd,San Diego,PA,88246,On Leave,2023-11-09
+CUST_0208,Robert Martinez,robert.martinez@company.com,+1-216-456-6766,47,110918,Engineering,2026-12-11,3,9670 Main St,Chicago,PA,25448,Inactive,2023-06-06
+CUST_0209,Sarah Williams,sarah.williams@company.com,+1-482-810-3316,50,80916,IT,2026-11-02,2,9418 First St,San Antonio,IL,73788,Inactive,2023-10-12
+CUST_0210,Lisa Davis,lisa.davis@company.com,+1-395-243-4065,38,89113,Sales,2026-07-03,1,7940 Oak Ave,Houston,TX,83607,On Leave,2023-07-29
+CUST_0211,Linda Miller,linda.miller@company.com,+1-827-960-8272,49,51922,Marketing,2026-10-17,1,3614 Park Rd,New York,AZ,39470,Terminated,2023-03-28
+CUST_0212,Michael Martinez,michael.martinez@company.com,+1-860-891-9115,53,96952,Marketing,2026-10-21,1,4390 Maple Ave,Philadelphia,NY,67850,Inactive,2023-08-06
+CUST_0213,Sarah Lopez,sarah.lopez@company.com,+1-949-769-5055,37,34224,Legal,2026-05-15,3,1426 First St,Los Angeles,TX,37509,Terminated,2023-12-30
+CUST_0214,Jennifer Williams,jennifer.williams@company.com,+1-730-242-4385,70,57124,Sales,2026-10-19,3,8721 Park Rd,Chicago,PA,48356,Terminated,2023-10-21
+CUST_0215,Tom Wilson,tom.wilson@company.com,+1-626-795-2560,26,83948,Sales,2026-05-22,2,2175 Oak Ave,Chicago,PA,42447,On Leave,2023-09-08
+CUST_0216,David Martinez,david.martinez@company.com,+1-747-375-7786,42,89243,Marketing,2026-11-21,1,6601 Second Ave,Phoenix,PA,69597,On Leave,2023-06-17
+CUST_0217,John Wilson,john.wilson@company.com,+1-892-967-2526,64,90089,Operations,2026-02-02,5,6517 Oak Ave,San Antonio,TX,74843,Terminated,2023-06-15
+CUST_0218,Emma Garcia,emma.garcia@company.com,+1-660-691-3139,54,93614,Operations,2026-12-16,1,753 Main St,San Diego,NY,26284,Inactive,2023-08-14
+CUST_0219,Michael Smith,michael.smith@company.com,+1-538-307-3161,59,69566,Engineering,2026-05-21,1,5906 Park Rd,Los Angeles,PA,97098,Inactive,2023-01-27
+CUST_0220,Robert Hernandez,robert.hernandez@company.com,+1-412-843-4836,45,115915,Marketing,2026-12-27,1,18 Oak Ave,San Diego,CA,27393,Inactive,2023-09-23
+CUST_0221,Michael Smith,michael.smith@company.com,+1-108-812-6629,70,45806,IT,2026-12-22,2,7827 Main St,Houston,TX,21708,Active,2023-02-22
+CUST_0222,James Garcia,james.garcia@company.com,+1-406-240-7270,67,47451,Engineering,2026-02-05,5,9229 Main St,Chicago,CA,56030,Inactive,2023-11-18
+CUST_0223,David Anderson,david.anderson@company.com,+1-521-730-8248,31,41362,Marketing,2026-03-13,1,9660 Elm St,San Antonio,PA,66280,Terminated,2023-03-13
+CUST_0224,Anna Jones,anna.jones@company.com,+1-760-186-5065,53,108774,Finance,2026-12-20,1,4943 Oak Ave,Houston,TX,48737,Active,2023-05-03
+CUST_0225,Linda Miller,linda.miller@company.com,+1-215-346-9185,58,107847,Marketing,2026-09-28,1,5917 Park Rd,Chicago,TX,84498,On Leave,2023-07-07
+CUST_0226,Elizabeth Hernandez,elizabeth.hernandez@company.com,+1-276-881-8717,67,39567,Sales,2026-10-28,1,226 Park Rd,Houston,NY,17925,On Leave,2023-09-17
+CUST_0227,Emma Hernandez,emma.hernandez@company.com,+1-829-613-7806,45,82727,Marketing,2026-11-24,5,8809 Second Ave,Chicago,AZ,20957,Terminated,2023-02-10
+CUST_0228,William Anderson,william.anderson@company.com,+1-308-927-3545,52,72827,IT,2026-10-28,1,5082 Elm St,San Antonio,TX,17589,Inactive,2023-02-14
+CUST_0229,Jennifer Johnson,jennifer.johnson@company.com,+1-564-726-1901,37,117304,Engineering,2026-03-03,1,2249 Elm St,New York,IL,75065,Terminated,2023-09-25
+CUST_0230,William Gonzalez,william.gonzalez@company.com,+1-942-838-5247,28,78741,Engineering,2026-05-18,1,481 Park Rd,San Antonio,AZ,78662,Active,2023-05-15
+CUST_0231,Mike Davis,mike.davis@company.com,+1-566-623-6900,21,95484,Engineering,2026-07-08,2,4180 Maple Ave,Los Angeles,CA,39937,Active,2023-01-23
+CUST_0232,John Brown,john.brown@company.com,+1-147-583-6963,42,49671,Engineering,2026-01-19,5,6871 Oak Ave,Philadelphia,TX,64559,Terminated,2023-05-19
+CUST_0233,Mike Martinez,mike.martinez@company.com,+1-481-222-9225,61,36903,Engineering,2026-04-25,5,753 First St,Los Angeles,CA,47002,Terminated,2023-06-17
+CUST_0234,Mike Rodriguez,mike.rodriguez@company.com,+1-567-108-7044,30,68219,Finance,2026-11-15,2,7601 Park Rd,San Diego,TX,81638,Inactive,2023-03-19
+CUST_0235,John Anderson,john.anderson@company.com,+1-519-124-4817,52,75406,Sales,2026-06-21,1,6165 Maple Ave,Phoenix,CA,36895,Inactive,2023-08-03
+CUST_0236,Linda Smith,linda.smith@company.com,+1-245-828-5584,23,35754,HR,2026-09-24,4,6103 First St,Los Angeles,CA,76247,Inactive,2023-11-23
+CUST_0237,Robert Johnson,robert.johnson@company.com,+1-706-681-2020,45,116827,Engineering,2026-05-02,3,4277 Maple Ave,Philadelphia,TX,52762,Terminated,2023-08-20
+CUST_0238,Tom Brown,tom.brown@company.com,+1-176-307-3230,67,106638,Marketing,2026-03-21,1,2694 First St,San Diego,PA,63282,Active,2023-10-02
+CUST_0239,Mary Gonzalez,mary.gonzalez@company.com,+1-312-562-6051,47,64735,Marketing,2026-02-16,2,4985 Maple Ave,New York,TX,52964,Inactive,2023-02-16
+CUST_0240,Anna Garcia,anna.garcia@company.com,+1-505-625-1802,61,69169,Finance,2020-12-22,1,6626 Maple Ave,San Diego,TX,22415,On Leave,2023-02-22
+CUST_0241,David Johnson,david.johnson@company.com,+1-112-163-4641,26,55969,IT,2022-02-01,1,9541 Second Ave,Phoenix,CA,12857,Active,2023-04-12
+CUST_0242,Michael Gonzalez,michael.gonzalez@company.com,+1-231-194-6432,25,35596,Legal,2020-04-13,2,9403 First St,San Antonio,CA,13864,On Leave,2023-12-16
+CUST_0243,Jennifer Williams,jennifer.williams@company.com,+1-462-319-4066,35,66681,Legal,2020-10-31,1,4027 Elm St,Phoenix,CA,64000,On Leave,2023-02-01
+CUST_0244,Mike Jones,mike.jones@company.com,+1-492-240-7868,30,114233,HR,2023-07-15,5,320 First St,Philadelphia,CA,81371,On Leave,2023-06-26
+CUST_0245,William Garcia,william.garcia@company.com,+1-497-376-3946,19,71795,HR,2020-03-01,3,960 Maple Ave,San Diego,PA,86544,Inactive,2023-03-23
+CUST_0246,Sarah Brown,sarah.brown@company.com,+1-772-346-5366,52,37328,HR,2023-03-25,4,5814 Maple Ave,Chicago,IL,41005,Terminated,2023-12-24
+CUST_0247,Mary Anderson,mary.anderson@company.com,+1-705-128-6761,54,103873,Engineering,2023-02-27,2,8065 Second Ave,Phoenix,IL,74282,Active,2023-02-16
+CUST_0248,Jane Brown,jane.brown@company.com,+1-716-324-1326,51,92650,Sales,2021-11-10,5,3301 Maple Ave,Chicago,PA,33260,Terminated,2023-01-31
+CUST_0249,John Williams,john.williams@company.com,+1-700-821-3320,67,44538,Operations,2020-05-28,3,6482 Second Ave,Los Angeles,PA,49552,Terminated,2023-03-11
+CUST_0250,Lisa Lopez,lisa.lopez@company.com,558089,68,113789,Legal,2023-08-22,3,2855 Elm St,Philadelphia,TX,97232,Inactive,2023-07-13
+CUST_0251,Emma Lopez,emma.lopez@company.com,821942,36,46691,Engineering,2020-01-04,5,6416 Maple Ave,New York,IL,88956,Terminated,2023-11-10
+CUST_0252,Anna Hernandez,anna.hernandez@company.com,693022,24,95035,Engineering,2021-11-09,1,3900 Park Rd,Philadelphia,IL,93386,Active,2023-12-29
+CUST_0253,James Davis,james.davis@company.com,111949,34,57483,HR,2023-11-20,1,5743 Park Rd,Los Angeles,NY,16310,On Leave,2023-08-13
+CUST_0254,Jennifer Williams,jennifer.williams@company.com,534130,49,79638,Operations,2023-01-23,4,1662 Maple Ave,San Diego,TX,31319,On Leave,2023-02-07
+CUST_0255,Jane Jones,jane.jones@company.com,121053,38,64226,Marketing,2020-05-31,3,2788 First St,Chicago,CA,81702,Active,2023-06-23
+CUST_0256,Linda Lopez,linda.lopez@company.com,132498,45,115673,Engineering,2023-05-28,4,2574 Main St,Los Angeles,PA,36941,Inactive,2023-07-29
+CUST_0257,Elizabeth Lopez,elizabeth.lopez@company.com,865433,52,64768,Finance,2021-09-01,2,1572 Main St,San Antonio,CA,30131,Active,2023-07-04
+CUST_0258,John Miller,john.miller@company.com,191884,36,116772,Legal,2021-02-12,1,422 Oak Ave,Chicago,AZ,20739,On Leave,2023-03-01
+CUST_0259,Emma Gonzalez,emma.gonzalez@company.com,516774,48,94106,Finance,2020-07-05,5,6350 Oak Ave,Philadelphia,TX,58418,Inactive,2023-08-17
+CUST_0260,Jane Jones,jane.jones@company.com,561101,47,64524,HR,2021-07-04,5,1010 Oak Ave,Los Angeles,CA,97574,Terminated,2023-10-05
+CUST_0261,Jennifer Gonzalez,jennifer.gonzalez@company.com,718372,32,102561,Sales,2022-03-03,5,6859 Second Ave,San Diego,TX,72424,Terminated,2023-02-10
+CUST_0262,Robert Anderson,robert.anderson@company.com,995420,63,34551,Engineering,2020-09-03,4,2833 Oak Ave,Houston,TX,26539,Active,2023-08-05
+CUST_0263,Mike Hernandez,mike.hernandez@company.com,556542,30,112211,Engineering,2023-05-03,3,5239 Elm St,Los Angeles,CA,60868,On Leave,2023-10-10
+CUST_0264,James Wilson,james.wilson@company.com,389617,51,90051,Sales,2023-12-05,5,9627 Second Ave,San Antonio,CA,64321,Inactive,2023-03-17
+CUST_0265,Sarah Anderson,sarah.anderson@company.com,210766,54,43237,Finance,2023-01-01,3,6733 Park Rd,San Antonio,CA,84976,On Leave,2023-01-20
+CUST_0266,Lisa Jones,lisa.jones@company.com,522548,27,111034,IT,2020-03-20,4,5432 Elm St,Houston,NY,72287,Terminated,2023-07-10
+CUST_0267,John Garcia,john.garcia@company.com,957091,68,69722,Finance,2021-07-28,4,1610 Maple Ave,Houston,IL,49384,On Leave,2023-06-14
+CUST_0268,Tom Lopez,tom.lopez@company.com,537017,56,114614,Marketing,2021-01-19,4,3464 Maple Ave,San Antonio,CA,77698,Terminated,2023-01-29
+CUST_0269,William Gonzalez,william.gonzalez@company.com,266694,22,70779,IT,2020-10-04,5,9318 Main St,Chicago,TX,36309,Active,2023-05-08
+CUST_0270,Jane Davis,jane.davis@company.com,153015,41,56097,Finance,2022-01-24,4,8276 First St,Los Angeles,NY,41711,Terminated,2023-09-08
+CUST_0271,Michael Williams,michael.williams@company.com,597635,55,102264,Operations,2021-12-06,2,4238 Elm St,Los Angeles,AZ,13597,On Leave,2023-01-26
+CUST_0272,Lisa Wilson,lisa.wilson@company.com,700056,67,58091,HR,2023-08-18,2,3388 Park Rd,San Antonio,NY,99417,Active,2023-08-31
+CUST_0273,David Hernandez,david.hernandez@company.com,281614,56,31109,HR,2021-05-31,5,5005 Elm St,Phoenix,TX,59345,Terminated,2023-08-24
+CUST_0274,Tom Brown,tom.brown@company.com,589368,37,118761,IT,2023-04-12,1,121 Second Ave,Philadelphia,AZ,49121,Active,2023-09-04
+CUST_0275,Mike Garcia,mike.garcia@company.com,389913,58,72616,Finance,2021-06-18,3,3087 Oak Ave,Houston,NY,88647,On Leave,2023-12-05
+CUST_0276,James Hernandez,james.hernandez@company.com,246726,64,33336,Legal,2021-08-28,3,6858 First St,San Antonio,NY,86418,Inactive,2023-06-25
+CUST_0277,Anna Hernandez,anna.hernandez@company.com,660605,58,92355,Operations,2022-11-04,3,2786 Maple Ave,Chicago,AZ,22793,On Leave,2023-03-07
+CUST_0278,Tom Lopez,tom.lopez@company.com,947609,53,53995,Operations,2023-09-02,1,3642 Park Rd,Houston,AZ,65112,Terminated,2023-07-10
+CUST_0279,Tom Martinez,tom.martinez@company.com,408334,47,45437,Legal,2020-04-19,5,9508 Second Ave,Los Angeles,CA,35499,Active,2023-12-15
+CUST_0280,Robert Rodriguez,robert.rodriguez@company.com,412848,44,37086,Engineering,2020-10-08,2,5615 First St,San Diego,IL,51469,Inactive,2023-02-11
+CUST_0281,Linda Garcia,linda.garcia@company.com,761685,29,71079,Sales,2020-01-10,4,4482 Oak Ave,Chicago,IL,74169,Active,2023-03-08
+CUST_0282,Jennifer Hernandez,jennifer.hernandez@company.com,550268,43,86233,Legal,2022-02-24,1,619 Second Ave,Houston,PA,11845,Terminated,2023-09-29
+CUST_0283,Chris Smith,chris.smith@company.com,809621,18,112141,HR,2021-04-08,3,5114 Oak Ave,Los Angeles,TX,75973,Terminated,2023-03-27
+CUST_0284,Mike Wilson,mike.wilson@company.com,147939,37,68119,Legal,2022-12-01,5,8588 Park Rd,San Antonio,IL,54922,On Leave,2023-07-03
+CUST_0285,Chris Williams,chris.williams@company.com,951452,43,32506,HR,2021-04-04,2,3461 Elm St,New York,IL,26143,Terminated,2023-12-31
+CUST_0286,Jane Miller,jane.miller@company.com,771425,34,100088,Sales,2023-05-01,1,1772 Elm St,New York,NY,25176,On Leave,2023-08-16
+CUST_0287,Robert Johnson,robert.johnson@company.com,673867,34,92180,Engineering,2021-02-24,1,4934 First St,Los Angeles,AZ,91631,Inactive,2023-08-03
+CUST_0288,Sarah Rodriguez,sarah.rodriguez@company.com,853681,57,45431,Finance,2020-08-21,1,8155 Oak Ave,Houston,AZ,78569,Inactive,2023-07-03
+CUST_0289,Jennifer Jones,jennifer.jones@company.com,268163,20,101845,Legal,2021-03-01,4,5417 Oak Ave,New York,NY,98032,Active,2023-02-26
+CUST_0290,Linda Williams,linda.williams@company.com,194458,67,97070,Marketing,2020-07-26,3,3788 First St,Phoenix,AZ,70853,Active,2023-02-21
+CUST_0291,Lisa Wilson,lisa.wilson@company.com,141360,36,77214,Operations,2022-05-22,1,1557 Maple Ave,New York,NY,28139,Inactive,2023-06-18
+CUST_0292,Mary Anderson,mary.anderson@company.com,558976,57,65167,Marketing,2022-02-02,3,2997 Main St,San Antonio,TX,69839,Terminated,2023-07-17
+CUST_0293,Linda Gonzalez,linda.gonzalez@company.com,542226,59,51860,Marketing,2020-09-28,1,2612 Main St,San Antonio,CA,84572,On Leave,2023-04-03
+CUST_0294,Robert Gonzalez,robert.gonzalez@company.com,476018,57,33777,Engineering,2022-09-16,4,1851 First St,San Diego,NY,18301,Terminated,2023-12-02
+CUST_0295,James Smith,james.smith@company.com,838793,61,98788,HR,2023-10-03,3,8505 Second Ave,Los Angeles,TX,96732,Inactive,2023-09-04
+CUST_0296,Mary Hernandez,mary.hernandez@company.com,809147,59,80446,Engineering,2023-02-17,5,895 Main St,Chicago,CA,74990,Inactive,2023-02-08
+CUST_0297,Linda Garcia,linda.garcia@company.com,352593,39,66458,Sales,2022-11-04,2,9020 Elm St,San Antonio,TX,40801,Active,2023-08-24
+CUST_0298,Michael Gonzalez,michael.gonzalez@company.com,700870,46,41536,Legal,2022-07-04,3,1945 First St,New York,CA,62879,On Leave,2023-01-19
+CUST_0299,Elizabeth Rodriguez,elizabeth.rodriguez@company.com,100177,70,41913,Finance,2022-11-07,5,3390 Elm St,San Diego,PA,57624,Active,2023-04-25
+CUST_0300,Michael Garcia,michael.garcia@company.com,673-885-8751,63,116136,Operations,2022-07-15,1,1597 Maple Ave,Houston,NY,54742,Terminated,2023-11-21
+CUST_0301,Emma Rodriguez,emma.rodriguez@company.com,634-482-2741,20,51516,Legal,2020-10-14,4,1753 Park Rd,Houston,TX,25826,On Leave,2023-04-21
+CUST_0302,Michael Wilson,michael.wilson@company.com,900-295-6536,24,84325,Sales,2023-07-20,5,2019 Maple Ave,San Diego,CA,96305,Inactive,2023-09-13
+CUST_0303,John Rodriguez,john.rodriguez@company.com,853-149-8091,55,93298,Engineering,2023-11-17,5,2846 Elm St,Chicago,CA,60778,Terminated,2023-09-16
+CUST_0304,Robert Miller,robert.miller@company.com,723-809-5067,35,82149,Operations,2021-08-25,4,2186 Oak Ave,San Antonio,AZ,81802,Terminated,2023-12-31
+CUST_0305,Elizabeth Hernandez,elizabeth.hernandez@company.com,322-305-4435,57,68086,Operations,2023-10-09,2,2914 Second Ave,Philadelphia,CA,56168,On Leave,2023-10-26
+CUST_0306,Jennifer Hernandez,jennifer.hernandez@company.com,865-961-9747,36,85363,Sales,2022-12-06,1,415 First St,Chicago,NY,97851,Active,2023-04-13
+CUST_0307,Tom Gonzalez,tom.gonzalez@company.com,904-264-5695,61,62841,Engineering,2020-05-07,3,3343 Maple Ave,New York,PA,69322,Active,2023-11-12
+CUST_0308,Elizabeth Wilson,elizabeth.wilson@company.com,329-860-7371,33,96967,Finance,2023-11-20,1,6252 First St,San Antonio,PA,82368,Active,2023-01-07
+CUST_0309,Tom Brown,tom.brown@company.com,735-989-8259,32,113071,Operations,2023-04-20,5,9886 Oak Ave,Houston,AZ,68827,Inactive,2023-12-16
+CUST_0310,Mike Williams,mike.williams@company.com,277-852-9418,25,79440,Sales,2022-05-27,3,9120 Park Rd,Chicago,IL,86544,Terminated,2023-01-03
+CUST_0311,James Davis,james.davis@company.com,826-258-1654,27,72287,Sales,2023-07-04,5,4935 First St,Philadelphia,CA,51662,Inactive,2023-04-05
+CUST_0312,William Johnson,william.johnson@company.com,905-617-3611,44,101182,IT,2020-07-07,3,3625 Oak Ave,Philadelphia,PA,57290,Terminated,2023-04-22
+CUST_0313,William Davis,william.davis@company.com,674-943-1144,25,117679,Operations,2022-07-01,2,3995 Main St,Philadelphia,TX,24860,On Leave,2023-05-12
+CUST_0314,Elizabeth Lopez,elizabeth.lopez@company.com,389-125-9468,70,79146,Legal,2022-09-23,1,4857 Elm St,Houston,PA,77357,Active,2023-02-19
+CUST_0315,Lisa Gonzalez,lisa.gonzalez@company.com,650-646-1120,58,38581,HR,2023-10-04,2,6951 Maple Ave,Los Angeles,TX,80484,On Leave,2023-11-28
+CUST_0316,Mike Lopez,mike.lopez@company.com,802-257-1389,47,73478,Sales,2020-06-28,1,890 Oak Ave,Phoenix,CA,85361,Inactive,2023-05-13
+CUST_0317,Jennifer Miller,jennifer.miller@company.com,561-745-7626,45,71471,Sales,2022-03-08,1,8763 Main St,Los Angeles,NY,19514,Terminated,2023-09-15
+CUST_0318,Sarah Jones,sarah.jones@company.com,905-802-5937,56,41338,Finance,2022-06-15,4,6474 Maple Ave,New York,CA,30489,Inactive,2023-03-11
+CUST_0319,Robert Gonzalez,robert.gonzalez@company.com,916-969-9941,36,113105,Engineering,2021-09-02,3,183 Second Ave,Chicago,CA,15475,Active,2023-10-21
+CUST_0320,Robert Rodriguez,robert.rodriguez@company.com,660-187-5992,31,75069,HR,2022-04-25,5,2334 Oak Ave,Chicago,TX,90856,Terminated,2023-04-10
+CUST_0321,Sarah Williams,sarah.williams@company.com,787-918-1891,66,101939,Legal,2023-08-13,5,1199 Park Rd,Los Angeles,AZ,22871,Inactive,2023-10-25
+CUST_0322,Linda Garcia,linda.garcia@company.com,465-231-4842,24,67373,Marketing,2021-01-31,3,7961 First St,Philadelphia,AZ,86568,Inactive,2023-10-17
+CUST_0323,Mary Gonzalez,mary.gonzalez@company.com,423-538-3762,18,71053,HR,2021-03-29,4,4534 Maple Ave,Philadelphia,IL,99073,Terminated,2023-09-03
+CUST_0324,Michael Davis,michael.davis@company.com,467-893-6004,49,102308,Marketing,2020-12-25,5,1344 Maple Ave,Phoenix,IL,80597,Inactive,2023-05-15
+CUST_0325,Mike Lopez,mike.lopez@company.com,177-119-9309,58,34088,IT,2023-04-23,2,601 Second Ave,Phoenix,CA,95709,Inactive,2023-07-07
+CUST_0326,Robert Brown,robert.brown@company.com,890-703-5767,26,90909,Marketing,2022-03-23,3,8228 Main St,Houston,IL,77388,Inactive,2023-08-17
+CUST_0327,Lisa Williams,lisa.williams@company.com,679-679-3395,65,93373,Operations,2020-03-23,2,7990 Oak Ave,Los Angeles,AZ,58422,Inactive,2023-01-22
+CUST_0328,Chris Rodriguez,chris.rodriguez@company.com,910-469-7358,48,89591,Sales,2020-03-22,3,1692 Elm St,Phoenix,AZ,85842,Inactive,2023-07-12
+CUST_0329,Robert Garcia,robert.garcia@company.com,701-769-2275,51,62975,IT,2021-04-01,5,6650 Park Rd,Philadelphia,CA,73191,Active,2023-09-14
+CUST_0330,David Davis,david.davis@company.com,269-335-2263,50,114341,Finance,2021-03-09,2,3063 Oak Ave,Philadelphia,CA,96652,Inactive,2023-08-01
+CUST_0331,James Lopez,james.lopez@company.com,216-593-8844,48,57617,Engineering,2023-08-18,4,368 Oak Ave,New York,IL,85168,Inactive,2023-03-10
+CUST_0332,William Smith,william.smith@company.com,686-250-1916,28,63850,Engineering,2022-11-24,4,9820 Second Ave,New York,AZ,21239,Inactive,2023-08-18
+CUST_0333,Linda Wilson,linda.wilson@company.com,593-274-4594,44,108753,Engineering,2023-04-08,2,8370 Park Rd,Chicago,PA,69437,Active,2023-04-28
+CUST_0334,Robert Miller,robert.miller@company.com,235-211-1271,30,98512,IT,2020-11-02,5,1578 Oak Ave,San Diego,NY,79655,Active,2023-02-17
+CUST_0335,Linda Hernandez,linda.hernandez@company.com,233-717-9835,70,30157,IT,2022-12-05,4,6069 Maple Ave,New York,TX,40079,On Leave,2023-07-15
+CUST_0336,Mary Martinez,mary.martinez@company.com,923-859-2600,45,47548,Finance,2022-09-04,2,1374 Park Rd,San Antonio,AZ,34775,Active,2023-12-30
+CUST_0337,John Martinez,john.martinez@company.com,635-220-9515,18,79155,HR,2023-11-09,3,6699 Park Rd,Los Angeles,IL,65846,Terminated,2023-05-14
+CUST_0338,Elizabeth Miller,elizabeth.miller@company.com,678-474-5514,61,82095,HR,2022-04-26,5,9136 First St,Chicago,PA,83281,On Leave,2023-05-10
+CUST_0339,Emma Martinez,emma.martinez@company.com,452-892-7522,65,48096,Marketing,2021-04-15,4,2651 Main St,Houston,TX,54359,Active,2023-03-24
+CUST_0340,Robert Hernandez,robert.hernandez@company.com,105-923-2492,70,49048,Legal,2023-05-14,4,1445 Main St,Phoenix,TX,58606,Active,2023-11-08
+CUST_0341,Jane Lopez,jane.lopez@company.com,493-510-9536,36,108311,Sales,2020-12-24,4,7193 Main St,Houston,AZ,35525,Active,2023-11-03
+CUST_0342,William Rodriguez,william.rodriguez@company.com,815-337-3776,61,34726,Operations,2021-05-04,1,2580 Main St,Phoenix,TX,56285,On Leave,2023-07-27
+CUST_0343,Chris Rodriguez,chris.rodriguez@company.com,115-854-2124,23,102036,Finance,2023-02-19,5,5704 Park Rd,Phoenix,TX,89477,Inactive,2023-08-21
+CUST_0344,Robert Martinez,robert.martinez@company.com,104-367-3867,44,96353,Marketing,2023-02-18,1,8244 Park Rd,Philadelphia,CA,77277,Terminated,2023-10-03
+CUST_0345,Tom Lopez,tom.lopez@company.com,553-486-8923,67,61886,Operations,2022-07-28,4,9615 Maple Ave,New York,CA,25239,Terminated,2023-02-04
+CUST_0346,Robert Hernandez,robert.hernandez@company.com,907-325-4767,69,71383,IT,2021-12-24,5,8777 Main St,Phoenix,TX,47655,Active,2023-07-24
+CUST_0347,James Johnson,james.johnson@company.com,667-282-8807,38,76338,HR,2023-03-20,3,2995 Elm St,Houston,CA,36170,Inactive,2023-05-04
+CUST_0348,Tom Brown,tom.brown@company.com,334-307-5091,57,76665,Engineering,2020-08-06,1,1286 Elm St,San Diego,NY,80972,Active,2023-09-04
+CUST_0349,Mary Martinez,mary.martinez@company.com,422-604-5501,49,53969,Finance,2022-03-25,2,9449 Oak Ave,New York,TX,72694,Active,2023-09-15
+CUST_0350,Mary Miller,mary.miller@company.com,981-802-3863,47,45776,Legal,2021-10-08,1,194 Elm St,Houston,TX,86153,Active,2023-06-16
+CUST_0351,Mary Martinez,mary.martinez@company.com,982-365-4066,53,64452,HR,2021-07-05,4,5622 Park Rd,Chicago,CA,65567,Inactive,2023-08-03
+CUST_0352,Mary Garcia,mary.garcia@company.com,974-510-5581,46,53578,Engineering,2023-03-25,2,1637 Elm St,Phoenix,TX,82789,On Leave,2023-07-15
+CUST_0353,Chris Williams,chris.williams@company.com,919-856-3450,48,31276,Engineering,2022-05-13,4,2204 Maple Ave,Philadelphia,CA,49326,Terminated,2023-10-15
+CUST_0354,Jane Miller,jane.miller@company.com,201-807-3676,21,58241,Finance,2022-09-02,1,7371 Elm St,Philadelphia,AZ,57312,Terminated,2023-10-14
+CUST_0355,Elizabeth Anderson,elizabeth.anderson@company.com,929-363-6638,19,83970,Marketing,2021-12-20,5,3260 Second Ave,Chicago,AZ,56544,Terminated,2023-12-11
+CUST_0356,William Davis,william.davis@company.com,893-854-8322,23,79947,Finance,2022-08-07,2,2746 Elm St,Philadelphia,TX,92742,On Leave,2023-02-06
+CUST_0357,Mike Williams,mike.williams@company.com,451-333-6136,38,115591,Finance,2023-12-25,3,9919 Elm St,San Antonio,AZ,68313,Terminated,2023-10-28
+CUST_0358,William Davis,william.davis@company.com,523-271-4012,19,46389,HR,2023-09-17,3,1312 Oak Ave,Chicago,TX,23501,Active,2023-02-02
+CUST_0359,Linda Rodriguez,linda.rodriguez@company.com,155-126-7504,51,40911,Marketing,2021-06-21,5,2545 Main St,San Antonio,AZ,40062,Inactive,2023-05-26
+CUST_0360,Michael Hernandez,michael.hernandez@company.com,229-234-9630,28,33744,Sales,2023-09-20,3,5329 Maple Ave,San Diego,CA,80855,Terminated,2023-10-08
+CUST_0361,Michael Williams,michael.williams@company.com,814-652-3900,55,108326,Legal,2023-07-16,5,7127 Second Ave,Phoenix,PA,73131,Inactive,2023-02-15
+CUST_0362,Michael Jones,michael.jones@company.com,474-522-5256,27,69789,Sales,2020-01-01,5,2234 Park Rd,Phoenix,CA,80136,Active,2023-12-19
+CUST_0363,Linda Gonzalez,linda.gonzalez@company.com,588-406-1149,67,86418,Finance,2023-05-07,2,119 Second Ave,Philadelphia,TX,63967,On Leave,2023-07-22
+CUST_0364,Anna Williams,anna.williams@company.com,832-854-7385,42,58913,Finance,2020-06-11,4,3925 Second Ave,Phoenix,AZ,94994,Terminated,2023-07-31
+CUST_0365,Chris Wilson,chris.wilson@company.com,170-286-3238,36,44464,Legal,2023-06-19,4,4459 Elm St,San Diego,TX,52027,Active,2023-03-19
+CUST_0366,Jane Rodriguez,jane.rodriguez@company.com,122-290-2675,36,65283,Engineering,2022-06-16,1,3815 Main St,Chicago,NY,74694,Inactive,2023-06-25
+CUST_0367,Jennifer Jones,jennifer.jones@company.com,904-918-9165,41,90776,Sales,2021-11-07,1,2394 Main St,Phoenix,TX,19356,On Leave,2023-04-03
+CUST_0368,Chris Anderson,chris.anderson@company.com,961-356-7251,18,45985,HR,2022-02-27,4,4050 Elm St,New York,TX,70402,Active,2023-09-24
+CUST_0369,Chris Davis,chris.davis@company.com,498-797-6113,38,50789,Sales,2023-01-30,5,2002 Park Rd,San Diego,AZ,36047,Terminated,2023-01-27
+CUST_0370,Chris Johnson,chris.johnson@company.com,341-748-8113,38,31974,Engineering,2021-07-19,5,1961 First St,Houston,NY,15504,On Leave,2023-12-19
+CUST_0371,David Garcia,david.garcia@company.com,889-191-5075,28,95525,Marketing,2023-11-05,5,5545 Maple Ave,New York,NY,56598,Inactive,2023-12-26
+CUST_0372,Elizabeth Gonzalez,elizabeth.gonzalez@company.com,209-228-8992,32,71515,Operations,2022-06-17,2,350 Elm St,San Antonio,PA,27659,Terminated,2023-01-21
+CUST_0373,Linda Lopez,linda.lopez@company.com,548-672-5828,52,94237,HR,2023-03-06,2,8907 Park Rd,Philadelphia,CA,46087,Inactive,2023-02-05
+CUST_0374,William Williams,william.williams@company.com,560-402-5314,52,78118,Legal,2020-01-02,5,6211 Elm St,Chicago,NY,91229,Terminated,2023-11-14
+CUST_0375,Anna Garcia,anna.garcia@company.com,838-164-9830,70,80789,HR,2022-12-09,4,9036 Oak Ave,Phoenix,PA,63713,Terminated,2023-02-26
+CUST_0376,Sarah Rodriguez,sarah.rodriguez@company.com,774-168-1717,26,53414,Sales,2021-02-17,1,7953 Oak Ave,Los Angeles,NY,84843,On Leave,2023-12-03
+CUST_0377,Linda Rodriguez,linda.rodriguez@company.com,738-818-5193,21,78018,HR,2023-05-25,1,215 Oak Ave,San Diego,CA,71349,Active,2023-07-04
+CUST_0378,Elizabeth Lopez,elizabeth.lopez@company.com,525-941-7046,68,37641,Finance,2022-12-19,1,1154 Maple Ave,Phoenix,CA,38298,Active,2023-02-21
+CUST_0379,Anna Rodriguez,anna.rodriguez@company.com,494-294-4164,51,116098,HR,2023-03-13,2,9150 Elm St,San Antonio,CA,93705,Terminated,2023-12-12
+CUST_0380,Michael Lopez,michael.lopez@company.com,781-537-2705,28,53644,IT,2022-10-30,3,2592 Second Ave,San Diego,PA,51307,Terminated,2023-07-10
+CUST_0381,Jennifer Gonzalez,jennifer.gonzalez@company.com,748-540-6299,56,61551,HR,2022-02-07,5,4163 Park Rd,San Diego,CA,62047,Active,2023-01-18
+CUST_0382,Emma Martinez,emma.martinez@company.com,116-630-3213,37,30860,Finance,2021-03-30,2,5160 Main St,Phoenix,IL,22358,Active,2023-08-24
+CUST_0383,Mary Williams,mary.williams@company.com,241-371-7014,55,62749,HR,2021-06-08,3,1506 Second Ave,San Antonio,TX,20118,Terminated,2023-09-05
+CUST_0384,Lisa Davis,lisa.davis@company.com,945-806-2562,56,114181,Finance,2020-03-17,5,6252 Main St,New York,PA,55603,On Leave,2023-08-02
+CUST_0385,Sarah Wilson,sarah.wilson@company.com,888-332-1187,58,112862,IT,2020-04-20,3,8592 Main St,Philadelphia,IL,52838,Inactive,2023-03-20
+CUST_0386,Jane Hernandez,jane.hernandez@company.com,849-502-8300,66,108005,Marketing,2021-03-30,4,4748 Maple Ave,San Antonio,IL,27326,Terminated,2023-02-12
+CUST_0387,Linda Martinez,linda.martinez@company.com,863-150-9980,43,64413,Marketing,2022-03-27,5,7119 Maple Ave,Chicago,IL,73035,Inactive,2023-09-07
+CUST_0388,Robert Hernandez,robert.hernandez@company.com,685-300-9589,33,61760,Marketing,2021-06-29,4,5299 Elm St,Los Angeles,CA,98047,On Leave,2023-08-05
+CUST_0389,Mary Garcia,mary.garcia@company.com,295-428-6644,56,115905,Sales,2021-09-16,2,5730 Second Ave,San Diego,IL,67732,Active,2023-04-30
+CUST_0390,Chris Hernandez,chris.hernandez@company.com,482-259-2405,25,37148,HR,2023-06-25,2,4714 Main St,Philadelphia,CA,49992,On Leave,2023-08-30
+CUST_0391,John Garcia,john.garcia@company.com,314-857-9814,31,56712,Finance,2023-01-28,4,2316 Elm St,New York,TX,86415,Active,2023-05-11
+CUST_0392,Lisa Smith,lisa.smith@company.com,390-305-5444,21,90943,Sales,2020-05-16,4,4446 Elm St,Philadelphia,CA,12500,Terminated,2023-11-29
+CUST_0393,Robert Brown,robert.brown@company.com,489-620-2631,38,93525,Marketing,2021-01-16,2,8203 First St,New York,NY,42426,Terminated,2023-06-20
+CUST_0394,Linda Miller,linda.miller@company.com,862-260-1301,40,119694,Operations,2021-12-28,3,3870 Second Ave,Phoenix,NY,92023,Terminated,2023-07-18
+CUST_0395,John Rodriguez,john.rodriguez@company.com,386-330-3485,39,81491,Engineering,2020-06-28,4,8532 Elm St,Houston,TX,41504,Inactive,2023-08-07
+CUST_0396,Emma Anderson,emma.anderson@company.com,719-437-8359,52,47271,HR,2023-08-29,2,9520 Second Ave,Houston,IL,50501,Inactive,2023-08-09
+CUST_0397,David Hernandez,david.hernandez@company.com,678-261-6201,22,103051,Marketing,2021-01-12,3,2385 Elm St,New York,PA,64269,On Leave,2023-06-05
+CUST_0398,Michael Lopez,michael.lopez@company.com,941-752-5485,27,54632,Marketing,2020-09-26,2,430 Maple Ave,Phoenix,TX,88166,Inactive,2023-04-29
+CUST_0399,John Garcia,john.garcia@company.com,181-804-8808,26,95840,Legal,2023-12-29,3,3015 Maple Ave,San Antonio,CA,72108,Inactive,2023-03-25
+CUST_0400,Chris Brown,chris.brown@company.com,133-518-1245,35,84138,HR,2023-10-06,2,3352 Main St,Chicago,CA,90879,On Leave,2023-12-19
+CUST_0401,James Wilson,james.wilson@company.com,568-352-8005,43,35482,IT,2021-10-02,4,9371 Second Ave,New York,CA,69193,On Leave,2023-01-22
+CUST_0402,Anna Rodriguez,anna.rodriguez@company.com,650-505-1643,53,80777,Sales,2021-01-23,3,7202 First St,Phoenix,AZ,70469,Inactive,2023-08-05
+CUST_0403,Emma Martinez,emma.martinez@company.com,155-806-9470,27,90762,Legal,2020-07-04,5,1855 Oak Ave,Chicago,TX,64206,Terminated,2023-08-19
+CUST_0404,John Williams,john.williams@company.com,564-704-4308,47,41820,Finance,2021-10-25,2,2025 Main St,Los Angeles,CA,93109,Terminated,2023-02-13
+CUST_0405,William Lopez,william.lopez@company.com,493-844-9383,57,50958,IT,2023-02-01,4,720 Maple Ave,Chicago,PA,84120,Inactive,2023-03-25
+CUST_0406,David Williams,david.williams@company.com,887-829-1840,44,70378,Finance,2022-07-02,3,2961 Main St,Chicago,TX,10463,Terminated,2023-01-07
+CUST_0407,Michael Davis,michael.davis@company.com,975-610-9904,69,30753,Legal,2021-05-02,2,9648 Elm St,San Diego,CA,63759,On Leave,2023-02-10
+CUST_0408,John Brown,john.brown@company.com,660-384-4401,21,54227,Engineering,2020-04-22,3,602 Oak Ave,New York,AZ,53399,Active,2023-01-26
+CUST_0409,Sarah Miller,sarah.miller@company.com,282-265-5659,57,116628,Engineering,2022-07-21,5,5902 Main St,Los Angeles,AZ,52312,Terminated,2023-07-14
+CUST_0410,Mike Gonzalez,mike.gonzalez@company.com,537-963-2063,36,91710,Engineering,2020-09-06,3,5394 Second Ave,San Antonio,TX,37400,Active,2023-02-25
+CUST_0411,William Johnson,william.johnson@company.com,595-841-5705,45,109802,Operations,2021-06-15,5,9424 Second Ave,Philadelphia,IL,90516,On Leave,2023-09-24
+CUST_0412,Linda Davis,linda.davis@company.com,927-284-4812,63,68074,HR,2020-01-04,1,393 First St,Los Angeles,TX,90649,On Leave,2023-07-31
+CUST_0413,Jane Garcia,jane.garcia@company.com,458-673-4478,18,113967,HR,2023-11-14,3,4169 Maple Ave,Los Angeles,AZ,49358,Terminated,2023-01-04
+CUST_0414,Sarah Hernandez,sarah.hernandez@company.com,441-449-7488,64,104569,Sales,2020-12-25,2,5416 Maple Ave,Philadelphia,CA,72193,Active,2023-11-27
+CUST_0415,David Davis,david.davis@company.com,259-742-8546,52,73923,Legal,2022-04-27,1,8538 Park Rd,Philadelphia,NY,37297,Terminated,2023-07-01
+CUST_0416,Mike Williams,mike.williams@company.com,387-960-1510,39,79183,Engineering,2023-03-15,5,6383 Oak Ave,Los Angeles,AZ,51222,Active,2023-05-20
+CUST_0417,Jennifer Johnson,jennifer.johnson@company.com,608-998-4893,41,89232,Finance,2021-03-18,5,4954 Oak Ave,Los Angeles,PA,14901,Inactive,2023-02-17
+CUST_0418,Michael Rodriguez,michael.rodriguez@company.com,125-918-8907,50,50195,HR,2021-11-27,4,8580 Park Rd,Philadelphia,IL,22878,Inactive,2023-04-16
+CUST_0419,Jane Davis,jane.davis@company.com,496-830-9558,25,30538,Finance,2020-03-31,5,1427 Park Rd,San Diego,NY,23513,Terminated,2023-01-12
+CUST_0420,Emma Hernandez,emma.hernandez@company.com,314-428-4285,30,67560,Finance,2022-12-26,3,7228 Elm St,Los Angeles,AZ,29571,Inactive,2023-05-21
+CUST_0421,Sarah Smith,sarah.smith@company.com,737-673-9422,24,57076,Operations,2023-01-30,3,4441 Oak Ave,Phoenix,TX,32449,Active,2023-06-09
+CUST_0422,James Rodriguez,james.rodriguez@company.com,554-151-3131,19,91700,Sales,2020-08-04,4,882 Main St,San Antonio,TX,33459,On Leave,2023-11-12
+CUST_0423,Mary Jones,mary.jones@company.com,440-937-4246,63,117932,Marketing,2022-08-11,5,2160 Main St,San Diego,CA,69714,Terminated,2023-12-17
+CUST_0424,Michael Davis,michael.davis@company.com,337-329-3354,57,63823,Operations,2022-03-13,2,5413 Maple Ave,Philadelphia,CA,73898,Active,2023-02-03
+CUST_0425,Linda Johnson,linda.johnson@company.com,459-590-8556,28,66996,Operations,2023-05-22,5,2088 Second Ave,Los Angeles,TX,24022,Terminated,2023-10-12
+CUST_0426,Mike Gonzalez,mike.gonzalez@company.com,409-645-8552,43,107402,IT,2021-05-03,5,3993 Second Ave,Chicago,CA,60307,Active,2023-06-24
+CUST_0427,Chris Wilson,chris.wilson@company.com,810-705-8063,68,87062,Operations,2023-01-20,2,2836 Elm St,Los Angeles,CA,24984,On Leave,2023-06-16
+CUST_0428,Elizabeth Johnson,elizabeth.johnson@company.com,941-555-3886,37,83188,Marketing,2023-05-10,1,9772 Maple Ave,San Antonio,PA,74788,Active,2023-02-16
+CUST_0429,Chris Wilson,chris.wilson@company.com,242-694-1003,66,49231,Engineering,2022-07-16,5,4776 First St,San Diego,TX,36956,Terminated,2023-06-03
+CUST_0430,Emma Anderson,emma.anderson@company.com,545-835-6640,23,106379,Sales,2023-06-06,5,6623 Maple Ave,Chicago,AZ,18180,Terminated,2023-10-09
+CUST_0431,Jane Smith,jane.smith@company.com,820-673-6885,25,66989,Sales,2021-04-26,4,9670 First St,Philadelphia,TX,63219,On Leave,2023-08-11
+CUST_0432,Elizabeth Brown,elizabeth.brown@company.com,778-277-8780,26,54671,IT,2022-01-07,4,2528 Park Rd,Chicago,IL,11520,Active,2023-11-28
+CUST_0433,John Williams,john.williams@company.com,838-598-8155,26,41097,Engineering,2023-08-08,4,7472 Maple Ave,San Antonio,IL,69558,On Leave,2023-10-10
+CUST_0434,Michael Miller,michael.miller@company.com,463-331-4044,45,109242,Sales,2023-03-29,4,3879 Elm St,Phoenix,TX,81587,Terminated,2023-01-18
+CUST_0435,Jane Martinez,jane.martinez@company.com,594-821-7038,25,106056,Legal,2023-11-15,1,2328 Elm St,Phoenix,CA,77757,Active,2023-09-25
+CUST_0436,Mike Brown,mike.brown@company.com,583-745-2279,61,113058,Finance,2023-06-09,1,5629 Second Ave,New York,CA,69511,On Leave,2023-10-21
+CUST_0437,James Miller,james.miller@company.com,461-917-5827,36,51955,Sales,2023-11-24,5,4982 Elm St,Phoenix,NY,92483,On Leave,2023-10-24
+CUST_0438,Lisa Martinez,lisa.martinez@company.com,152-772-5780,69,111830,Sales,2021-08-10,4,1352 Oak Ave,Los Angeles,AZ,43036,Inactive,2023-11-12
+CUST_0439,Tom Jones,tom.jones@company.com,978-363-1232,65,44621,Engineering,2023-04-26,2,7318 Park Rd,Chicago,AZ,40958,On Leave,2023-04-03
+CUST_0440,William Wilson,william.wilson@company.com,133-451-2382,27,108059,Engineering,2022-10-12,4,6278 Oak Ave,San Diego,IL,37637,Terminated,2023-01-28
+CUST_0441,Tom Gonzalez,tom.gonzalez@company.com,939-218-1860,28,90819,IT,2022-09-02,3,7804 Elm St,Houston,TX,99589,On Leave,2023-08-31
+CUST_0442,Tom Williams,tom.williams@company.com,643-991-8122,18,67852,Legal,2022-02-21,3,8688 Elm St,New York,CA,79637,Terminated,2023-08-10
+CUST_0443,Tom Garcia,tom.garcia@company.com,376-373-2610,34,115766,IT,2022-08-02,2,9646 Maple Ave,Houston,PA,98829,Inactive,2023-06-10
+CUST_0444,Elizabeth Smith,elizabeth.smith@company.com,788-108-2113,18,83903,Marketing,2022-12-11,1,7307 Park Rd,Houston,AZ,43016,Inactive,2023-01-18
+CUST_0445,John Martinez,john.martinez@company.com,194-158-4552,56,113634,Marketing,2023-12-21,1,1416 Maple Ave,Chicago,TX,96034,Inactive,2023-02-26
+CUST_0446,Lisa Jones,lisa.jones@company.com,401-578-2240,58,89433,Finance,2022-05-24,3,4217 Oak Ave,Los Angeles,AZ,18177,On Leave,2023-07-18
+CUST_0447,James Smith,james.smith@company.com,364-932-5336,29,87747,Marketing,2022-10-04,2,6433 Oak Ave,San Diego,CA,28857,On Leave,2023-04-22
+CUST_0448,Sarah Anderson,sarah.anderson@company.com,552-832-5243,24,34569,Marketing,2020-05-24,5,4106 Maple Ave,San Diego,NY,75234,Inactive,2023-12-01
+CUST_0449,John Anderson,john.anderson@company.com,138-780-7397,35,49871,Operations,2022-03-12,5,61 Second Ave,San Diego,CA,67154,On Leave,2023-02-05
+CUST_0450,Elizabeth Brown,elizabeth.brown@company.com,103-493-8898,25,104349,Operations,2021-11-13,3,6564 Main St,Los Angeles,PA,80074,Terminated,2023-02-11
+CUST_0451,Michael Gonzalez,michael.gonzalez@company.com,884-396-4327,29,102676,Sales,2022-02-25,2,4897 Elm St,San Antonio,CA,92656,Terminated,2023-09-07
+CUST_0452,Mike Anderson,mike.anderson@company.com,747-548-4104,26,34679,HR,2020-02-21,5,3908 First St,San Antonio,CA,80851,Terminated,2023-09-13
+CUST_0453,Elizabeth Wilson,elizabeth.wilson@company.com,931-560-1268,20,74470,Sales,2021-11-22,1,6644 Main St,Houston,CA,98877,Inactive,2023-10-24
+CUST_0454,Anna Anderson,anna.anderson@company.com,173-137-3319,49,115699,Sales,2022-08-23,5,751 Oak Ave,Chicago,NY,32577,Active,2023-06-07
+CUST_0455,Sarah Davis,sarah.davis@company.com,725-274-2047,70,43937,Marketing,2022-10-15,5,3614 Main St,Houston,TX,54216,On Leave,2023-06-16
+CUST_0456,Sarah Hernandez,sarah.hernandez@company.com,689-658-3250,38,57948,Sales,2023-04-29,2,5497 Main St,Los Angeles,AZ,28512,On Leave,2023-03-28
+CUST_0457,Mary Rodriguez,mary.rodriguez@company.com,268-549-4991,55,35334,Engineering,2020-07-23,5,6163 Maple Ave,Chicago,NY,73827,Active,2023-01-04
+CUST_0458,John Williams,john.williams@company.com,191-823-5648,44,92391,Engineering,2021-02-26,2,4440 Second Ave,San Diego,TX,41359,Inactive,2023-11-09
+CUST_0459,Jane Martinez,jane.martinez@company.com,284-834-9190,57,41537,Finance,2021-12-13,4,75 Second Ave,Houston,TX,25401,Active,2023-11-13
+CUST_0460,Mary Wilson,mary.wilson@company.com,879-652-9315,32,90845,HR,2021-07-20,1,3174 Main St,Chicago,CA,75210,Inactive,2023-03-23
+CUST_0461,Jane Smith,jane.smith@company.com,760-472-5670,31,86973,Finance,2021-11-15,5,7425 Main St,Los Angeles,NY,80432,Inactive,2023-03-22
+CUST_0462,John Davis,john.davis@company.com,627-218-2160,33,88303,Operations,2022-05-08,2,5337 Oak Ave,Los Angeles,PA,39855,Active,2023-05-02
+CUST_0463,Jennifer Wilson,jennifer.wilson@company.com,304-484-4615,22,91733,Legal,2020-04-21,4,2375 Oak Ave,San Diego,IL,60768,Terminated,2023-03-11
+CUST_0464,Michael Lopez,michael.lopez@company.com,298-747-6875,35,56504,Operations,2020-09-17,1,9318 Main St,Phoenix,IL,24563,On Leave,2023-08-23
+CUST_0465,Jennifer Williams,jennifer.williams@company.com,878-451-4602,36,109119,Engineering,2023-07-30,5,2785 Second Ave,Houston,CA,63961,On Leave,2023-04-21
+CUST_0466,Linda Wilson,linda.wilson@company.com,573-385-1237,64,86113,HR,2021-05-22,3,7115 Second Ave,Houston,IL,85196,Active,2023-08-02
+CUST_0467,Jane Smith,jane.smith@company.com,581-851-9261,20,85797,IT,2022-09-08,1,7413 First St,Houston,CA,83202,Active,2023-12-21
+CUST_0468,Jennifer Brown,jennifer.brown@company.com,235-467-5846,33,114887,Marketing,2020-02-02,4,4995 Oak Ave,San Diego,NY,69616,On Leave,2023-03-12
+CUST_0469,Robert Williams,robert.williams@company.com,908-992-7068,58,90856,Sales,2023-07-08,1,6306 Elm St,Philadelphia,NY,48874,On Leave,2023-05-19
+CUST_0470,Elizabeth Martinez,elizabeth.martinez@company.com,913-312-2326,57,74000,Sales,2022-11-20,3,845 Main St,San Antonio,PA,70994,Active,2023-07-07
+CUST_0471,Mary Williams,mary.williams@company.com,763-672-2097,53,56832,Engineering,2021-11-16,2,8842 Main St,San Diego,TX,39548,Terminated,2023-06-30
+CUST_0472,Tom Rodriguez,tom.rodriguez@company.com,796-533-5540,21,38305,Operations,2021-12-08,4,7967 Second Ave,Los Angeles,CA,79717,Terminated,2023-08-20
+CUST_0473,Mary Gonzalez,mary.gonzalez@company.com,789-809-2075,30,90014,Marketing,2020-06-13,4,2930 Park Rd,Los Angeles,CA,31596,Terminated,2023-02-27
+CUST_0474,David Davis,david.davis@company.com,254-995-4346,51,112218,Sales,2021-08-23,4,8871 Oak Ave,San Diego,PA,65067,On Leave,2023-11-27
+CUST_0475,John Jones,john.jones@company.com,293-164-1361,69,60451,Operations,2022-04-23,5,5617 Elm St,Philadelphia,CA,87772,On Leave,2023-08-23
+CUST_0476,Emma Martinez,emma.martinez@company.com,235-908-6021,28,64079,HR,2022-09-18,3,4721 Maple Ave,New York,IL,56284,Terminated,2023-08-22
+CUST_0477,Lisa Martinez,lisa.martinez@company.com,264-828-9770,36,53891,Engineering,2023-12-21,2,2642 Oak Ave,Los Angeles,NY,51500,Inactive,2023-08-14
+CUST_0478,Tom Garcia,tom.garcia@company.com,288-310-1568,60,71542,Operations,2020-10-29,3,7348 Second Ave,Chicago,AZ,25923,Active,2023-07-27
+CUST_0479,Linda Gonzalez,linda.gonzalez@company.com,248-569-6246,27,30562,Operations,2023-08-18,3,7765 Park Rd,Chicago,CA,54392,Active,2023-09-03
+CUST_0480,Jane Williams,jane.williams@company.com,794-664-2914,37,33250,IT,2023-06-18,2,7307 Park Rd,Los Angeles,PA,17213,Inactive,2023-10-26
+CUST_0481,William Brown,william.brown@company.com,900-885-5553,30,32955,Marketing,2023-01-07,4,1432 Second Ave,San Antonio,TX,74286,Terminated,2023-11-05
+CUST_0482,William Smith,william.smith@company.com,782-469-7513,27,86051,Operations,2022-03-01,3,200 Park Rd,Philadelphia,PA,50381,On Leave,2023-10-15
+CUST_0483,Mike Brown,mike.brown@company.com,845-554-7809,69,87999,Finance,2020-12-01,4,6787 Oak Ave,Los Angeles,IL,37234,Terminated,2023-09-01
+CUST_0484,William Garcia,william.garcia@company.com,167-704-7156,23,30867,IT,2023-08-01,3,6792 Oak Ave,San Diego,IL,36117,Inactive,2023-07-15
+CUST_0485,Emma Rodriguez,emma.rodriguez@company.com,602-143-5947,55,69834,Legal,2023-02-19,4,3679 Main St,New York,IL,44429,Terminated,2023-11-24
+CUST_0486,Linda Johnson,linda.johnson@company.com,769-781-5713,44,53510,Legal,2023-11-09,2,467 Main St,Phoenix,CA,18745,Terminated,2023-10-25
+CUST_0487,Linda Martinez,linda.martinez@company.com,546-989-5225,58,119903,Legal,2023-11-22,1,6115 Second Ave,New York,AZ,31344,Active,2023-03-16
+CUST_0488,James Davis,james.davis@company.com,999-809-3219,40,51405,Sales,2021-07-12,3,6874 Elm St,Philadelphia,NY,47992,Terminated,2023-09-29
+CUST_0489,Mike Rodriguez,mike.rodriguez@company.com,298-884-4002,66,42387,Engineering,2023-01-18,3,5181 Maple Ave,Phoenix,AZ,99842,Terminated,2023-02-19
+CUST_0490,Elizabeth Martinez,elizabeth.martinez@company.com,460-943-3354,18,47950,Finance,2022-02-02,4,6751 Park Rd,Chicago,CA,38557,Inactive,2023-09-15
+CUST_0491,Anna Wilson,anna.wilson@company.com,292-914-9612,52,102235,Marketing,2022-05-04,4,1252 Main St,Chicago,NY,72851,Terminated,2023-06-09
+CUST_0492,Mary Williams,mary.williams@company.com,936-552-9570,66,74832,Engineering,2023-12-24,3,472 Elm St,Los Angeles,TX,26870,Inactive,2023-12-19
+CUST_0493,Anna Jones,anna.jones@company.com,228-314-3133,23,85680,Marketing,2020-06-08,1,7935 Maple Ave,San Antonio,NY,35736,Active,2023-01-17
+CUST_0494,William Martinez,william.martinez@company.com,160-580-2948,34,35672,Marketing,2021-09-09,1,1582 Maple Ave,Los Angeles,TX,87018,Inactive,2023-04-05
+CUST_0495,Mary Smith,mary.smith@company.com,192-249-5544,55,75591,Operations,2020-11-24,5,3963 Second Ave,Los Angeles,CA,85777,Active,2023-09-28
+CUST_0496,Chris Lopez,chris.lopez@company.com,296-388-3814,66,100402,Sales,2020-07-21,2,8261 Maple Ave,San Diego,PA,87251,Inactive,2023-08-14
+CUST_0497,Sarah Williams,sarah.williams@company.com,954-463-7219,45,58085,HR,2022-04-14,1,5150 Main St,San Diego,CA,78121,Inactive,2023-09-11
+CUST_0498,Mary Lopez,mary.lopez@company.com,395-670-1665,23,73006,Legal,2020-08-24,4,4647 First St,Phoenix,CA,39605,On Leave,2023-05-29
+CUST_0499,Jennifer Brown,jennifer.brown@company.com,977-171-8793,61,78161,Engineering,2020-01-27,4,1724 First St,San Diego,CA,25626,Inactive,2023-07-22
+CUST_0500,Robert Lopez,robert.lopez@company.com,704-204-3764,22,77672,HR,2021-11-24,2,9748 Maple Ave,San Antonio,CA,40522,On Leave,2023-09-13
+CUST_0501,Tom Gonzalez,tom.gonzalez@company.com,830-884-5472,66,114388,IT,2021-12-30,4,9883 First St,San Diego,AZ,29316,On Leave,2023-02-25
+CUST_0502,Sarah Jones,sarah.jones@company.com,601-609-4781,58,47643,Sales,2020-07-22,1,1118 First St,New York,IL,60152,Terminated,2023-03-20
+CUST_0503,Emma Martinez,emma.martinez@company.com,738-198-2253,60,98150,Legal,2022-08-12,2,4810 Elm St,San Diego,CA,76164,Terminated,2023-10-05
+CUST_0504,James Gonzalez,james.gonzalez@company.com,980-653-9955,19,34141,IT,2020-08-31,4,7375 Park Rd,San Antonio,CA,70248,Active,2023-01-17
+CUST_0505,Lisa Rodriguez,lisa.rodriguez@company.com,775-981-5965,63,51514,Legal,2022-06-01,2,5120 Elm St,San Antonio,CA,24336,On Leave,2023-12-04
+CUST_0506,Elizabeth Hernandez,elizabeth.hernandez@company.com,652-685-8697,48,103695,Engineering,2022-11-03,1,6413 Park Rd,San Diego,TX,90863,Terminated,2023-05-26
+CUST_0507,James Smith,james.smith@company.com,128-704-1739,26,78026,Operations,2023-04-10,1,5592 First St,Los Angeles,TX,55238,Terminated,2023-07-30
+CUST_0508,Mary Smith,mary.smith@company.com,777-350-5056,33,114945,Finance,2023-04-28,1,1074 Maple Ave,Phoenix,CA,54249,Inactive,2023-01-11
+CUST_0509,Elizabeth Garcia,elizabeth.garcia@company.com,138-571-7921,54,97470,IT,2021-06-30,1,7696 Second Ave,New York,PA,59510,On Leave,2023-06-15
+CUST_0510,Sarah Gonzalez,sarah.gonzalez@company.com,600-202-4373,39,95107,Operations,2020-12-07,5,4908 Park Rd,San Antonio,TX,75136,Active,2023-10-02
+CUST_0511,Chris Jones,chris.jones@company.com,371-148-5871,54,82694,HR,2023-07-03,1,9474 Main St,Philadelphia,AZ,18817,On Leave,2023-08-07
+CUST_0512,Chris Garcia,chris.garcia@company.com,914-178-5945,50,69309,IT,2023-09-20,5,5134 Oak Ave,San Antonio,TX,42933,On Leave,2023-12-10
+CUST_0513,Elizabeth Williams,elizabeth.williams@company.com,119-742-9457,29,105608,Legal,2021-03-12,4,4390 Elm St,San Antonio,NY,78454,Inactive,2023-07-06
+CUST_0514,Michael Williams,michael.williams@company.com,346-254-5919,45,83773,Operations,2020-05-11,2,6758 Park Rd,Phoenix,IL,43612,Inactive,2023-07-27
+CUST_0515,Anna Johnson,anna.johnson@company.com,253-296-1453,33,70703,Legal,2022-09-21,5,7146 First St,New York,TX,30887,Terminated,2023-03-11
+CUST_0516,John Jones,john.jones@company.com,908-922-5551,60,102182,Engineering,2023-08-12,1,7961 Maple Ave,New York,NY,21000,Terminated,2023-11-05
+CUST_0517,Emma Wilson,emma.wilson@company.com,165-516-6954,60,116170,Marketing,2022-03-23,2,3868 Main St,Los Angeles,AZ,75070,Active,2023-05-02
+CUST_0518,Sarah Gonzalez,sarah.gonzalez@company.com,926-420-6395,55,81111,HR,2022-05-16,2,2364 Main St,Chicago,TX,45985,On Leave,2023-07-29
+CUST_0519,Tom Wilson,tom.wilson@company.com,703-157-9034,52,79113,Marketing,2021-10-10,5,6944 First St,Houston,AZ,28993,Terminated,2023-09-01
+CUST_0520,Mary Wilson,mary.wilson@company.com,415-121-1570,65,116798,Sales,2023-11-15,2,4145 Second Ave,San Antonio,AZ,93748,Terminated,2023-12-17
+CUST_0521,Sarah Rodriguez,sarah.rodriguez@company.com,987-342-8248,42,31031,IT,2021-06-07,3,1479 Maple Ave,Houston,AZ,37575,Inactive,2023-08-13
+CUST_0522,James Anderson,james.anderson@company.com,931-885-7656,68,34440,Finance,2020-06-13,4,7719 Elm St,San Antonio,PA,65360,Active,2023-03-24
+CUST_0523,Tom Rodriguez,tom.rodriguez@company.com,167-460-7895,56,101791,Operations,2022-07-17,1,854 Elm St,Chicago,CA,94030,Inactive,2023-01-02
+CUST_0524,Robert Brown,robert.brown@company.com,743-412-6140,54,40778,Marketing,2020-11-19,2,8461 Elm St,Chicago,TX,51864,On Leave,2023-09-02
+CUST_0525,David Jones,david.jones@company.com,277-803-6367,69,66935,HR,2020-06-21,4,6023 Oak Ave,San Antonio,TX,84762,Inactive,2023-01-11
+CUST_0526,John Anderson,john.anderson@company.com,671-762-4747,23,90610,HR,2021-06-20,2,816 First St,San Antonio,AZ,29562,Active,2023-07-08
+CUST_0527,Lisa Martinez,lisa.martinez@company.com,220-114-9615,45,89468,Legal,2020-08-30,2,3329 Oak Ave,Phoenix,AZ,74771,On Leave,2023-03-08
+CUST_0528,Jennifer Wilson,jennifer.wilson@company.com,311-714-4531,70,67089,HR,2022-05-06,2,6694 Maple Ave,Chicago,NY,48036,Terminated,2023-05-01
+CUST_0529,Michael Anderson,michael.anderson@company.com,354-478-8506,23,31352,Legal,2020-09-29,3,6514 Elm St,Houston,TX,65481,Terminated,2023-02-07
+CUST_0530,Sarah Rodriguez,sarah.rodriguez@company.com,160-153-6453,33,91726,Operations,2023-05-26,5,746 Main St,Phoenix,TX,49650,On Leave,2023-12-10
+CUST_0531,Mary Williams,mary.williams@company.com,672-142-3938,34,52264,Legal,2021-11-25,4,2162 Main St,Philadelphia,TX,28585,Terminated,2023-03-01
+CUST_0532,James Smith,james.smith@company.com,230-611-5603,65,77263,IT,2021-08-02,3,4322 Second Ave,Philadelphia,TX,31624,Terminated,2023-09-09
+CUST_0533,David Rodriguez,david.rodriguez@company.com,973-773-8208,21,54762,Engineering,2020-04-21,2,3001 Main St,San Diego,AZ,31437,On Leave,2023-08-12
+CUST_0534,Sarah Anderson,sarah.anderson@company.com,606-141-8233,40,103512,Legal,2022-07-26,4,1844 Maple Ave,Chicago,CA,55823,Active,2023-04-15
+CUST_0535,Emma Williams,emma.williams@company.com,954-272-9335,70,65755,HR,2023-04-10,1,8619 Maple Ave,Chicago,TX,20070,Inactive,2023-09-13
+CUST_0536,Sarah Anderson,sarah.anderson@company.com,436-126-5657,61,119212,Marketing,2022-03-18,3,9673 Main St,Philadelphia,IL,13784,Active,2023-08-24
+CUST_0537,Linda Davis,linda.davis@company.com,743-375-1095,39,35747,Legal,2021-10-27,5,2119 Oak Ave,New York,AZ,52358,Active,2023-02-06
+CUST_0538,Elizabeth Martinez,elizabeth.martinez@company.com,490-194-7534,34,53332,HR,2022-03-27,1,337 Maple Ave,Houston,IL,60921,On Leave,2023-05-26
+CUST_0539,David Johnson,david.johnson@company.com,405-602-8083,65,70645,Engineering,2022-01-05,1,6021 Second Ave,Houston,CA,68385,On Leave,2023-09-01
+CUST_0540,Tom Martinez,tom.martinez@company.com,714-533-2478,66,85382,Operations,2023-06-11,2,7113 Elm St,San Antonio,CA,15300,Terminated,2023-08-26
+CUST_0541,Anna Hernandez,anna.hernandez@company.com,802-830-3540,49,99111,Marketing,2021-08-18,4,7166 Main St,San Diego,AZ,29478,Inactive,2023-12-17
+CUST_0542,Emma Wilson,emma.wilson@company.com,354-635-8007,36,104519,Sales,2023-02-02,1,739 Second Ave,Los Angeles,TX,64135,Active,2023-08-26
+CUST_0543,Tom Garcia,tom.garcia@company.com,360-699-2339,67,95987,Sales,2020-08-21,4,2942 Maple Ave,Chicago,TX,15932,Active,2023-08-02
+CUST_0544,Emma Garcia,emma.garcia@company.com,701-841-8454,66,117852,Legal,2023-07-01,3,5593 Maple Ave,Chicago,TX,34259,Active,2023-11-06
+CUST_0545,Tom Wilson,tom.wilson@company.com,789-208-8107,52,32348,Sales,2022-03-19,1,218 Oak Ave,San Diego,CA,63096,On Leave,2023-06-05
+CUST_0546,Mary Lopez,mary.lopez@company.com,789-806-7471,69,69669,Marketing,2020-09-13,2,228 Oak Ave,Los Angeles,NY,34670,Active,2023-04-18
+CUST_0547,Linda Hernandez,linda.hernandez@company.com,248-765-4961,45,112058,HR,2020-06-25,3,7593 Oak Ave,San Diego,TX,12859,Active,2023-03-27
+CUST_0548,David Lopez,david.lopez@company.com,819-555-8947,48,32572,Legal,2023-04-13,2,3299 Park Rd,San Antonio,NY,53758,Active,2023-02-22
+CUST_0549,Jennifer Miller,jennifer.miller@company.com,968-607-5764,20,93897,IT,2022-09-22,5,9684 Elm St,San Diego,TX,17956,Active,2023-08-05
+CUST_0550,James Rodriguez,james.rodriguez@company.com,165-374-7834,48,45327,Legal,2023-06-29,3,7346 Elm St,San Antonio,NY,31146,Terminated,2023-04-09
+CUST_0551,Linda Garcia,linda.garcia@company.com,548-337-9317,32,107025,Operations,2023-05-18,4,2149 Park Rd,San Antonio,TX,98225,Terminated,2023-08-30
+CUST_0552,Lisa Martinez,lisa.martinez@company.com,312-389-2412,60,93293,Engineering,2020-12-20,2,2562 Second Ave,San Diego,CA,64523,On Leave,2023-06-05
+CUST_0553,Anna Brown,anna.brown@company.com,670-148-1297,40,64184,Operations,2023-10-18,2,2863 Maple Ave,New York,CA,54267,On Leave,2023-02-28
+CUST_0554,Anna Johnson,anna.johnson@company.com,675-329-8968,34,74606,Operations,2020-04-05,5,4383 Oak Ave,Los Angeles,NY,67386,On Leave,2023-02-26
+CUST_0555,Sarah Gonzalez,sarah.gonzalez@company.com,725-724-2669,70,103724,Sales,2022-11-04,1,2737 Elm St,Los Angeles,TX,57400,Inactive,2023-05-30
+CUST_0556,Michael Gonzalez,michael.gonzalez@company.com,618-610-2626,27,114815,Operations,2021-11-16,2,2015 Maple Ave,Houston,CA,64493,Active,2023-05-06
+CUST_0557,Linda Garcia,linda.garcia@company.com,393-617-3805,23,64867,Operations,2022-04-29,3,4022 Oak Ave,San Antonio,TX,28087,On Leave,2023-07-31
+CUST_0558,Jennifer Anderson,jennifer.anderson@company.com,569-972-9456,68,119417,Operations,2020-03-01,4,2386 Maple Ave,New York,CA,21112,Terminated,2023-06-11
+CUST_0559,Robert Gonzalez,robert.gonzalez@company.com,268-544-2007,43,34861,Engineering,2023-03-22,1,8517 Park Rd,San Antonio,TX,99243,Terminated,2023-06-10
+CUST_0560,Mary Smith,mary.smith@company.com,946-386-9647,57,49249,IT,2022-07-02,2,8920 Second Ave,San Diego,PA,95033,On Leave,2023-04-12
+CUST_0561,Emma Johnson,emma.johnson@company.com,137-650-6480,42,46515,Finance,2021-03-13,1,8384 Second Ave,Phoenix,PA,93320,Inactive,2023-01-12
+CUST_0562,John Anderson,john.anderson@company.com,915-652-5238,33,69838,IT,2022-10-31,1,983 Maple Ave,Philadelphia,AZ,92180,Terminated,2023-03-05
+CUST_0563,Jane Gonzalez,jane.gonzalez@company.com,766-227-8352,37,105030,Sales,2022-07-17,3,3869 Maple Ave,Houston,PA,49216,Terminated,2023-12-08
+CUST_0564,David Lopez,david.lopez@company.com,486-632-5057,24,72971,HR,2022-01-09,4,1606 Oak Ave,San Antonio,TX,20740,Active,2023-02-01
+CUST_0565,Jennifer Anderson,jennifer.anderson@company.com,233-587-4519,46,40233,Operations,2023-10-18,5,6599 Second Ave,San Antonio,AZ,86585,On Leave,2023-11-22
+CUST_0566,Jennifer Davis,jennifer.davis@company.com,805-601-7830,70,51344,Engineering,2022-11-01,2,7943 Elm St,San Diego,IL,77264,Active,2023-12-22
+CUST_0567,Chris Davis,chris.davis@company.com,584-133-3569,53,78409,Marketing,2023-05-17,4,1808 Main St,Philadelphia,AZ,15279,Inactive,2023-03-02
+CUST_0568,Mary Jones,mary.jones@company.com,483-410-5816,49,33667,Engineering,2020-10-18,5,6911 Main St,Phoenix,AZ,38256,Inactive,2023-09-08
+CUST_0569,John Johnson,john.johnson@company.com,660-457-2106,20,84732,Legal,2023-03-19,3,9270 First St,Philadelphia,TX,72289,Inactive,2023-03-12
+CUST_0570,William Hernandez,william.hernandez@company.com,571-879-8371,60,88861,Engineering,2021-10-28,1,6712 First St,Houston,TX,54433,Active,2023-12-10
+CUST_0571,Michael Lopez,michael.lopez@company.com,384-761-2450,28,33251,Finance,2023-02-23,1,9165 Main St,Houston,NY,84743,Inactive,2023-09-01
+CUST_0572,William Anderson,william.anderson@company.com,119-223-9713,29,32486,Finance,2021-02-25,2,9496 First St,Los Angeles,PA,62664,Active,2023-09-09
+CUST_0573,John Garcia,john.garcia@company.com,547-284-7798,19,99193,Operations,2022-02-21,3,1492 Main St,Los Angeles,IL,47401,Inactive,2023-04-04
+CUST_0574,Tom Gonzalez,tom.gonzalez@company.com,191-257-6026,44,118946,Engineering,2020-04-30,5,5330 Oak Ave,New York,NY,49062,On Leave,2023-02-20
+CUST_0575,James Williams,james.williams@company.com,522-431-5225,42,45855,Sales,2021-02-18,2,9782 Second Ave,Houston,CA,76666,On Leave,2023-02-28
+CUST_0576,Tom Smith,tom.smith@company.com,425-575-7669,22,93461,Sales,2022-04-14,2,306 Park Rd,Los Angeles,TX,82706,Inactive,2023-06-05
+CUST_0577,Jennifer Davis,jennifer.davis@company.com,185-966-9199,31,48660,Operations,2023-01-11,2,4017 Second Ave,San Antonio,CA,15477,Active,2023-08-26
+CUST_0578,Emma Hernandez,emma.hernandez@company.com,271-100-1985,48,65822,Finance,2023-10-24,4,5758 Maple Ave,Houston,AZ,15961,Inactive,2023-10-01
+CUST_0579,Mike Jones,mike.jones@company.com,191-504-3014,26,102938,Finance,2022-06-03,2,8271 Maple Ave,Philadelphia,PA,93252,Terminated,2023-12-29
+CUST_0580,Michael Jones,michael.jones@company.com,351-778-6269,39,57606,Legal,2023-05-12,3,261 Elm St,Chicago,NY,89794,On Leave,2023-01-03
+CUST_0581,John Hernandez,john.hernandez@company.com,277-523-9011,66,81483,Marketing,2023-08-22,1,8826 Main St,San Diego,CA,56267,On Leave,2023-11-04
+CUST_0582,Mary Miller,mary.miller@company.com,281-959-1138,25,90646,Operations,2021-01-30,4,154 Oak Ave,New York,AZ,99201,Terminated,2023-04-09
+CUST_0583,Mike Wilson,mike.wilson@company.com,728-740-5967,69,58986,HR,2022-10-08,3,603 Park Rd,San Diego,TX,10935,Inactive,2023-11-23
+CUST_0584,Robert Johnson,robert.johnson@company.com,990-384-9197,49,52344,HR,2023-09-13,5,9880 Second Ave,Chicago,CA,87091,Inactive,2023-02-03
+CUST_0585,David Jones,david.jones@company.com,683-976-4734,51,65956,HR,2023-10-20,1,8732 Second Ave,Phoenix,CA,10256,On Leave,2023-11-25
+CUST_0586,Jane Wilson,jane.wilson@company.com,430-542-7666,35,45953,Legal,2022-10-11,3,8475 Maple Ave,New York,TX,16155,Terminated,2023-08-04
+CUST_0587,Elizabeth Davis,elizabeth.davis@company.com,423-105-7420,30,73870,Marketing,2023-03-17,1,3697 Elm St,San Antonio,CA,42765,Inactive,2023-03-26
+CUST_0588,James Jones,james.jones@company.com,164-741-2584,19,92910,IT,2020-02-19,5,5478 Maple Ave,Phoenix,TX,24134,On Leave,2023-05-03
+CUST_0589,James Wilson,james.wilson@company.com,155-941-6465,51,61030,Marketing,2023-05-13,5,7185 Maple Ave,Los Angeles,CA,85882,Active,2023-02-13
+CUST_0590,Jane Anderson,jane.anderson@company.com,134-486-6132,62,38523,Engineering,2020-05-06,4,898 Park Rd,San Antonio,CA,23346,Active,2023-10-14
+CUST_0591,Jane Jones,jane.jones@company.com,970-490-7581,24,110911,IT,2021-04-22,5,174 First St,San Antonio,CA,66112,Active,2023-06-23
+CUST_0592,John Davis,john.davis@company.com,629-436-4153,24,43459,Sales,2023-05-03,1,9714 Maple Ave,Houston,IL,93540,Terminated,2023-07-01
+CUST_0593,Jennifer Davis,jennifer.davis@company.com,842-735-8284,29,61870,Engineering,2020-03-31,1,2092 Park Rd,San Antonio,PA,50788,Inactive,2023-03-17
+CUST_0594,Linda Jones,linda.jones@company.com,717-451-5768,41,31059,Engineering,2020-04-27,2,8309 Maple Ave,New York,TX,55064,Inactive,2023-04-13
+CUST_0595,Chris Gonzalez,chris.gonzalez@company.com,170-449-4102,60,92354,Legal,2023-05-13,3,9477 Second Ave,Philadelphia,AZ,64879,Terminated,2023-03-25
+CUST_0596,Sarah Davis,sarah.davis@company.com,997-908-1691,49,58757,Sales,2023-08-01,2,3773 First St,Houston,TX,73012,Terminated,2023-07-12
+CUST_0597,Chris Miller,chris.miller@company.com,288-945-1110,41,31296,Marketing,2022-01-02,1,9089 Main St,Chicago,AZ,67725,Inactive,2023-11-20
+CUST_0598,Mary Smith,mary.smith@company.com,130-303-4241,36,52825,HR,2021-06-20,2,5568 Maple Ave,Houston,IL,35688,Active,2023-04-01
+CUST_0599,Tom Anderson,tom.anderson@company.com,203-121-3248,42,115835,Marketing,2021-11-24,2,4999 First St,Houston,PA,58804,Inactive,2023-09-27
+CUST_0600,Jennifer Anderson,jennifer.anderson@company.com,828-166-2941,27,47143,HR,2021-01-27,5,6197 Elm St,Philadelphia,PA,88584,On Leave,2023-11-22
+CUST_0601,Anna Anderson,anna.anderson@company.com,147-881-4098,52,68559,Engineering,2021-11-02,2,873 Elm St,Phoenix,IL,76619,On Leave,2023-04-18
+CUST_0602,Mike Gonzalez,mike.gonzalez@company.com,581-909-2062,28,96665,IT,2023-08-14,5,6132 First St,San Diego,IL,52182,Terminated,2023-09-27
+CUST_0603,Linda Lopez,linda.lopez@company.com,606-585-5396,55,82552,Sales,2021-02-28,2,3326 First St,Houston,TX,38651,Terminated,2023-08-06
+CUST_0604,Robert Martinez,robert.martinez@company.com,260-962-7129,34,102161,Marketing,2020-10-02,1,4835 First St,Philadelphia,TX,86541,Active,2023-08-27
+CUST_0605,William Martinez,william.martinez@company.com,444-536-8391,47,86689,IT,2022-01-22,4,5195 Park Rd,San Antonio,NY,33536,On Leave,2023-04-30
+CUST_0606,Tom Hernandez,tom.hernandez@company.com,177-467-2350,36,95767,Marketing,2021-07-20,2,1613 Main St,Los Angeles,PA,15017,Inactive,2023-06-20
+CUST_0607,Chris Hernandez,chris.hernandez@company.com,437-356-5959,65,119592,Finance,2021-01-25,5,2259 Maple Ave,Phoenix,NY,49252,Terminated,2023-06-27
+CUST_0608,Robert Miller,robert.miller@company.com,941-693-1194,48,115733,Engineering,2022-03-25,2,3718 Elm St,Houston,CA,40634,On Leave,2023-08-25
+CUST_0609,James Gonzalez,james.gonzalez@company.com,187-420-4077,45,84747,HR,2022-06-17,4,9150 Main St,Philadelphia,IL,85695,Inactive,2023-06-06
+CUST_0610,John Davis,john.davis@company.com,929-774-6810,39,59555,IT,2022-05-21,4,8809 Park Rd,Philadelphia,NY,84393,Active,2023-03-13
+CUST_0611,David Garcia,david.garcia@company.com,681-744-7404,42,56765,IT,2020-05-10,5,6332 Oak Ave,San Diego,CA,53101,On Leave,2023-11-24
+CUST_0612,Emma Johnson,emma.johnson@company.com,275-206-3910,20,109084,Legal,2020-02-24,2,3261 Main St,San Antonio,AZ,36986,Inactive,2023-05-30
+CUST_0613,William Johnson,william.johnson@company.com,565-158-7039,51,31447,Engineering,2021-10-31,4,6408 Oak Ave,Los Angeles,IL,80313,On Leave,2023-09-02
+CUST_0614,Mike Miller,mike.miller@company.com,986-311-3128,31,70600,IT,2023-12-24,4,2602 Second Ave,Phoenix,TX,75860,On Leave,2023-05-22
+CUST_0615,Chris Smith,chris.smith@company.com,246-556-2048,70,82328,HR,2022-12-12,3,9327 First St,San Diego,CA,85514,Active,2023-02-16
+CUST_0616,Emma Hernandez,emma.hernandez@company.com,567-455-5873,43,110350,Engineering,2022-04-30,2,2943 Second Ave,San Antonio,CA,60418,Inactive,2023-12-24
+CUST_0617,Sarah Miller,sarah.miller@company.com,815-144-4927,28,65884,Finance,2023-09-27,1,3560 First St,San Antonio,CA,58330,Active,2023-02-23
+CUST_0618,William Gonzalez,william.gonzalez@company.com,898-433-7719,46,51605,Finance,2021-02-28,5,732 First St,New York,CA,93737,On Leave,2023-07-15
+CUST_0619,James Lopez,james.lopez@company.com,508-976-4185,43,34951,Sales,2021-05-28,1,2237 Park Rd,San Diego,CA,70470,Active,2023-02-12
+CUST_0620,Elizabeth Hernandez,elizabeth.hernandez@company.com,348-830-8171,26,91707,Finance,2020-11-26,2,296 Second Ave,Los Angeles,IL,48554,Active,2023-10-01
+CUST_0621,Robert Williams,robert.williams@company.com,179-787-1183,61,65815,Engineering,2022-06-21,3,2916 Oak Ave,New York,TX,67941,Active,2023-11-22
+CUST_0622,William Hernandez,william.hernandez@company.com,778-833-2684,42,70412,Legal,2020-04-17,5,77 Main St,San Antonio,TX,42728,Terminated,2023-05-03
+CUST_0623,Chris Johnson,chris.johnson@company.com,116-531-1457,18,74186,HR,2023-10-24,1,3614 Main St,Chicago,IL,15768,On Leave,2023-09-20
+CUST_0624,Sarah Wilson,sarah.wilson@company.com,434-430-4105,57,57147,IT,2022-05-26,1,3808 Oak Ave,Los Angeles,PA,52384,Inactive,2023-01-08
+CUST_0625,Robert Hernandez,robert.hernandez@company.com,423-112-7376,31,90132,HR,2020-05-15,3,6046 Main St,Los Angeles,TX,63883,Terminated,2023-11-03
+CUST_0626,Linda Johnson,linda.johnson@company.com,829-649-3809,34,42418,Operations,2023-07-16,4,2178 Park Rd,Chicago,PA,97342,On Leave,2023-02-04
+CUST_0627,James Smith,james.smith@company.com,723-699-8354,42,96981,HR,2022-10-28,5,218 Oak Ave,New York,CA,50481,Inactive,2023-08-08
+CUST_0628,Anna Martinez,anna.martinez@company.com,181-161-3253,41,95369,Finance,2021-02-17,2,6157 Oak Ave,New York,TX,88390,On Leave,2023-06-18
+CUST_0629,David Jones,david.jones@company.com,425-759-1648,51,84380,Finance,2020-02-18,2,5428 Park Rd,Houston,TX,80688,Active,2023-12-07
+CUST_0630,Anna Gonzalez,anna.gonzalez@company.com,803-812-4644,56,80002,Operations,2021-01-10,4,100 Main St,San Diego,CA,35226,Active,2023-11-21
+CUST_0631,David Brown,david.brown@company.com,228-193-3845,55,101938,HR,2021-04-28,5,1281 First St,San Diego,AZ,31516,Inactive,2023-05-06
+CUST_0632,Jennifer Williams,jennifer.williams@company.com,720-354-5966,36,105552,Legal,2023-07-25,2,4455 Maple Ave,San Diego,CA,57131,On Leave,2023-07-13
+CUST_0633,Lisa Davis,lisa.davis@company.com,551-532-9278,57,86810,Engineering,2022-09-14,1,6250 First St,Los Angeles,AZ,88011,Inactive,2023-10-11
+CUST_0634,Lisa Jones,lisa.jones@company.com,489-574-6011,47,67122,IT,2023-02-25,5,7879 Main St,Philadelphia,IL,71506,Inactive,2023-03-21
+CUST_0635,Chris Smith,chris.smith@company.com,113-982-9203,64,79054,Legal,2022-04-08,4,6466 Elm St,Philadelphia,TX,74166,Terminated,2023-11-25
+CUST_0636,Mike Miller,mike.miller@company.com,139-227-7304,54,51281,HR,2022-06-12,3,5712 Second Ave,San Diego,PA,17563,On Leave,2023-08-06
+CUST_0637,Anna Brown,anna.brown@company.com,589-135-6921,58,118660,Sales,2023-11-29,2,4282 Second Ave,San Diego,IL,43330,Inactive,2023-11-05
+CUST_0638,Lisa Smith,lisa.smith@company.com,219-889-2512,59,80377,IT,2023-12-17,5,1317 Second Ave,Houston,TX,31734,On Leave,2023-05-10
+CUST_0639,Emma Rodriguez,emma.rodriguez@company.com,645-774-7271,55,70367,IT,2020-07-01,1,9382 Maple Ave,Philadelphia,IL,45261,Inactive,2023-07-23
+CUST_0640,Emma Smith,emma.smith@company.com,272-935-9056,18,42697,Marketing,2023-11-27,4,8601 First St,Phoenix,TX,32365,Inactive,2023-07-11
+CUST_0641,Lisa Lopez,lisa.lopez@company.com,237-302-8970,29,95878,Marketing,2022-07-11,5,3483 Oak Ave,Houston,NY,33950,Inactive,2023-05-13
+CUST_0642,Jennifer Davis,jennifer.davis@company.com,741-739-2789,58,51774,Marketing,2021-08-23,1,6189 Main St,Phoenix,CA,54846,Active,2023-10-27
+CUST_0643,Anna Davis,anna.davis@company.com,596-788-2651,18,38002,Finance,2020-01-15,5,686 Main St,Houston,NY,59239,Terminated,2023-09-06
+CUST_0644,Linda Gonzalez,linda.gonzalez@company.com,445-718-8036,39,78599,Operations,2021-10-07,2,5919 Elm St,San Antonio,TX,90059,Active,2023-07-02
+CUST_0645,James Gonzalez,james.gonzalez@company.com,202-103-8486,62,82665,Engineering,2020-02-22,5,2014 Maple Ave,Phoenix,TX,58290,On Leave,2023-11-13
+CUST_0646,Linda Rodriguez,linda.rodriguez@company.com,523-776-4079,18,113633,Operations,2020-02-04,3,750 Maple Ave,Philadelphia,CA,40612,On Leave,2023-07-24
+CUST_0647,Mike Garcia,mike.garcia@company.com,538-587-2645,64,80444,Finance,2023-05-28,2,2346 Maple Ave,New York,IL,75264,Active,2023-06-04
+CUST_0648,Elizabeth Wilson,elizabeth.wilson@company.com,578-272-8311,25,93198,HR,2021-05-13,2,2793 Maple Ave,Los Angeles,CA,67002,Active,2023-03-24
+CUST_0649,James Anderson,james.anderson@company.com,492-884-5593,32,63767,Legal,2023-10-05,1,2225 Second Ave,San Diego,CA,53620,Inactive,2023-10-22
+CUST_0650,Mike Hernandez,mike.hernandez@company.com,451-486-7252,59,114161,IT,2021-04-22,2,4245 Main St,Phoenix,CA,24599,Active,2023-06-24
+CUST_0651,Chris Lopez,chris.lopez@company.com,218-686-7025,26,71074,IT,2023-03-27,1,5093 Main St,Houston,TX,65535,Terminated,2023-07-06
+CUST_0652,David Rodriguez,david.rodriguez@company.com,779-716-4639,24,81814,Sales,2023-01-07,4,5177 Oak Ave,Phoenix,TX,75514,On Leave,2023-03-17
+CUST_0653,Emma Williams,emma.williams@company.com,864-781-1562,56,71961,Finance,2022-10-25,1,4481 Maple Ave,San Diego,TX,74883,Terminated,2023-12-27
+CUST_0654,Robert Smith,robert.smith@company.com,929-441-3501,70,57605,HR,2023-12-05,1,2934 Maple Ave,San Diego,TX,49203,Inactive,2023-01-12
+CUST_0655,Elizabeth Miller,elizabeth.miller@company.com,445-532-8756,40,81296,IT,2020-05-27,5,4638 Park Rd,Houston,TX,22755,Inactive,2023-06-15
+CUST_0656,Jane Wilson,jane.wilson@company.com,826-411-8496,59,51455,Engineering,2022-06-23,4,4770 Oak Ave,Houston,TX,35644,Active,2023-07-05
+CUST_0657,Sarah Hernandez,sarah.hernandez@company.com,904-979-3418,42,85982,Engineering,2020-04-25,1,5826 First St,Chicago,NY,25380,Terminated,2023-10-31
+CUST_0658,Jennifer Williams,jennifer.williams@company.com,742-839-7619,33,34455,Marketing,2021-05-08,4,8006 Park Rd,Chicago,TX,97914,Active,2023-08-26
+CUST_0659,Robert Jones,robert.jones@company.com,747-768-8292,41,31520,Marketing,2020-08-26,1,2000 First St,Houston,NY,86919,On Leave,2023-05-21
+CUST_0660,Sarah Gonzalez,sarah.gonzalez@company.com,707-285-7290,48,114488,IT,2021-09-03,5,2052 Main St,Philadelphia,CA,80452,Inactive,2023-07-27
+CUST_0661,John Miller,john.miller@company.com,669-937-9788,68,99479,Legal,2020-05-10,5,9581 Second Ave,Los Angeles,TX,96321,Active,2023-04-03
+CUST_0662,Lisa Smith,lisa.smith@company.com,668-557-6149,25,35130,Engineering,2023-03-23,2,2642 Main St,Phoenix,NY,21090,Active,2023-09-17
+CUST_0663,Emma Garcia,emma.garcia@company.com,657-275-7931,60,30011,HR,2021-09-07,1,8511 Maple Ave,Phoenix,CA,28331,On Leave,2023-12-22
+CUST_0664,James Rodriguez,james.rodriguez@company.com,460-720-9818,50,57504,Marketing,2023-09-19,1,3885 Main St,Houston,IL,49283,Inactive,2023-03-10
+CUST_0665,Elizabeth Brown,elizabeth.brown@company.com,705-467-5544,26,111567,IT,2020-06-01,5,4178 Park Rd,San Antonio,IL,62436,On Leave,2023-02-12
+CUST_0666,Tom Hernandez,tom.hernandez@company.com,535-811-3346,52,56707,Marketing,2023-07-13,3,3157 Elm St,Philadelphia,IL,65009,Inactive,2023-06-11
+CUST_0667,Jennifer Miller,jennifer.miller@company.com,126-718-5055,22,65405,Marketing,2022-12-24,1,8985 First St,Los Angeles,PA,93909,Active,2023-07-05
+CUST_0668,James Gonzalez,james.gonzalez@company.com,379-249-4698,35,31292,Marketing,2022-02-11,2,6204 Main St,Los Angeles,IL,79006,Terminated,2023-10-29
+CUST_0669,Linda Johnson,linda.johnson@company.com,641-457-5620,53,65527,Marketing,2020-04-08,2,5211 Maple Ave,San Antonio,IL,55242,On Leave,2023-09-02
+CUST_0670,David Jones,david.jones@company.com,109-803-9414,63,50380,Engineering,2020-10-19,4,9299 Elm St,Phoenix,NY,93780,Terminated,2023-12-29
+CUST_0671,Anna Hernandez,anna.hernandez@company.com,723-528-8500,29,87535,Operations,2022-08-17,5,4700 Park Rd,San Antonio,TX,50001,Active,2023-06-06
+CUST_0672,Jennifer Gonzalez,jennifer.gonzalez@company.com,420-965-2476,58,40416,Marketing,2021-05-06,1,2706 Second Ave,New York,CA,47467,On Leave,2023-01-06
+CUST_0673,Jennifer Hernandez,jennifer.hernandez@company.com,620-848-3235,48,95248,Marketing,2022-04-10,1,3116 Maple Ave,New York,TX,80035,Terminated,2023-05-06
+CUST_0674,William Hernandez,william.hernandez@company.com,723-143-8350,28,118410,HR,2020-12-24,1,6014 Maple Ave,Chicago,PA,16672,On Leave,2023-09-11
+CUST_0675,Robert Williams,robert.williams@company.com,482-215-6537,61,62737,Marketing,2021-08-17,3,7916 Park Rd,Phoenix,TX,10292,On Leave,2023-04-22
+CUST_0676,Emma Anderson,emma.anderson@company.com,758-627-1580,47,110969,Legal,2020-04-27,3,97 Second Ave,San Diego,PA,49105,Terminated,2023-02-24
+CUST_0677,John Garcia,john.garcia@company.com,839-290-7587,40,31161,Marketing,2022-06-01,4,3237 Main St,Chicago,TX,26232,On Leave,2023-01-04
+CUST_0678,David Gonzalez,david.gonzalez@company.com,772-356-4704,48,81820,Operations,2021-09-04,3,7018 Oak Ave,Phoenix,CA,67484,On Leave,2023-03-24
+CUST_0679,David Garcia,david.garcia@company.com,865-544-1095,40,56013,Marketing,2021-01-23,3,660 Oak Ave,San Antonio,TX,53412,Active,2023-03-24
+CUST_0680,Chris Davis,chris.davis@company.com,781-372-2946,44,94103,Legal,2023-10-28,2,5323 Maple Ave,San Antonio,TX,27225,Active,2023-02-25
+CUST_0681,John Williams,john.williams@company.com,259-452-9192,18,119710,HR,2020-04-16,3,7040 Second Ave,New York,TX,72939,Terminated,2023-05-25
+CUST_0682,Linda Johnson,linda.johnson@company.com,879-539-5059,57,49987,Engineering,2021-05-25,3,1885 Maple Ave,Phoenix,TX,97337,On Leave,2023-04-12
+CUST_0683,Linda Lopez,linda.lopez@company.com,901-929-2688,62,95841,Engineering,2021-01-21,5,2437 Oak Ave,Los Angeles,IL,62596,Active,2023-05-21
+CUST_0684,Chris Anderson,chris.anderson@company.com,249-536-1289,57,56167,Marketing,2020-04-14,4,6674 Second Ave,Phoenix,TX,39068,Terminated,2023-08-07
+CUST_0685,Linda Smith,linda.smith@company.com,622-537-1846,37,44425,Finance,2022-01-14,3,5752 Elm St,San Antonio,TX,51922,Active,2023-04-04
+CUST_0686,Jane Smith,jane.smith@company.com,153-776-6269,31,67397,Legal,2021-07-27,5,1651 First St,Chicago,AZ,74393,Terminated,2023-06-21
+CUST_0687,Emma Johnson,emma.johnson@company.com,199-785-1223,61,102321,Engineering,2021-11-09,3,5921 Elm St,Philadelphia,TX,95229,Terminated,2023-04-18
+CUST_0688,Robert Johnson,robert.johnson@company.com,208-233-2971,20,106881,HR,2021-01-30,4,1617 Main St,Philadelphia,AZ,72154,Inactive,2023-10-01
+CUST_0689,David Smith,david.smith@company.com,230-296-7851,53,63099,Operations,2022-01-19,4,1924 First St,Los Angeles,CA,64919,Active,2023-03-27
+CUST_0690,Tom Lopez,tom.lopez@company.com,232-396-1744,54,37968,HR,2022-03-25,4,8724 Maple Ave,Los Angeles,IL,67376,On Leave,2023-10-15
+CUST_0691,Robert Miller,robert.miller@company.com,721-378-4390,29,30471,Engineering,2023-03-17,2,9702 Elm St,New York,CA,76036,Terminated,2023-06-05
+CUST_0692,Anna Jones,anna.jones@company.com,825-374-2951,28,59350,Sales,2022-12-28,2,4782 Main St,Chicago,AZ,27428,Terminated,2023-01-27
+CUST_0693,Anna Wilson,anna.wilson@company.com,315-647-2903,18,115019,Operations,2023-07-19,5,6048 Park Rd,Los Angeles,AZ,27512,On Leave,2023-11-10
+CUST_0694,Emma Garcia,emma.garcia@company.com,158-740-1170,70,76593,HR,2021-07-26,2,4195 Main St,Los Angeles,TX,95698,Terminated,2023-11-17
+CUST_0695,Elizabeth Brown,elizabeth.brown@company.com,936-552-4614,38,65231,HR,2023-04-06,4,2551 First St,Houston,TX,58318,Inactive,2023-09-03
+CUST_0696,Mike Davis,mike.davis@company.com,285-570-4031,70,53083,HR,2023-03-12,4,2956 Elm St,Phoenix,NY,50653,Inactive,2023-04-01
+CUST_0697,Robert Hernandez,robert.hernandez@company.com,722-292-2137,27,39443,IT,2021-05-17,4,6595 Main St,Chicago,NY,89074,Active,2023-07-13
+CUST_0698,Robert Smith,robert.smith@company.com,212-946-1222,66,114473,Sales,2020-09-27,2,1370 Park Rd,Chicago,NY,11231,Active,2023-10-05
+CUST_0699,James Wilson,james.wilson@company.com,824-187-4314,26,92970,Legal,2020-11-30,3,5436 First St,Chicago,TX,17323,Terminated,2023-11-18
+CUST_0700,Elizabeth Johnson,elizabeth.johnson@company.com,121-944-1729,24,101387,Finance,2020-07-29,5,6805 Oak Ave,New York,TX,13145,Inactive,2023-08-07
+CUST_0701,Robert Williams,robert.williams@company.com,461-771-5699,32,119707,IT,2023-11-07,1,8058 Oak Ave,Los Angeles,TX,23334,Terminated,2023-07-02
+CUST_0702,Mike Martinez,mike.martinez@company.com,441-221-6906,23,35681,Engineering,2020-12-30,4,8692 Park Rd,Chicago,TX,29689,Terminated,2023-11-16
+CUST_0703,Emma Garcia,emma.garcia@company.com,996-206-5441,49,116734,Operations,2021-06-27,1,36 Maple Ave,Chicago,IL,51976,Inactive,2023-07-19
+CUST_0704,Michael Lopez,michael.lopez@company.com,915-904-8838,70,38822,Marketing,2023-03-29,4,4563 Oak Ave,Los Angeles,PA,26716,Inactive,2023-07-17
+CUST_0705,Mary Garcia,mary.garcia@company.com,606-534-8885,62,84256,Operations,2020-10-10,2,6279 First St,San Diego,CA,79792,Inactive,2023-07-16
+CUST_0706,Mike Martinez,mike.martinez@company.com,832-531-9633,54,58748,Marketing,2021-04-26,3,47 Oak Ave,New York,PA,83187,On Leave,2023-03-10
+CUST_0707,Sarah Smith,sarah.smith@company.com,457-469-3283,36,90344,Engineering,2023-02-03,4,3974 Oak Ave,Houston,NY,28061,Active,2023-12-23
+CUST_0708,David Miller,david.miller@company.com,850-126-7958,41,37088,Marketing,2023-09-19,5,1209 First St,Chicago,NY,29252,Terminated,2023-03-14
+CUST_0709,Mike Brown,mike.brown@company.com,178-112-7823,27,53910,Legal,2020-10-13,5,4908 First St,San Antonio,PA,68192,Active,2023-05-27
+CUST_0710,Sarah Williams,sarah.williams@company.com,161-757-1526,56,52751,Engineering,2020-01-23,4,6941 Elm St,San Diego,AZ,84981,Terminated,2023-12-30
+CUST_0711,Anna Miller,anna.miller@company.com,260-378-2506,51,79487,Engineering,2021-03-09,4,918 Oak Ave,San Antonio,IL,83307,Active,2023-12-21
+CUST_0712,Michael Davis,michael.davis@company.com,420-768-7637,70,79868,Engineering,2020-04-21,3,6951 Oak Ave,Phoenix,CA,23683,Active,2023-07-05
+CUST_0713,James Smith,james.smith@company.com,345-388-3666,52,43954,Marketing,2021-03-09,5,180 Maple Ave,Phoenix,TX,82311,Inactive,2023-11-23
+CUST_0714,Jane Brown,jane.brown@company.com,375-187-1735,54,93413,Sales,2020-04-08,3,1528 Park Rd,New York,PA,47015,On Leave,2023-09-14
+CUST_0715,Chris Garcia,chris.garcia@company.com,869-500-6830,26,118432,Marketing,2021-11-09,4,8251 Main St,Chicago,NY,86962,On Leave,2023-09-02
+CUST_0716,Jane Jones,jane.jones@company.com,265-255-8587,23,112044,Marketing,2021-04-19,2,2308 Maple Ave,Chicago,PA,68652,Inactive,2023-06-23
+CUST_0717,Emma Garcia,emma.garcia@company.com,738-976-8059,20,119505,IT,2021-05-04,2,9944 Main St,Chicago,CA,22767,Active,2023-03-15
+CUST_0718,Emma Rodriguez,emma.rodriguez@company.com,988-916-2428,49,42335,Legal,2021-10-04,2,4844 Oak Ave,Los Angeles,AZ,85564,Terminated,2023-06-30
+CUST_0719,Mike Johnson,mike.johnson@company.com,283-827-8548,34,92031,Finance,2022-06-24,2,2032 Second Ave,San Diego,NY,57641,Terminated,2023-07-25
+CUST_0720,Jennifer Wilson,jennifer.wilson@company.com,734-796-3113,46,78068,Operations,2022-02-04,1,6770 Second Ave,San Diego,AZ,99463,Active,2023-11-14
+CUST_0721,Jane Lopez,jane.lopez@company.com,909-350-1130,27,43801,Finance,2022-02-08,2,9342 First St,Los Angeles,TX,60885,On Leave,2023-12-09
+CUST_0722,Mike Garcia,mike.garcia@company.com,577-579-9767,70,90929,Marketing,2020-06-24,2,1776 First St,San Antonio,TX,62628,Terminated,2023-02-03
+CUST_0723,James Garcia,james.garcia@company.com,718-597-4483,62,92419,Marketing,2021-07-24,4,628 Second Ave,Chicago,CA,29072,Inactive,2023-06-13
+CUST_0724,Jane Martinez,jane.martinez@company.com,892-489-2022,69,77381,IT,2022-08-27,2,887 Oak Ave,New York,TX,45369,Terminated,2023-11-22
+CUST_0725,Lisa Johnson,lisa.johnson@company.com,245-170-5487,43,40709,Finance,2023-12-29,4,6877 Second Ave,Houston,AZ,34127,Active,2023-02-17
+CUST_0726,Jennifer Garcia,jennifer.garcia@company.com,871-404-3695,30,75780,IT,2022-09-13,4,8774 Elm St,Chicago,TX,56490,On Leave,2023-01-06
+CUST_0727,Elizabeth Gonzalez,elizabeth.gonzalez@company.com,711-303-2274,64,117551,Engineering,2021-10-25,3,233 Oak Ave,San Diego,IL,75463,Terminated,2023-02-28
+CUST_0728,Jennifer Jones,jennifer.jones@company.com,633-839-1060,46,46478,Legal,2023-08-01,5,1597 Main St,Houston,TX,65073,Inactive,2023-11-04
+CUST_0729,Robert Brown,robert.brown@company.com,456-314-4131,61,105607,Sales,2022-01-28,3,266 Park Rd,Phoenix,CA,75422,On Leave,2023-07-31
+CUST_0730,Jennifer Garcia,jennifer.garcia@company.com,460-948-9887,45,98572,Operations,2020-08-20,2,7518 First St,Philadelphia,IL,82450,Inactive,2023-10-05
+CUST_0731,Jennifer Miller,jennifer.miller@company.com,391-965-8167,58,67125,Marketing,2020-06-28,1,1469 Elm St,New York,TX,23588,On Leave,2023-11-16
+CUST_0732,Elizabeth Johnson,elizabeth.johnson@company.com,748-554-9247,55,34277,Finance,2022-05-11,2,3652 Maple Ave,San Diego,TX,25007,Inactive,2023-08-29
+CUST_0733,Sarah Garcia,sarah.garcia@company.com,912-575-7765,70,114523,IT,2020-01-16,3,3669 Second Ave,Phoenix,AZ,96334,Terminated,2023-06-07
+CUST_0734,Jennifer Hernandez,jennifer.hernandez@company.com,347-104-7792,20,32035,Sales,2020-11-10,3,8503 Maple Ave,Philadelphia,PA,32336,On Leave,2023-05-04
+CUST_0735,Elizabeth Miller,elizabeth.miller@company.com,297-731-7444,21,105740,IT,2020-09-20,4,2847 First St,Philadelphia,IL,67331,Inactive,2023-02-20
+CUST_0736,David Rodriguez,david.rodriguez@company.com,221-746-7422,66,112223,Finance,2023-02-06,2,5283 Oak Ave,Los Angeles,CA,13360,On Leave,2023-01-06
+CUST_0737,David Smith,david.smith@company.com,732-824-9907,23,104946,IT,2020-02-21,2,7434 Elm St,Philadelphia,IL,41420,Inactive,2023-06-02
+CUST_0738,Chris Rodriguez,chris.rodriguez@company.com,960-351-7194,67,64141,Sales,2021-07-17,1,2356 Elm St,New York,CA,24540,On Leave,2023-11-02
+CUST_0739,Sarah Johnson,sarah.johnson@company.com,245-389-5292,29,42160,Marketing,2022-10-09,3,3408 First St,Los Angeles,CA,12877,On Leave,2023-02-07
+CUST_0740,Linda Hernandez,linda.hernandez@company.com,178-315-7879,42,71102,Legal,2020-11-25,2,4895 Main St,Chicago,NY,25362,Terminated,2023-06-27
+CUST_0741,Linda Martinez,linda.martinez@company.com,714-659-1082,28,98386,Finance,2020-09-06,2,9931 Main St,New York,IL,38351,Terminated,2023-02-28
+CUST_0742,Chris Smith,chris.smith@company.com,435-241-4600,23,46591,Finance,2021-07-14,4,3265 Main St,Philadelphia,AZ,71216,On Leave,2023-08-12
+CUST_0743,William Miller,william.miller@company.com,297-356-3833,30,66842,IT,2020-07-29,5,9627 Park Rd,Chicago,TX,73941,On Leave,2023-08-17
+CUST_0744,Jennifer Martinez,jennifer.martinez@company.com,865-378-6222,57,44097,IT,2022-05-29,2,9293 Park Rd,Philadelphia,CA,68904,Inactive,2023-01-18
+CUST_0745,William Jones,william.jones@company.com,700-519-5808,56,114554,Operations,2022-03-26,1,1879 Oak Ave,Philadelphia,TX,34368,Terminated,2023-05-06
+CUST_0746,Mike Brown,mike.brown@company.com,772-480-7094,27,71215,Marketing,2020-01-20,3,179 Elm St,Philadelphia,TX,70997,Terminated,2023-04-30
+CUST_0747,Elizabeth Johnson,elizabeth.johnson@company.com,494-390-4476,51,58503,Marketing,2023-02-22,3,9960 Maple Ave,Los Angeles,TX,99408,On Leave,2023-06-12
+CUST_0748,James Brown,james.brown@company.com,301-150-9092,49,36133,Finance,2022-05-12,1,2034 First St,Chicago,PA,87485,On Leave,2023-05-02
+CUST_0749,John Jones,john.jones@company.com,118-759-1076,47,67272,Engineering,2022-04-04,1,8741 Second Ave,New York,PA,94512,Active,2023-02-05
+CUST_0750,Linda Johnson,linda.johnson@company.com,949-921-7800,64,69452,Finance,2021-10-11,3,6560 Main St,Philadelphia,CA,90258,Active,2023-07-21
+CUST_0751,Emma Lopez,emma.lopez@company.com,565-605-2989,41,110999,Marketing,2020-02-29,2,784 Maple Ave,New York,IL,23780,Terminated,2023-12-19
+CUST_0752,Jennifer Brown,jennifer.brown@company.com,274-190-4131,64,78349,Sales,2023-11-10,1,4255 Maple Ave,New York,CA,16291,Terminated,2023-02-08
+CUST_0753,Tom Garcia,tom.garcia@company.com,804-727-7218,35,52326,Engineering,2023-04-09,4,1965 Oak Ave,Philadelphia,IL,86563,On Leave,2023-11-23
+CUST_0754,Michael Hernandez,michael.hernandez@company.com,225-634-9644,33,105744,Legal,2023-09-16,4,4597 Park Rd,San Diego,TX,22032,Terminated,2023-06-01
+CUST_0755,Mike Garcia,mike.garcia@company.com,671-955-4971,60,114821,HR,2023-11-24,1,1232 First St,New York,TX,11720,Inactive,2023-08-28
+CUST_0756,Robert Brown,robert.brown@company.com,599-207-6577,31,107401,Operations,2021-09-30,4,2524 Maple Ave,Los Angeles,IL,38676,Terminated,2023-07-17
+CUST_0757,Michael Wilson,michael.wilson@company.com,735-625-4326,67,82455,HR,2020-05-20,3,6932 Oak Ave,Phoenix,CA,29305,On Leave,2023-02-24
+CUST_0758,Sarah Brown,sarah.brown@company.com,116-571-4064,35,33746,Legal,2023-09-17,5,7417 Park Rd,Phoenix,CA,82129,Active,2023-07-01
+CUST_0759,Jennifer Brown,jennifer.brown@company.com,254-506-9227,45,96574,Operations,2020-04-18,4,4467 Park Rd,Los Angeles,NY,95016,On Leave,2023-08-05
+CUST_0760,Chris Jones,chris.jones@company.com,293-512-3894,56,66166,Legal,2022-11-28,4,1789 Elm St,New York,TX,24559,Inactive,2023-02-28
+CUST_0761,Jane Anderson,jane.anderson@company.com,136-689-5361,33,38630,Marketing,2021-07-18,2,6629 First St,San Antonio,CA,38821,Terminated,2023-09-11
+CUST_0762,Chris Williams,chris.williams@company.com,904-308-6695,58,67747,Finance,2020-01-07,1,3033 Second Ave,San Diego,AZ,41276,Inactive,2023-06-11
+CUST_0763,Mike Williams,mike.williams@company.com,291-440-8458,27,31669,Legal,2022-05-26,3,342 Oak Ave,Phoenix,CA,32377,Active,2023-11-01
+CUST_0764,Mary Davis,mary.davis@company.com,697-101-9000,33,91940,Marketing,2020-04-02,1,9295 Elm St,Phoenix,TX,78848,Inactive,2023-03-17
+CUST_0765,Sarah Johnson,sarah.johnson@company.com,411-923-6499,46,94312,Operations,2023-01-22,3,7971 Park Rd,Philadelphia,CA,11777,Terminated,2023-06-04
+CUST_0766,James Anderson,james.anderson@company.com,630-893-8935,25,65381,Sales,2020-10-29,4,3609 Elm St,Chicago,PA,75251,Active,2023-05-06
+CUST_0767,Jennifer Garcia,jennifer.garcia@company.com,311-862-2462,30,79516,Marketing,2021-07-14,5,7361 Second Ave,Chicago,AZ,99006,Terminated,2023-06-19
+CUST_0768,Robert Martinez,robert.martinez@company.com,527-382-6067,30,35387,Operations,2023-06-08,1,7102 Maple Ave,San Diego,PA,47802,Active,2023-01-05
+CUST_0769,Linda Anderson,linda.anderson@company.com,801-250-8640,61,49690,Finance,2023-07-01,5,2665 Park Rd,San Diego,AZ,18469,Terminated,2023-01-08
+CUST_0770,Michael Smith,michael.smith@company.com,322-389-3022,21,94011,Finance,2020-01-11,4,5772 Elm St,New York,NY,42955,Inactive,2023-06-29
+CUST_0771,Emma Gonzalez,emma.gonzalez@company.com,979-614-3540,23,65477,Engineering,2021-02-06,4,9589 Main St,Phoenix,TX,14212,On Leave,2023-07-01
+CUST_0772,Anna Gonzalez,anna.gonzalez@company.com,794-752-7328,45,82312,Marketing,2021-06-19,3,9782 Park Rd,Chicago,TX,98987,Terminated,2023-10-24
+CUST_0773,David Hernandez,david.hernandez@company.com,886-304-5096,26,84566,HR,2021-09-08,3,1403 Park Rd,San Diego,IL,59278,On Leave,2023-02-19
+CUST_0774,David Rodriguez,david.rodriguez@company.com,552-810-6132,50,119805,Operations,2022-08-17,3,7007 First St,San Antonio,TX,70461,Active,2023-10-14
+CUST_0775,John Gonzalez,john.gonzalez@company.com,531-190-3303,57,69634,HR,2023-04-03,5,6114 Oak Ave,Phoenix,NY,61466,Inactive,2023-07-26
+CUST_0776,John Davis,john.davis@company.com,926-881-9487,47,37123,Marketing,2020-04-22,3,1754 Park Rd,Los Angeles,AZ,84113,On Leave,2023-12-20
+CUST_0777,James Wilson,james.wilson@company.com,162-224-9369,65,36949,HR,2022-11-23,2,9209 Elm St,San Diego,IL,39300,Inactive,2023-06-04
+CUST_0778,Emma Lopez,emma.lopez@company.com,106-924-8945,57,56306,Marketing,2020-05-17,1,2508 Second Ave,Los Angeles,CA,42401,Inactive,2023-02-23
+CUST_0779,Linda Smith,linda.smith@company.com,952-617-8271,43,37294,Marketing,2021-09-06,4,7926 Oak Ave,Houston,AZ,90315,On Leave,2023-12-03
+CUST_0780,Sarah Miller,sarah.miller@company.com,249-751-1354,29,48571,HR,2020-12-15,5,8957 Oak Ave,San Diego,CA,48015,Terminated,2023-12-08
+CUST_0781,Sarah Martinez,sarah.martinez@company.com,604-476-5508,43,80570,Marketing,2022-08-08,4,6961 Oak Ave,New York,AZ,69910,Active,2023-10-16
+CUST_0782,Robert Smith,robert.smith@company.com,694-410-1558,59,115252,Legal,2020-03-28,3,2283 First St,San Diego,AZ,11195,Inactive,2023-07-03
+CUST_0783,William Wilson,william.wilson@company.com,981-615-4453,40,98820,IT,2022-11-16,1,2859 Elm St,Chicago,PA,95974,Terminated,2023-08-24
+CUST_0784,David Jones,david.jones@company.com,903-880-5963,43,38940,Legal,2022-02-10,4,9927 Elm St,Chicago,AZ,26963,Terminated,2023-10-29
+CUST_0785,Mary Martinez,mary.martinez@company.com,732-949-7615,22,35888,Sales,2020-11-21,2,1582 Elm St,Los Angeles,CA,99040,On Leave,2023-06-15
+CUST_0786,Anna Gonzalez,anna.gonzalez@company.com,927-850-4876,24,52806,IT,2022-05-10,1,1015 Second Ave,Phoenix,CA,14904,Active,2023-08-15
+CUST_0787,Mary Martinez,mary.martinez@company.com,746-960-1482,29,72094,Marketing,2023-12-01,4,6188 Oak Ave,Houston,TX,43095,On Leave,2023-08-13
+CUST_0788,Emma Brown,emma.brown@company.com,306-859-3655,45,99275,HR,2020-06-25,5,398 Elm St,Los Angeles,TX,14356,Inactive,2023-01-03
+CUST_0789,Mary Gonzalez,mary.gonzalez@company.com,517-681-9955,22,74657,Engineering,2023-10-29,5,8130 Oak Ave,Houston,CA,75647,Terminated,2023-07-02
+CUST_0790,Elizabeth Wilson,elizabeth.wilson@company.com,241-920-2100,46,86034,IT,2020-05-25,5,1281 Oak Ave,Phoenix,CA,25456,On Leave,2023-04-29
+CUST_0791,Jane Martinez,jane.martinez@company.com,653-438-1369,32,67997,Finance,2022-03-10,3,1114 Maple Ave,Chicago,AZ,19801,Inactive,2023-09-23
+CUST_0792,William Jones,william.jones@company.com,508-733-1928,52,44532,Legal,2021-06-22,1,529 Park Rd,San Antonio,AZ,36281,Terminated,2023-01-31
+CUST_0793,David Brown,david.brown@company.com,660-936-6400,66,116944,Sales,2021-04-27,4,1195 Maple Ave,New York,PA,19275,On Leave,2023-11-03
+CUST_0794,Mike Anderson,mike.anderson@company.com,664-590-3121,35,35471,Marketing,2020-03-13,4,8317 Oak Ave,Philadelphia,TX,72599,Terminated,2023-04-27
+CUST_0795,John Anderson,john.anderson@company.com,156-126-4214,52,109709,IT,2023-10-28,1,9053 First St,New York,TX,59444,Inactive,2023-08-09
+CUST_0796,Jennifer Rodriguez,jennifer.rodriguez@company.com,241-218-8175,25,110694,Operations,2021-12-21,2,5622 First St,New York,TX,40413,Active,2023-10-29
+CUST_0797,John Brown,john.brown@company.com,522-865-9785,54,36000,Sales,2021-05-26,1,1256 Main St,Chicago,CA,33670,Terminated,2023-01-23
+CUST_0798,James Garcia,james.garcia@company.com,716-770-5001,36,47002,IT,2022-09-07,1,1259 Main St,Phoenix,TX,74871,Terminated,2023-04-23
+CUST_0799,Michael Lopez,michael.lopez@company.com,409-475-5795,59,62008,Finance,2021-10-15,5,8249 Main St,New York,PA,63848,On Leave,2023-05-24
+CUST_0800,Mike Brown,mike.brown@company.com,240-961-9535,32,69968,HR,2020-09-08,3,2326 Main St,Houston,CA,95184,On Leave,2023-02-28
+CUST_0801,John Davis,john.davis@company.com,956-134-5428,35,107101,IT,2021-09-07,1,979 Park Rd,San Antonio,CA,12470,On Leave,2023-07-16
+CUST_0802,Michael Smith,michael.smith@company.com,329-310-7214,29,116497,IT,2022-12-26,1,5000 Main St,Philadelphia,NY,89788,Terminated,2023-05-15
+CUST_0803,Chris Gonzalez,chris.gonzalez@company.com,128-449-8111,45,37486,Marketing,2023-02-07,4,4710 Maple Ave,San Diego,TX,85052,Terminated,2023-03-25
+CUST_0804,Robert Davis,robert.davis@company.com,863-343-3160,18,66791,Finance,2020-06-24,2,8894 Park Rd,Philadelphia,TX,15060,Terminated,2023-07-05
+CUST_0805,Tom Hernandez,tom.hernandez@company.com,356-901-1202,25,70225,Operations,2021-06-25,2,7272 First St,New York,CA,11162,On Leave,2023-01-19
+CUST_0806,Mary Davis,mary.davis@company.com,753-964-4569,44,37678,Marketing,2021-07-20,5,9035 Park Rd,Los Angeles,CA,33567,Terminated,2023-05-22
+CUST_0807,Tom Wilson,tom.wilson@company.com,606-230-4726,58,52871,Engineering,2023-06-19,1,3813 Main St,New York,IL,99711,On Leave,2023-10-24
+CUST_0808,James Smith,james.smith@company.com,666-834-4734,21,63954,Finance,2020-02-03,3,8855 Elm St,New York,TX,55839,Active,2023-02-09
+CUST_0809,William Davis,william.davis@company.com,215-623-2268,33,56744,Operations,2023-03-14,3,6816 Main St,San Antonio,AZ,28753,Active,2023-06-17
+CUST_0810,Mary Garcia,mary.garcia@company.com,517-767-7139,48,68543,Sales,2020-11-24,3,731 Park Rd,Chicago,NY,23924,Inactive,2023-06-10
+CUST_0811,William Lopez,william.lopez@company.com,899-859-9326,68,106216,Operations,2021-03-16,4,9547 Main St,Chicago,TX,95093,Active,2023-02-09
+CUST_0812,Anna Martinez,anna.martinez@company.com,615-688-9982,64,84798,Marketing,2022-12-16,1,9947 First St,San Diego,PA,45282,Inactive,2023-10-22
+CUST_0813,Emma Anderson,emma.anderson@company.com,349-436-4982,69,77443,HR,2022-07-22,3,1891 Elm St,Houston,CA,63729,Terminated,2023-02-10
+CUST_0814,Mary Rodriguez,mary.rodriguez@company.com,617-178-6935,59,93459,HR,2022-07-08,4,3765 Second Ave,Chicago,TX,63427,Inactive,2023-11-07
+CUST_0815,Tom Gonzalez,tom.gonzalez@company.com,393-449-6142,25,40683,IT,2022-05-12,5,2432 Second Ave,San Diego,TX,33581,On Leave,2023-01-08
+CUST_0816,Lisa Johnson,lisa.johnson@company.com,528-369-8698,65,43237,Engineering,2020-03-10,4,393 Elm St,Chicago,CA,27351,On Leave,2023-08-05
+CUST_0817,Mary Williams,mary.williams@company.com,511-813-4955,63,68455,Marketing,2021-11-20,3,9691 Second Ave,Los Angeles,NY,19666,Terminated,2023-08-18
+CUST_0818,Jennifer Hernandez,jennifer.hernandez@company.com,560-858-8138,36,92535,Engineering,2021-01-10,5,8346 Main St,Chicago,NY,87798,Terminated,2023-12-12
+CUST_0819,Michael Miller,michael.miller@company.com,428-549-3895,50,107080,Finance,2020-07-17,2,4872 First St,Philadelphia,NY,83941,On Leave,2023-05-27
+CUST_0820,James Miller,james.miller@company.com,426-875-3923,27,35496,HR,2022-05-31,5,4559 Second Ave,Philadelphia,CA,55527,Terminated,2023-03-26
+CUST_0821,Sarah Jones,sarah.jones@company.com,380-598-8191,32,52193,Finance,2021-06-15,5,1739 Oak Ave,Phoenix,IL,22579,Inactive,2023-10-10
+CUST_0822,William Gonzalez,william.gonzalez@company.com,272-128-1651,52,100505,HR,2020-01-14,4,423 Park Rd,Houston,AZ,84863,On Leave,2023-08-16
+CUST_0823,William Williams,william.williams@company.com,950-564-5832,25,45720,Legal,2022-06-04,4,4310 Main St,Chicago,AZ,97649,Active,2023-07-01
+CUST_0824,Mike Lopez,mike.lopez@company.com,912-327-2218,38,50542,Operations,2021-07-19,4,8403 Elm St,Los Angeles,PA,15027,On Leave,2023-02-21
+CUST_0825,William Garcia,william.garcia@company.com,294-961-1583,58,112219,Sales,2021-05-18,2,9607 First St,Houston,TX,44771,On Leave,2023-03-19
+CUST_0826,Linda Wilson,linda.wilson@company.com,291-851-9138,36,47274,HR,2023-07-24,1,8460 Maple Ave,Houston,NY,66927,Active,2023-09-09
+CUST_0827,Elizabeth Martinez,elizabeth.martinez@company.com,313-827-3918,20,84808,Finance,2023-06-10,4,9567 Oak Ave,Philadelphia,CA,79528,Inactive,2023-06-03
+CUST_0828,Anna Anderson,anna.anderson@company.com,399-784-8947,49,112578,IT,2023-05-09,3,8904 First St,Phoenix,CA,38695,Active,2023-05-28
+CUST_0829,Jennifer Davis,jennifer.davis@company.com,433-353-7960,25,53094,Legal,2021-10-15,1,5695 Elm St,San Antonio,IL,73404,On Leave,2023-11-04
+CUST_0830,Jennifer Hernandez,jennifer.hernandez@company.com,340-129-5766,35,96517,HR,2022-04-17,1,9213 Maple Ave,Philadelphia,AZ,98472,Terminated,2023-07-30
+CUST_0831,Robert Gonzalez,robert.gonzalez@company.com,552-535-7531,34,37160,Finance,2022-09-21,2,5568 Elm St,New York,AZ,68672,On Leave,2023-04-24
+CUST_0832,Lisa Rodriguez,lisa.rodriguez@company.com,311-898-2807,57,110052,Operations,2020-09-21,5,8844 Main St,New York,TX,21829,Terminated,2023-06-30
+CUST_0833,Elizabeth Johnson,elizabeth.johnson@company.com,770-150-9497,31,77460,HR,2020-11-17,5,6481 Maple Ave,Houston,AZ,31155,Terminated,2023-06-19
+CUST_0834,Jennifer Brown,jennifer.brown@company.com,666-850-5074,18,34728,Sales,2022-12-14,1,8217 First St,San Diego,NY,30571,Terminated,2023-06-04
+CUST_0835,John Brown,john.brown@company.com,746-890-5051,20,65711,Marketing,2022-02-12,4,2150 Maple Ave,Phoenix,CA,20030,Active,2023-09-16
+CUST_0836,Jennifer Smith,jennifer.smith@company.com,115-860-9875,56,49902,Marketing,2023-04-19,4,3184 Maple Ave,Phoenix,PA,65725,Active,2023-06-04
+CUST_0837,Tom Davis,tom.davis@company.com,307-202-5329,59,105523,Legal,2022-02-10,3,7038 Main St,Houston,TX,83530,Terminated,2023-09-05
+CUST_0838,Emma Anderson,emma.anderson@company.com,819-646-9300,33,80123,Sales,2022-10-14,4,6107 Maple Ave,Los Angeles,CA,39368,Active,2023-07-23
+CUST_0839,Anna Davis,anna.davis@company.com,478-588-2785,59,70712,Operations,2020-10-21,1,1563 Second Ave,Chicago,TX,74200,Inactive,2023-02-12
+CUST_0840,David Miller,david.miller@company.com,731-958-8758,51,104270,HR,2020-04-30,4,4130 First St,Phoenix,PA,29741,Active,2023-06-14
+CUST_0841,Jennifer Wilson,jennifer.wilson@company.com,105-374-4427,66,103716,Legal,2023-01-22,4,5129 Elm St,Houston,PA,70472,On Leave,2023-09-21
+CUST_0842,Elizabeth Wilson,elizabeth.wilson@company.com,857-850-2334,24,85797,Marketing,2022-02-08,2,224 Oak Ave,Los Angeles,IL,35869,On Leave,2023-02-28
+CUST_0843,Jane Anderson,jane.anderson@company.com,534-607-3797,58,98758,Legal,2020-10-13,5,6851 First St,New York,AZ,25411,On Leave,2023-05-31
+CUST_0844,Tom Rodriguez,tom.rodriguez@company.com,430-729-7088,54,115225,Engineering,2020-10-16,3,8573 Elm St,Houston,PA,78076,Terminated,2023-08-30
+CUST_0845,Michael Brown,michael.brown@company.com,438-864-3217,28,98731,Legal,2020-01-21,3,6821 Oak Ave,Chicago,CA,18788,Active,2023-06-09
+CUST_0846,Chris Brown,chris.brown@company.com,810-196-9810,47,73389,Marketing,2020-05-05,5,7680 Second Ave,Chicago,CA,55934,Inactive,2023-06-26
+CUST_0847,John Anderson,john.anderson@company.com,297-381-5656,70,85858,Finance,2022-01-22,5,6608 Park Rd,Houston,CA,87678,Inactive,2023-02-22
+CUST_0848,Chris Jones,chris.jones@company.com,282-369-2676,26,98461,IT,2021-11-07,5,9703 Second Ave,Phoenix,CA,37434,Inactive,2023-01-02
+CUST_0849,Anna Brown,anna.brown@company.com,193-922-3400,27,51603,Legal,2020-01-01,3,1275 Main St,Chicago,CA,65758,On Leave,2023-06-17
+CUST_0850,Emma Rodriguez,emma.rodriguez@company.com,878-220-4944,53,81543,IT,2022-02-28,4,5817 Park Rd,Philadelphia,CA,89348,Inactive,2023-03-27
+CUST_0851,Tom Lopez,tom.lopez@company.com,246-960-8163,53,87887,Legal,2023-11-24,3,1971 Second Ave,San Antonio,PA,33332,Active,2023-07-07
+CUST_0852,Michael Gonzalez,michael.gonzalez@company.com,786-454-7948,31,110868,HR,2022-02-22,3,2933 Elm St,New York,TX,67944,Terminated,2023-09-27
+CUST_0853,Chris Smith,chris.smith@company.com,700-417-6381,24,78348,Finance,2022-10-26,1,9942 Park Rd,New York,AZ,94105,On Leave,2023-07-23
+CUST_0854,Jane Lopez,jane.lopez@company.com,821-359-5492,58,37500,Sales,2022-08-22,5,7447 First St,Chicago,CA,94875,Active,2023-01-20
+CUST_0855,Mary Smith,mary.smith@company.com,727-830-3509,63,53187,Engineering,2020-06-18,4,1957 Main St,San Diego,NY,51187,Active,2023-10-06
+CUST_0856,Tom Wilson,tom.wilson@company.com,298-770-1273,39,118079,Operations,2023-12-23,2,9615 Elm St,Philadelphia,NY,97096,On Leave,2023-08-02
+CUST_0857,Jane Johnson,jane.johnson@company.com,297-944-9216,27,64948,Marketing,2020-12-19,4,730 Park Rd,Houston,TX,32671,Active,2023-06-09
+CUST_0858,Tom Rodriguez,tom.rodriguez@company.com,459-220-6594,47,104471,Marketing,2023-03-05,4,1445 Main St,Los Angeles,IL,21326,Inactive,2023-06-12
+CUST_0859,John Gonzalez,john.gonzalez@company.com,273-907-1171,31,113616,Operations,2022-07-31,1,4043 Park Rd,Houston,IL,50696,Active,2023-07-14
+CUST_0860,Emma Williams,emma.williams@company.com,385-243-6169,44,59617,HR,2021-07-12,2,2902 Park Rd,Phoenix,CA,44674,Active,2023-09-08
+CUST_0861,Mary Martinez,mary.martinez@company.com,472-457-9569,46,112709,Engineering,2020-03-16,5,6319 Oak Ave,Houston,TX,55471,Terminated,2023-04-17
+CUST_0862,James Lopez,james.lopez@company.com,615-664-5406,23,97275,HR,2021-06-12,2,7663 Park Rd,New York,CA,77768,Inactive,2023-09-01
+CUST_0863,David Davis,david.davis@company.com,700-430-7099,54,79533,Sales,2021-10-22,1,5880 Maple Ave,New York,IL,65234,On Leave,2023-06-21
+CUST_0864,James Hernandez,james.hernandez@company.com,202-291-6865,37,51331,Legal,2023-01-24,2,357 First St,San Diego,TX,62341,On Leave,2023-05-05
+CUST_0865,Tom Lopez,tom.lopez@company.com,482-715-6535,48,118939,IT,2021-09-06,1,3839 Maple Ave,Los Angeles,TX,65822,Terminated,2023-10-23
+CUST_0866,Robert Martinez,robert.martinez@company.com,129-267-9391,28,69397,HR,2023-03-09,2,2129 Elm St,Philadelphia,NY,21848,Terminated,2023-03-14
+CUST_0867,Mary Davis,mary.davis@company.com,505-269-8546,18,116325,Engineering,2021-02-14,2,4937 Park Rd,Los Angeles,IL,40957,Inactive,2023-08-12
+CUST_0868,Mike Lopez,mike.lopez@company.com,350-257-7131,18,92566,Engineering,2021-12-06,1,7714 Second Ave,San Antonio,TX,71906,On Leave,2023-08-26
+CUST_0869,Anna Gonzalez,anna.gonzalez@company.com,198-496-3105,38,47501,IT,2021-10-31,3,6957 Second Ave,San Antonio,CA,55464,On Leave,2023-12-09
+CUST_0870,John Brown,john.brown@company.com,723-282-4852,41,77484,Operations,2022-10-23,1,9817 Maple Ave,San Antonio,CA,94617,Inactive,2023-03-12
+CUST_0871,Linda Brown,linda.brown@company.com,145-316-5946,45,42170,Operations,2022-02-25,2,6975 Oak Ave,Phoenix,AZ,60700,On Leave,2023-01-18
+CUST_0872,Tom Miller,tom.miller@company.com,283-267-7524,61,97809,Marketing,2022-08-10,1,5674 Elm St,Los Angeles,TX,11602,Inactive,2023-06-13
+CUST_0873,David Martinez,david.martinez@company.com,619-493-8449,18,93719,IT,2022-05-15,1,4964 First St,Phoenix,CA,89119,On Leave,2023-09-15
+CUST_0874,Mary Gonzalez,mary.gonzalez@company.com,584-829-6489,52,77823,Marketing,2021-01-01,4,8712 Maple Ave,San Antonio,CA,29711,Active,2023-06-22
+CUST_0875,Tom Brown,tom.brown@company.com,627-932-8454,45,36362,Legal,2021-07-30,1,1992 Maple Ave,San Diego,CA,58117,Active,2023-11-03
+CUST_0876,Mary Jones,mary.jones@company.com,535-445-5852,67,33084,Finance,2021-01-01,3,5848 First St,New York,CA,52550,Terminated,2023-11-22
+CUST_0877,Jane Martinez,jane.martinez@company.com,214-465-1599,52,81932,HR,2020-12-24,1,8766 Main St,Chicago,IL,92958,On Leave,2023-08-09
+CUST_0878,Tom Garcia,tom.garcia@company.com,569-805-4999,70,98623,Legal,2020-03-24,1,5351 Park Rd,New York,IL,89869,Active,2023-07-15
+CUST_0879,William Lopez,william.lopez@company.com,180-445-5947,45,82525,Sales,2021-01-11,3,1299 Maple Ave,San Antonio,CA,35119,Terminated,2023-06-05
+CUST_0880,William Rodriguez,william.rodriguez@company.com,974-912-4993,62,36400,Operations,2023-03-20,4,3526 Maple Ave,San Antonio,AZ,34341,Terminated,2023-09-14
+CUST_0881,Jane Martinez,jane.martinez@company.com,508-285-5668,35,30662,IT,2021-02-28,1,6789 Elm St,Chicago,AZ,45003,On Leave,2023-11-03
+CUST_0882,James Johnson,james.johnson@company.com,326-330-1296,63,72547,HR,2020-05-10,5,4716 Elm St,San Diego,TX,93200,Terminated,2023-10-05
+CUST_0883,Robert Davis,robert.davis@company.com,671-112-6618,39,71896,Operations,2022-06-29,2,7569 Maple Ave,San Diego,TX,79761,Inactive,2023-12-11
+CUST_0884,Robert Jones,robert.jones@company.com,512-133-2287,58,93771,Operations,2020-06-19,2,8677 Park Rd,Phoenix,AZ,51331,On Leave,2023-12-12
+CUST_0885,Michael Smith,michael.smith@company.com,259-739-3731,57,76088,IT,2022-04-30,1,4652 Second Ave,San Diego,TX,59189,Inactive,2023-07-13
+CUST_0886,Sarah Johnson,sarah.johnson@company.com,505-323-4462,25,104808,Finance,2020-12-31,2,6572 Second Ave,San Antonio,PA,38541,On Leave,2023-11-03
+CUST_0887,Tom Garcia,tom.garcia@company.com,888-471-2730,60,112984,Operations,2022-10-25,5,8725 First St,Houston,TX,74858,On Leave,2023-05-27
+CUST_0888,Michael Williams,michael.williams@company.com,994-281-7554,36,30437,Operations,2022-08-08,2,1611 First St,San Antonio,TX,63778,Inactive,2023-11-22
+CUST_0889,John Martinez,john.martinez@company.com,329-241-9247,23,108586,IT,2020-02-16,3,9992 Oak Ave,Chicago,CA,99700,Active,2023-07-09
+CUST_0890,John Lopez,john.lopez@company.com,715-908-7378,53,97021,HR,2020-11-26,4,6047 Elm St,Houston,IL,71888,Inactive,2023-06-15
+CUST_0891,David Jones,david.jones@company.com,166-131-4391,54,90447,Legal,2021-05-16,5,7269 Oak Ave,Chicago,CA,75564,Active,2023-11-06
+CUST_0892,James Wilson,james.wilson@company.com,263-350-8572,64,39154,Sales,2020-03-07,4,8516 First St,San Antonio,CA,64668,Terminated,2023-10-03
+CUST_0893,Sarah Lopez,sarah.lopez@company.com,895-721-9751,63,33109,Legal,2022-09-11,1,4800 Maple Ave,San Antonio,NY,57628,On Leave,2023-09-19
+CUST_0894,Michael Miller,michael.miller@company.com,906-227-2697,27,64406,Marketing,2020-12-12,3,6765 Elm St,Philadelphia,IL,41859,On Leave,2023-04-18
+CUST_0895,Tom Johnson,tom.johnson@company.com,437-757-2213,47,94431,HR,2021-06-16,3,4839 Elm St,San Diego,PA,69031,Terminated,2023-10-18
+CUST_0896,Tom Martinez,tom.martinez@company.com,136-879-3294,27,98390,Finance,2020-02-23,2,6077 Second Ave,Philadelphia,AZ,50194,Inactive,2023-10-18
+CUST_0897,Emma Davis,emma.davis@company.com,830-550-5831,27,46849,Engineering,2023-05-29,3,6296 Park Rd,Houston,NY,37742,Terminated,2023-03-17
+CUST_0898,John Jones,john.jones@company.com,472-838-9332,65,97740,IT,2022-09-03,5,2792 Park Rd,Chicago,PA,78594,Terminated,2023-07-13
+CUST_0899,Linda Hernandez,linda.hernandez@company.com,273-991-9605,48,52988,Legal,2022-02-16,1,1061 Park Rd,Houston,AZ,37057,Inactive,2023-03-18
+CUST_0900,Tom Martinez,tom.martinez@company.com,896-846-2959,59,55813,Operations,2022-10-18,4,9330 Elm St,New York,TX,36546,Terminated,2023-12-07
+CUST_0901,Jane Miller,jane.miller@company.com,741-201-6398,50,38807,Finance,2023-02-07,5,8811 Maple Ave,Los Angeles,NY,68541,Inactive,2023-05-06
+CUST_0902,Tom Gonzalez,tom.gonzalez@company.com,857-287-5015,32,89777,Engineering,2020-03-23,5,4355 Second Ave,Phoenix,CA,34905,Active,2023-03-09
+CUST_0903,William Jones,william.jones@company.com,162-312-4728,33,106765,Legal,2022-08-08,1,8798 Maple Ave,New York,PA,93087,Active,2023-04-11
+CUST_0904,Linda Johnson,linda.johnson@company.com,552-185-8799,30,43090,HR,2023-05-10,4,4915 Second Ave,New York,TX,24617,On Leave,2023-11-26
+CUST_0905,Chris Martinez,chris.martinez@company.com,925-750-8475,18,62997,IT,2023-05-16,3,8071 Elm St,Chicago,PA,76491,On Leave,2023-09-21
+CUST_0906,Emma Hernandez,emma.hernandez@company.com,406-370-9719,33,74714,Finance,2023-10-20,5,8243 Park Rd,San Diego,CA,33878,On Leave,2023-01-04
+CUST_0907,James Anderson,james.anderson@company.com,621-581-9122,28,53435,Marketing,2022-06-03,3,1550 Maple Ave,San Diego,PA,93608,Inactive,2023-04-10
+CUST_0908,Sarah Gonzalez,sarah.gonzalez@company.com,337-318-6033,50,70027,Operations,2022-12-22,4,1687 Elm St,Phoenix,TX,84843,Inactive,2023-06-15
+CUST_0909,Lisa Brown,lisa.brown@company.com,884-505-3814,28,109970,Engineering,2021-10-28,5,7763 Elm St,San Antonio,AZ,39979,Terminated,2023-08-30
+CUST_0910,Emma Garcia,emma.garcia@company.com,248-413-6467,64,76390,Operations,2022-07-10,3,6969 Second Ave,San Antonio,TX,10743,On Leave,2023-01-29
+CUST_0911,Jennifer Garcia,jennifer.garcia@company.com,761-924-3292,47,65940,Sales,2023-12-13,2,3418 Elm St,Phoenix,AZ,58952,Active,2023-06-14
+CUST_0912,Jennifer Gonzalez,jennifer.gonzalez@company.com,491-433-4267,69,58177,Legal,2021-07-15,1,1220 Oak Ave,Chicago,PA,72872,On Leave,2023-01-24
+CUST_0913,Robert Lopez,robert.lopez@company.com,823-598-5093,35,109522,IT,2020-05-01,1,920 Elm St,Philadelphia,AZ,80503,Terminated,2023-08-13
+CUST_0914,Emma Johnson,emma.johnson@company.com,583-237-2212,38,84234,Engineering,2020-11-04,5,4897 Second Ave,Houston,CA,67443,Inactive,2023-06-17
+CUST_0915,Elizabeth Gonzalez,elizabeth.gonzalez@company.com,776-366-9700,70,68196,Sales,2020-10-14,1,5144 Maple Ave,Philadelphia,CA,38155,Inactive,2023-06-14
+CUST_0916,Michael Brown,michael.brown@company.com,571-470-6456,30,118823,Finance,2021-06-06,5,380 Oak Ave,Los Angeles,TX,66011,On Leave,2023-09-07
+CUST_0917,Jane Wilson,jane.wilson@company.com,641-161-9392,41,32123,IT,2020-03-06,5,5359 Maple Ave,San Diego,AZ,85342,Terminated,2023-11-21
+CUST_0918,Mike Lopez,mike.lopez@company.com,177-678-2509,53,44723,Engineering,2022-11-17,1,9404 First St,Houston,CA,99647,On Leave,2023-05-22
+CUST_0919,Michael Davis,michael.davis@company.com,856-255-6413,22,53812,Operations,2022-07-18,5,7085 Main St,San Antonio,AZ,10832,On Leave,2023-01-10
+CUST_0920,John Brown,john.brown@company.com,430-537-3465,34,59214,Operations,2022-12-26,4,3283 Maple Ave,Philadelphia,IL,34752,Inactive,2023-04-16
+CUST_0921,Emma Williams,emma.williams@company.com,203-126-9739,56,35171,Engineering,2023-01-11,3,1135 Park Rd,Philadelphia,TX,96267,Inactive,2023-04-14
+CUST_0922,Emma Williams,emma.williams@company.com,534-377-4817,31,76575,Sales,2020-10-08,4,2018 Maple Ave,San Antonio,NY,68189,Inactive,2023-07-14
+CUST_0923,Jane Davis,jane.davis@company.com,549-508-4254,31,79873,Marketing,2020-07-09,2,8302 Second Ave,Los Angeles,IL,37477,Active,2023-09-08
+CUST_0924,Mary Lopez,mary.lopez@company.com,424-525-4129,31,41900,Operations,2022-09-05,3,8336 Main St,San Diego,NY,10951,On Leave,2023-08-04
+CUST_0925,Robert Wilson,robert.wilson@company.com,202-463-6904,37,38559,IT,2023-08-28,3,3758 Elm St,Los Angeles,TX,71782,Active,2023-05-21
+CUST_0926,James Smith,james.smith@company.com,244-967-5079,29,104000,Sales,2020-09-19,5,2552 Oak Ave,San Diego,NY,18019,Inactive,2023-12-05
+CUST_0927,Emma Garcia,emma.garcia@company.com,732-524-3580,44,52599,Engineering,2022-11-28,2,2976 Park Rd,Los Angeles,IL,13929,On Leave,2023-04-15
+CUST_0928,Emma Miller,emma.miller@company.com,740-482-5344,57,72083,Sales,2020-02-22,3,467 First St,New York,IL,63432,Active,2023-10-04
+CUST_0929,Robert Gonzalez,robert.gonzalez@company.com,712-839-9604,28,50731,Marketing,2020-01-31,3,3649 Main St,San Antonio,CA,24733,On Leave,2023-08-26
+CUST_0930,Jennifer Wilson,jennifer.wilson@company.com,649-550-3202,56,113473,Sales,2021-09-29,4,7693 Park Rd,Chicago,PA,96032,Terminated,2023-11-11
+CUST_0931,Sarah Davis,sarah.davis@company.com,604-866-4215,26,58745,Engineering,2020-10-19,2,1347 Elm St,Los Angeles,TX,47001,Active,2023-05-08
+CUST_0932,Anna Jones,anna.jones@company.com,289-847-5933,39,90574,Finance,2020-09-26,3,6915 Park Rd,Chicago,NY,60466,Active,2023-04-12
+CUST_0933,Lisa Smith,lisa.smith@company.com,246-749-1558,68,61172,Engineering,2022-03-23,3,192 Second Ave,San Diego,CA,55075,Inactive,2023-11-18
+CUST_0934,Robert Davis,robert.davis@company.com,319-564-5305,52,87653,Marketing,2021-07-26,5,5528 Park Rd,Chicago,AZ,54693,On Leave,2023-10-09
+CUST_0935,Michael Hernandez,michael.hernandez@company.com,198-784-6609,66,98035,Finance,2020-05-09,3,6989 Elm St,New York,IL,22397,Inactive,2023-08-23
+CUST_0936,Sarah Johnson,sarah.johnson@company.com,663-829-5844,26,75563,Finance,2022-07-15,4,9066 Main St,Chicago,TX,76965,Inactive,2023-03-14
+CUST_0937,Anna Gonzalez,anna.gonzalez@company.com,117-303-6798,51,108765,Engineering,2023-02-26,5,8603 Main St,Philadelphia,TX,79582,Inactive,2023-07-11
+CUST_0938,Lisa Johnson,lisa.johnson@company.com,796-269-4707,66,49929,IT,2021-02-18,3,802 First St,Phoenix,TX,78386,On Leave,2023-09-01
+CUST_0939,Michael Garcia,michael.garcia@company.com,239-838-5915,18,39813,Finance,2023-12-21,5,5106 Oak Ave,Los Angeles,NY,63788,Inactive,2023-03-15
+CUST_0940,Linda Wilson,linda.wilson@company.com,264-882-4972,43,50898,IT,2022-03-11,5,3169 Oak Ave,Philadelphia,CA,39662,Terminated,2023-03-13
+CUST_0941,Robert Johnson,robert.johnson@company.com,843-857-3487,31,88114,Engineering,2023-10-08,3,5366 Main St,Los Angeles,AZ,78713,Active,2023-11-18
+CUST_0942,Linda Brown,linda.brown@company.com,776-548-5895,70,46366,Legal,2020-11-10,1,5594 Park Rd,New York,TX,43482,Active,2023-11-17
+CUST_0943,Michael Miller,michael.miller@company.com,699-272-8983,66,68155,HR,2022-12-06,1,1452 Elm St,Philadelphia,TX,97151,On Leave,2023-12-26
+CUST_0944,Jennifer Miller,jennifer.miller@company.com,158-753-2723,67,66726,Finance,2021-05-30,5,5388 First St,Phoenix,PA,20891,Active,2023-02-21
+CUST_0945,Linda Brown,linda.brown@company.com,699-606-4627,55,86854,Finance,2020-07-31,4,9187 Second Ave,San Antonio,TX,15518,Active,2023-10-30
+CUST_0946,Sarah Martinez,sarah.martinez@company.com,197-220-4909,41,106037,IT,2022-03-17,1,5691 Elm St,San Diego,CA,85149,Active,2023-07-24
+CUST_0947,Jennifer Hernandez,jennifer.hernandez@company.com,126-321-3961,19,112643,Operations,2020-07-21,3,6753 Maple Ave,New York,CA,43228,Terminated,2023-12-16
+CUST_0948,Mary Garcia,mary.garcia@company.com,354-383-8307,68,36265,Operations,2022-07-27,3,2632 Oak Ave,Philadelphia,TX,55683,Inactive,2023-09-13
+CUST_0949,Mike Garcia,mike.garcia@company.com,460-731-9818,65,59828,Operations,2021-09-18,1,1482 Elm St,San Antonio,PA,91500,On Leave,2023-11-24
+CUST_0950,Lisa Gonzalez,lisa.gonzalez@company.com,491-307-5336,63,93627,Operations,2021-11-21,4,5923 Maple Ave,Chicago,IL,52304,Active,2023-02-27
+CUST_0951,Chris Martinez,chris.martinez@company.com,417-618-5853,66,103389,Engineering,2022-03-26,5,1245 Oak Ave,Los Angeles,CA,88377,On Leave,2023-05-15
+CUST_0952,David Lopez,david.lopez@company.com,448-645-6796,43,47436,IT,2020-07-31,3,9341 Main St,Philadelphia,TX,68004,Active,2023-05-06
+CUST_0953,Elizabeth Williams,elizabeth.williams@company.com,783-380-1431,49,59421,HR,2021-05-17,2,7215 Elm St,Houston,IL,11627,Terminated,2023-05-05
+CUST_0954,John Wilson,john.wilson@company.com,726-594-8191,44,102918,HR,2022-04-24,2,8497 Second Ave,San Antonio,TX,44274,Terminated,2023-05-15
+CUST_0955,Jennifer Garcia,jennifer.garcia@company.com,473-340-6245,52,76802,Marketing,2023-11-20,2,5271 Maple Ave,Houston,IL,22664,On Leave,2023-10-02
+CUST_0956,James Johnson,james.johnson@company.com,926-946-4732,64,75657,HR,2022-08-10,3,9409 Maple Ave,New York,CA,91108,On Leave,2023-09-12
+CUST_0957,Jennifer Johnson,jennifer.johnson@company.com,275-122-8347,53,115233,Sales,2021-12-12,4,2423 Main St,Philadelphia,CA,46187,Terminated,2023-01-15
+CUST_0958,Linda Miller,linda.miller@company.com,821-882-3184,43,58207,Legal,2021-09-26,5,4992 Park Rd,Houston,TX,28904,Terminated,2023-01-04
+CUST_0959,Jane Lopez,jane.lopez@company.com,872-466-2960,67,39307,Marketing,2022-12-20,4,2642 Elm St,Houston,TX,88843,Inactive,2023-04-03
+CUST_0960,John Hernandez,john.hernandez@company.com,606-846-2957,39,41679,Marketing,2022-04-06,5,6348 Maple Ave,San Antonio,TX,72181,Inactive,2023-06-25
+CUST_0961,Lisa Johnson,lisa.johnson@company.com,418-463-3906,63,86408,Finance,2022-10-20,1,3024 Park Rd,San Antonio,TX,39706,Terminated,2023-11-28
+CUST_0962,Mike Garcia,mike.garcia@company.com,562-869-2540,51,63786,Sales,2023-05-26,1,9128 Main St,Philadelphia,CA,32087,Active,2023-09-28
+CUST_0963,John Smith,john.smith@company.com,434-493-6017,19,104459,Operations,2020-05-22,2,3089 Elm St,San Diego,IL,80151,Inactive,2023-06-26
+CUST_0964,Sarah Wilson,sarah.wilson@company.com,799-258-7130,54,53190,Legal,2023-12-17,2,8313 Oak Ave,San Diego,NY,91537,Active,2023-10-03
+CUST_0965,Sarah Gonzalez,sarah.gonzalez@company.com,419-398-2765,40,119526,Engineering,2023-04-23,5,2743 Main St,San Diego,TX,89102,Inactive,2023-11-10
+CUST_0966,James Davis,james.davis@company.com,774-661-7370,68,88711,Marketing,2023-10-01,5,1073 Park Rd,Houston,PA,28531,Inactive,2023-09-09
+CUST_0967,Chris Gonzalez,chris.gonzalez@company.com,513-142-6870,21,92970,Marketing,2022-11-30,1,5252 Second Ave,San Antonio,TX,47035,Terminated,2023-03-11
+CUST_0968,Michael Gonzalez,michael.gonzalez@company.com,302-399-7984,43,87034,IT,2020-06-17,4,391 First St,Los Angeles,PA,83564,On Leave,2023-11-09
+CUST_0969,Robert Jones,robert.jones@company.com,609-905-5705,67,119660,Sales,2022-12-16,1,3082 Main St,Phoenix,IL,94008,Terminated,2023-01-25
+CUST_0970,Elizabeth Smith,elizabeth.smith@company.com,148-410-7306,30,76106,Sales,2023-11-02,4,8330 Second Ave,Chicago,PA,99277,Active,2023-04-20
+CUST_0971,Sarah Davis,sarah.davis@company.com,290-326-6247,22,56687,Legal,2021-02-27,5,256 Main St,San Antonio,TX,25247,Terminated,2023-01-03
+CUST_0972,Anna Hernandez,anna.hernandez@company.com,933-951-6419,29,81107,HR,2022-01-31,4,734 Oak Ave,Chicago,TX,91495,Terminated,2023-08-05
+CUST_0973,Emma Brown,emma.brown@company.com,999-769-5466,44,31340,IT,2022-04-27,4,4557 Maple Ave,Houston,CA,43216,Active,2023-11-17
+CUST_0974,Robert Smith,robert.smith@company.com,812-885-8358,26,116895,HR,2020-05-24,1,1889 Oak Ave,San Diego,CA,34033,Terminated,2023-03-27
+CUST_0975,Tom Hernandez,tom.hernandez@company.com,832-811-7524,36,100288,Finance,2021-08-06,5,4285 Main St,Los Angeles,TX,36493,Active,2023-10-12
+CUST_0976,Linda Brown,linda.brown@company.com,230-630-1584,48,92759,Marketing,2020-08-16,2,624 Maple Ave,San Antonio,IL,20958,Active,2023-05-04
+CUST_0977,Jennifer Martinez,jennifer.martinez@company.com,479-548-3338,46,108250,Sales,2023-09-19,5,3097 Maple Ave,Houston,PA,15735,Active,2023-03-20
+CUST_0978,James Wilson,james.wilson@company.com,356-279-6736,47,56299,Sales,2022-03-12,4,2509 Park Rd,Los Angeles,TX,34112,Inactive,2023-06-21
+CUST_0979,Michael Smith,michael.smith@company.com,992-551-2136,33,108860,Finance,2023-02-14,2,2349 Second Ave,Philadelphia,NY,24596,Active,2023-07-29
+CUST_0980,William Rodriguez,william.rodriguez@company.com,117-733-3783,64,72160,Operations,2020-03-19,2,1701 Elm St,Houston,NY,59966,Active,2023-10-16
+CUST_0981,Jane Wilson,jane.wilson@company.com,496-887-2960,32,112350,Sales,2023-02-28,5,1212 Main St,San Diego,TX,47023,On Leave,2023-08-19
+CUST_0982,Anna Hernandez,anna.hernandez@company.com,602-727-5096,40,113453,Legal,2022-09-08,2,7442 Second Ave,Philadelphia,TX,28927,Terminated,2023-11-23
+CUST_0983,Lisa Miller,lisa.miller@company.com,363-264-7030,65,32744,IT,2021-09-06,2,698 First St,San Antonio,TX,62721,Inactive,2023-11-17
+CUST_0984,Mary Brown,mary.brown@company.com,515-531-7844,47,89285,Legal,2022-03-06,4,5957 Park Rd,Philadelphia,TX,27447,Inactive,2023-05-06
+CUST_0985,Chris Lopez,chris.lopez@company.com,295-682-4188,64,116419,Operations,2022-08-06,5,6689 Park Rd,Phoenix,TX,61488,Inactive,2023-08-29
+CUST_0986,Sarah Rodriguez,sarah.rodriguez@company.com,767-563-5920,67,111735,IT,2020-04-14,2,3559 Park Rd,Chicago,TX,77829,On Leave,2023-04-03
+CUST_0987,Michael Smith,michael.smith@company.com,810-311-7323,54,117424,Engineering,2021-07-13,5,2554 Elm St,San Antonio,TX,29750,On Leave,2023-06-12
+CUST_0988,Michael Brown,michael.brown@company.com,988-856-3139,66,93790,Operations,2023-06-04,5,8694 Elm St,New York,CA,18566,Active,2023-01-11
+CUST_0989,John Anderson,john.anderson@company.com,982-990-1864,39,41789,Operations,2021-12-31,2,2468 Oak Ave,Phoenix,CA,57571,Terminated,2023-10-26
+CUST_0990,Michael Davis,michael.davis@company.com,446-820-3870,36,69746,Marketing,2023-02-24,2,2491 Oak Ave,San Antonio,CA,79770,On Leave,2023-03-23
+CUST_0991,Elizabeth Rodriguez,elizabeth.rodriguez@company.com,743-580-5607,62,62688,Marketing,2023-09-21,2,7290 Main St,New York,IL,59931,On Leave,2023-07-14
+CUST_0992,Linda Williams,linda.williams@company.com,885-120-6937,46,106662,Engineering,2022-07-05,1,8058 Elm St,Philadelphia,PA,21142,Terminated,2023-02-05
+CUST_0993,Lisa Williams,lisa.williams@company.com,739-407-7449,27,44545,HR,2023-07-22,3,4790 Elm St,Los Angeles,PA,89011,On Leave,2023-01-09
+CUST_0994,Jennifer Williams,jennifer.williams@company.com,473-971-5140,30,97295,Finance,2022-12-01,1,8022 Park Rd,Chicago,NY,95118,Inactive,2023-12-25
+CUST_0995,Emma Jones,emma.jones@company.com,559-543-6529,20,65761,Legal,2023-09-12,1,5455 Second Ave,New York,IL,91811,Active,2023-10-21
+CUST_0996,John Jones,john.jones@company.com,489-304-8702,42,80907,Sales,2023-11-24,3,6147 Park Rd,Philadelphia,TX,63371,Terminated,2023-03-09
+CUST_0997,Mary Lopez,mary.lopez@company.com,367-665-4160,49,66915,Finance,2020-06-19,4,1390 Maple Ave,Philadelphia,CA,13015,Inactive,2023-02-24
+CUST_0998,Anna Johnson,anna.johnson@company.com,281-482-2064,27,104961,HR,2020-06-27,1,159 Elm St,New York,PA,90931,Active,2023-03-21
+CUST_0999,Michael Hernandez,michael.hernandez@company.com,994-438-2733,57,45987,Sales,2023-12-13,2,3269 Elm St,Los Angeles,IL,22019,Active,2023-01-02

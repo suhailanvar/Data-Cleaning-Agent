@@ -1,0 +1,16 @@
+Name,Age,Email,Salary,Department,Join_Date,Phone,City
+John Doe,25,john.doe@email.com,50000,Engineering,2022-01-15,555-1234,New York
+Jane Smith,30,jane.smith@gmail.com,65000,Marketing,2021-05-20,555-5678,Los Angeles
+Bob Johnson,,bob@company.com,45000,Engineering,2023-03-10,555-9012,Chicago
+Alice Brown,28,alice.brown@email.com,,Marketing,2022-08-05,555-3456,Boston
+Mike Davis,35,mike.davis@gmail.com,75000,Sales,2020-12-01,555-7890,Seattle
+Sarah Wilson,27,sarah@email.com,55000,Engineering,invalid_date,555-2468,Miami
+Tom Anderson,32,tom.anderson@company.com,60000,HR,2021-11-30,,Denver
+Lisa Garcia,29,lisa.garcia@gmail.com,58000,Marketing,2022-07-12,555-1357,Austin
+David Miller,31,DAVID.MILLER@EMAIL.COM,70000,Sales,2020-09-15,555-8024,Portland
+Emma Thompson,26,emma.thompson@gmail.com,52000,engineering,2023-01-08,555-9753,Nashville
+Chris Lee,33,chris.lee@company.com,68000,HR,2021-02-28,555-4680,Phoenix
+Amy Johnson,24,amy@email.com,48000,Marketing,2023-05-17,555-1590,Orlando
+Kevin Brown,36,kevin.brown@gmail.com,80000,SALES,2019-10-22,555-7531,San Diego
+Rachel Davis,28,rachel.davis@email.com,56000,Engineering,2022-04-14,555-3579,Las Vegas
+Mark Wilson,30,mark.wilson@company.com,62000,HR,2021-08-09,555-9513,Atlanta
