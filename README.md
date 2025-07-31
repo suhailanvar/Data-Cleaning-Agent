@@ -36,6 +36,14 @@ An intelligent, AI-powered data cleaning application that analyzes your CSV data
 
 ## 🚀 Quick Start
 
+### 🌐 Try It Online (Recommended)
+
+**🔗 [Live Demo on Streamlit Cloud](https://data-cleaning-agent.streamlit.app)** *(Replace with your actual URL after deployment)*
+
+No installation required! Just click the link above to start using the app immediately.
+
+### 🏠 Local Installation
+
 ### Prerequisites
 - Python 3.8 or higher
 - Git
@@ -65,6 +73,10 @@ An intelligent, AI-powered data cleaning application that analyzes your CSV data
    ```
 
 5. **Open your browser** to `http://localhost:8501`
+
+### 🚀 Deploy Your Own
+
+Want to deploy your own instance? See our detailed [Deployment Guide](DEPLOYMENT.md) for step-by-step instructions to deploy on Streamlit Cloud.
 
 ## 🛠️ Usage Guide
 

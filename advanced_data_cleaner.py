@@ -30,8 +30,14 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # ---- Config ----
-# Default API key from environment - not displayed in UI for security
-DEFAULT_OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY", "")
+# API key from environment variables or Streamlit secrets
+try:
+    # Try Streamlit secrets first (for cloud deployment)
+    DEFAULT_OPENROUTER_API_KEY = st.secrets.get("OPENROUTER_API_KEY", "")
+except:
+    # Fallback to environment variables (for local development)
+    DEFAULT_OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY", "")
+
 OLLAMA_BASE_URL = "http://localhost:11434"
 DEFAULT_OLLAMA_MODEL = "llama3.2"
 OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions"

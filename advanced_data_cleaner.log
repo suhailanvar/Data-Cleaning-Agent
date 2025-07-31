@@ -11536,3 +11536,13 @@ This allows you to effectively validate your data cleaning process and understan
 2025-07-31 19:30:09,696 - __main__ - DEBUG - Cleaned CSV download button created
 2025-07-31 19:30:09,697 - __main__ - DEBUG - Cleaning code download button created
 2025-07-31 19:30:09,699 - __main__ - DEBUG - Cleaning report download button created
+2025-07-31 19:31:50,485 - __main__ - INFO - Advanced Data Cleaning application started
+2025-07-31 19:31:50,486 - __main__ - INFO - Logging configured - Log file: advanced_data_cleaner.log
+2025-07-31 19:31:50,513 - __main__ - INFO - Loaded CSV file: messy_test_data.csv, shape: (1000, 15), memory: 0.8 MB
+2025-07-31 19:31:50,523 - __main__ - DEBUG - Dataset columns: ['customer_id', 'name', 'email', 'phone', 'age', 'salary', 'department', 'hire_date', 'performance_score', 'address', 'city', 'state', 'zip_code', 'employee_status', 'last_review_date']
+2025-07-31 19:31:50,524 - __main__ - DEBUG - Data types: {'customer_id': dtype('O'), 'name': dtype('O'), 'email': dtype('O'), 'phone': dtype('O'), 'age': dtype('O'), 'salary': dtype('O'), 'department': dtype('O'), 'hire_date': dtype('O'), 'performance_score': dtype('float64'), 'address': dtype('O'), 'city': dtype('O'), 'state': dtype('O'), 'zip_code': dtype('O'), 'employee_status': dtype('O'), 'last_review_date': dtype('O')}
+2025-07-31 19:31:50,530 - __main__ - INFO - Displaying results from session state
+2025-07-31 19:31:50,566 - __main__ - DEBUG - Processing info: OpenRouter/google/gemma-3-27b-it:free, 3 samples
+2025-07-31 19:31:50,663 - __main__ - DEBUG - Cleaned CSV download button created
+2025-07-31 19:31:50,663 - __main__ - DEBUG - Cleaning code download button created
+2025-07-31 19:31:50,665 - __main__ - DEBUG - Cleaning report download button created
