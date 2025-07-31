@@ -281,7 +281,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **Issues**: [GitHub Issues](https://github.com/suhailanvar/Data-Cleaning-Agent/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/suhailanvar/Data-Cleaning-Agent/discussions)
-- **Email**: suhailanvar@example.com
+- **Email**: suhail.anvarsadath@gmail.com
 
 ## 🗺️ Roadmap
 
