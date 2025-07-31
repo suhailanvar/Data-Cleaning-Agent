@@ -14,5 +14,8 @@ python-dotenv>=1.0.0
 # Date and time handling
 python-dateutil>=2.8.2
 
+# Visualization
+plotly>=5.15.0
+
 # Additional dependencies for cloud deployment
 click>=8.0.0
